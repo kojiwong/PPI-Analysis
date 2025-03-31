@@ -1,0 +1,85 @@
+,Cluster_idx,Cluster Intact + Cyc Overlap,Cluster EPIC Overlap,String Enriched
+0,0,'',,1
+1,1,'CPX-1738',,1
+2,2,'',,1
+3,3,'CPX-1193',,1
+4,4,'',,1
+5,5,'CPX-2262',"'413;CORUM;193;PA700-20S-PA28 complex,1365;QuickGO;GO:0000502', '775;CORUM;181;26S proteasome', '520;CORUM;194;PA28gamma-20S proteasome,1117;CORUM;192;PA28-20S proteasome'",1
+6,6,'',,0
+7,7,'',,1
+8,8,'',,0
+9,9,'',,1
+10,10,'',,0
+11,11,'',,1
+12,12,'',,1
+13,13,'',,1
+14,14,'',,0
+15,15,'',,1
+16,16,'',,0
+17,17,'',,0
+18,18,'',,1
+19,19,'',,0
+20,20,'',,0
+21,21,'',,0
+22,22,'CPX-1630',,1
+23,23,'',,0
+24,24,'',,1
+25,25,'',,0
+26,26,'',,1
+27,27,'',,1
+28,28,'',,1
+29,29,'',,0
+30,30,'CPX-1671',"'920;CORUM;112;Prefoldin complex,687;CORUM;145;""CCT-Prefoldin complex, CCT6A variant"",1161;CORUM;3074;""CCT-Prefoldin complex, CCT6B variant""'",1
+31,31,'',,0
+32,32,'',,1
+33,33,'COPII',,1
+34,34,'',,0
+35,35,'',,1
+36,36,'',,1
+37,37,'',,0
+38,38,'',,1
+39,39,'',,0
+40,40,'CPX-112',"'646;CORUM;562;LSm2-8 complex,767;CORUM;561;LSm1-7 complex', '139;IntAct;678;U4/U6.U5 small nuclear ribonucleoprotein complex'",1
+41,41,'',,0
+42,42,'',,1
+43,43,'',,1
+44,44,'',,0
+45,45,'',,0
+46,46,'',,0
+47,47,'',,1
+48,48,'',,1
+49,49,'',,1
+50,50,'',,0
+51,51,'',,0
+52,52,'',,0
+53,53,'',,0
+54,54,'',,1
+55,55,'',,0
+56,56,'',,0
+57,57,'',,0
+58,58,'',"'858;CORUM;1554;KPNB1-RAN-RANBP1complex', '1064;CORUM;8300;RAN-RANBP1-RCC1 complex'",0
+59,59,'',,0
+60,60,'',,0
+61,61,'',,0
+62,62,'',"'858;CORUM;1554;KPNB1-RAN-RANBP1complex', '1064;CORUM;8300;RAN-RANBP1-RCC1 complex'",0
+63,63,'',,1
+64,64,'',,1
+65,65,'',,0
+66,66,'',,1
+67,67,'',,1
+68,68,'',"'858;CORUM;1554;KPNB1-RAN-RANBP1complex', '1064;CORUM;8300;RAN-RANBP1-RCC1 complex'",0
+69,69,'',"'858;CORUM;1554;KPNB1-RAN-RANBP1complex', '1064;CORUM;8300;RAN-RANBP1-RCC1 complex'",0
+70,70,'',,0
+71,71,'',"'858;CORUM;1554;KPNB1-RAN-RANBP1complex', '1064;CORUM;8300;RAN-RANBP1-RCC1 complex'",0
+72,72,'CPX-1630',,0
+73,73,'',"'858;CORUM;1554;KPNB1-RAN-RANBP1complex', '1064;CORUM;8300;RAN-RANBP1-RCC1 complex'",0
+74,74,'',,0
+75,75,'',"'858;CORUM;1554;KPNB1-RAN-RANBP1complex', '1064;CORUM;8300;RAN-RANBP1-RCC1 complex', '1186;CORUM;8673;CSE1L-KPNA6-RAN complex'",1
+76,76,'CPX-1102',,1
+77,77,'',,0
+78,78,'',,0
+79,79,'',,0
+80,80,'',,0
+81,81,'',,1
+82,82,'',"'858;CORUM;1554;KPNB1-RAN-RANBP1complex', '1064;CORUM;8300;RAN-RANBP1-RCC1 complex'",0
+83,83,'CPX-588',,0

@@ -1,0 +1,383 @@
+,__mclCluster,Description1,Description2,name,selected,shared name,PlasmoDB_names
+0,1.0,Actin-2,,A0A144A3N9,False,A0A144A3N9,PF3D7_1412500
+1,1.0,Prefoldin subunit 3,Prefoldin subunit 3,Q8IBR6,False,Q8IBR6,PF3D7_0718500
+2,1.0,,"putative""",Q8ILS7,False,Q8ILS7,PF3D7_1416900
+3,1.0,"""Ran-specific GTPase-activating protein 1","""Ran-specific GTPase-activating protein 1",Q76NN6,False,Q76NN6,PF3D7_0419600
+4,1.0,"""Mitochondrial acidic protein MAM33","""Mitochondrial acidic protein MAM33",Q8ILB6,False,Q8ILB6,PF3D7_1434800
+5,1.0,"""U6 snRNA-associated Sm-like protein LSm7","""U6 snRNA-associated Sm-like protein LSm7",Q8I5V6,False,Q8I5V6,PF3D7_1209200
+6,1.0,,U6 snRNA-associated Sm-like protein LSm4,Q8IIT3,False,Q8IIT3,PF3D7_1107000
+7,1.0,"""Calcyclin-binding protein",,C0H586,False,C0H586,PF3D7_0933200
+8,1.0,14-3-3 protein I,14-3-3 protein I,C0H4V6,False,C0H4V6,PF3D7_0818200
+9,1.0,"""Tetratricopeptide repeat protein","putative""",Q8I5Y9,False,Q8I5Y9,PF3D7_1205600
+10,1.0,"""Proteasome activator 28 subunit beta","putative""",Q8I374,False,Q8I374,PF3D7_0907700
+11,1.0,"""U6 snRNA-associated Sm-like protein LSm3",,C0H4W2,False,C0H4W2,PF3D7_0819900
+12,1.0,U6 snRNA-associated Sm-like protein LSm2,"putative""",Q8I3Q7,False,Q8I3Q7,PF3D7_0520300
+13,1.0,Probable prefoldin subunit 6,"putative""",Q8I3Y6,False,Q8I3Y6,PF3D7_0512000
+14,1.0,,"putative""",Q8IL48,False,Q8IL48,PF3D7_1442300
+15,1.0,GTP-binding nuclear protein,"putative""",Q7KQK6,False,Q7KQK6,PF3D7_1117700
+16,1.0,"""Nascent polypeptide-associated complex subunit alpha",,C6KT55,False,C6KT55,PF3D7_0621800
+17,1.0,Uncharacterized protein,,A0A144A0F5,False,A0A144A0F5,PF3D7_1149100
+18,1.0,"""Prefoldin subunit 5","""Prefoldin subunit 5",Q8II82,False,Q8II82,PF3D7_1128100
+19,1.0,,"putative""",Q8IIB6,False,Q8IIB6,PF3D7_1124700
+20,1.0,,"putative""",Q8IKA6,False,Q8IKA6,PF3D7_1473200
+21,1.0,"""Histone chaperone ASF1","""Histone chaperone ASF1",Q8I5H2,False,Q8I5H2,PF3D7_1224500
+22,1.0,,"putative""",Q7KQK0,False,Q7KQK0,PF3D7_1223100
+23,1.0,,"putative""",Q8IHW4,False,Q8IHW4,PF3D7_1140100
+24,1.0,,"putative""",Q8IAW0,False,Q8IAW0,PF3D7_0812400
+25,1.0,,"putative""",Q8ILK1,False,Q8ILK1,PF3D7_1426200
+26,2.0,Proteasome subunit beta,,A0A5K1K7U1,False,A0A5K1K7U1,PF3D7_0518300
+27,2.0,"""Proteasome subunit alpha type-3","putative""",O77396,False,O77396,PF3D7_0317000
+28,2.0,Proteasome subunit beta,"putative""",Q7K6A9,False,Q7K6A9,PF3D7_0803800
+29,2.0,Proteasome subunit alpha type,"putative""",Q8IDG3,False,Q8IDG3,PF3D7_1353800
+30,2.0,Proteasome subunit alpha type,Proteasome subunit alpha type,Q8IDG2,False,Q8IDG2,PF3D7_1353900
+31,2.0,Proteasome subunit beta,Proteasome subunit beta,Q8I6T3,False,Q8I6T3,PF3D7_1328100
+32,2.0,"""26S protease regulatory subunit 4","""26S protease regulatory subunit 4",Q8IJW0,False,Q8IJW0,PF3D7_1008400
+33,2.0,Proteasome subunit beta,Proteasome subunit beta,Q8I261,False,Q8I261,PF3D7_0108000
+34,2.0,Proteasome subunit beta,Proteasome subunit beta,Q8IJT1,False,Q8IJT1,PF3D7_1011400
+35,2.0,"""Proteasome subunit alpha type-2","""Proteasome subunit alpha type-2",C6KST3,False,C6KST3,PF3D7_0608500
+36,2.0,"""Proteasome subunit alpha type-6","""Proteasome subunit alpha type-6",Q8IAR3,False,Q8IAR3,PF3D7_0807500
+37,2.0,Proteasome subunit alpha type,Proteasome subunit alpha type,Q8IBI3,False,Q8IBI3,PF3D7_0727400
+38,2.0,"""Proteasome subunit beta type-6","""Proteasome subunit beta type-6",Q8I0U7,False,Q8I0U7,PF3D7_0931800
+39,2.0,"""Proteasome subunit alpha type-1","""Proteasome subunit alpha type-1",Q8IK90,False,Q8IK90,PF3D7_1474800
+40,2.0,"""Cell division cycle protein 48 homologue","""Cell division cycle protein 48 homologue",C6KT34,False,C6KT34,PF3D7_0619400
+41,2.0,,Proteasome subunit beta,Q8IKC9,False,Q8IKC9,PF3D7_1470900
+42,2.0,,"putative""",Q8IAV6,False,Q8IAV6,PF3D7_0812100
+43,2.0,"""26S protease regulatory subunit 6A","putative""",Q8II60,False,Q8II60,PF3D7_1130400
+44,3.0,Endoplasmic reticulum chaperone GRP170,"putative""",C0H5H0,False,C0H5H0,PF3D7_1344200
+45,3.0,Heat shock protein 70,Heat shock protein 70,Q8I2X4,False,Q8I2X4,PF3D7_0917900
+46,3.0,"""26S proteasome regulatory subunit p55","""26S proteasome regulatory subunit p55",Q8IJM0,False,Q8IJM0,PF3D7_1017900
+47,3.0,,Protein disulfide-isomerase,Q8IKB2,False,Q8IKB2,PF3D7_1472600
+48,3.0,Protein disulfide-isomerase,,C0H4Y6,False,C0H4Y6,PF3D7_0827900
+49,3.0,,Protein disulfide isomerase,Q8I2V9,False,Q8I2V9,PF3D7_0919400
+50,3.0,"""26S proteasome regulatory subunit RPN9","""26S proteasome regulatory subunit RPN9",Q8IJA0,False,Q8IJA0,PF3D7_1030500
+51,3.0,Aspartyl aminopeptidase,Aspartyl aminopeptidase,Q8I2J3,False,Q8I2J3,PF3D7_0932300
+52,3.0,Ubiquitin carboxyl-terminal hydrolase UCH54,Ubiquitin carboxyl-terminal hydrolase UCH54,Q8IIJ6,False,Q8IIJ6,PF3D7_1117100
+53,3.0,"""26S proteasome regulatory subunit RPN10","putative""",Q8IAR6,False,Q8IAR6,PF3D7_0807800
+54,3.0,,ATP-dependent 6-phosphofructokinase,Q8II80,False,Q8II80,PF3D7_1128300
+55,3.0,LCCL domain-containing protein,LCCL domain-containing protein,Q8IK83,False,Q8IK83,PF3D7_1475500
+56,3.0,,LCCL/lectin adhesive-like protein 1,Q8IM24,False,Q8IM24,PF3D7_1407000
+57,3.0,Thioredoxin-like mero protein,Thioredoxin-like mero protein,Q8IIV8,False,Q8IIV8,PF3D7_1104400
+58,3.0,,Uncharacterized protein,Q8IM45,False,Q8IM45,PF3D7_1404900
+59,3.0,LCCL domain-containing protein,LCCL domain-containing protein,Q8I252,False,Q8I252,PF3D7_0109100
+60,3.0,Acyl-CoA synthetase,Acyl-CoA synthetase,O96230,False,O96230,PF3D7_0215000
+61,4.0,Osmiophilic body protein G377,Osmiophilic body protein G377,Q8I4T3,False,Q8I4T3,PF3D7_1250100
+62,4.0,,Exported protein 2,Q8IKC8,False,Q8IKC8,PF3D7_1471100
+63,4.0,EMP1-trafficking protein,EMP1-trafficking protein,Q8I490,False,Q8I490,PF3D7_0501000
+64,4.0,Plasmodium RESA N-terminal domain-containing protein,Plasmodium RESA N-terminal domain-containing protein,Q8I2F2,False,Q8I2F2,PF3D7_0936800
+65,4.0,Merozoite surface protein 8,,Q8I476,False,Q8I476,PF3D7_0502400
+66,4.0,Plasmodium RESA N-terminal domain-containing protein,Plasmodium RESA N-terminal domain-containing protein,Q8IIX5,False,Q8IIX5,PF3D7_1102500
+67,4.0,Uncharacterized protein,,C6S3H3,False,C6S3H3,PF3D7_1403200
+68,4.0,Plasmodium RESA N-terminal domain-containing protein,Plasmodium RESA N-terminal domain-containing protein,Q8IFM0,False,Q8IFM0,PF3D7_0424600
+69,4.0,Plasmodium RESA N-terminal domain-containing protein,Plasmodium RESA N-terminal domain-containing protein,Q8I2F4,False,Q8I2F4,PF3D7_0936600
+70,4.0,Exported protein 3,Exported protein 3,Q8IJF6,False,Q8IJF6,PF3D7_1024800
+71,4.0,Uncharacterized protein,,Q8IEB8,False,Q8IEB8,PF3D7_1319800
+72,5.0,Histone H2A,Histone H2A,C6KT18,False,C6KT18,PF3D7_0617800
+73,5.0,"""60S ribosomal protein L35","""60S ribosomal protein L35",Q8IIB4,False,Q8IIB4,PF3D7_1124900
+74,5.0,60S ribosomal protein L13,"putative""",Q8IAX6,False,Q8IAX6,PF3D7_0814000
+75,5.0,40S ribosomal protein S6,40S ribosomal protein S6,Q8IDR9,False,Q8IDR9,PF3D7_1342000
+76,5.0,60S ribosomal protein L27,60S ribosomal protein L27,Q8IKM5,False,Q8IKM5,PF3D7_1460700
+77,5.0,Endonuclease ALBA3,Endonuclease ALBA3,Q8IJX8,False,Q8IJX8,PF3D7_1006200
+78,5.0,40S ribosomal protein S7,40S ribosomal protein S7,Q8IET7,False,Q8IET7,PF3D7_1302800
+79,5.0,,Adenosine deaminase,Q8IJA9,False,Q8IJA9,PF3D7_1029600
+80,6.0,ATP synthase subunit beta,"putative""",Q8I0V2,False,Q8I0V2,PF3D7_1235700
+81,6.0,"""Parasitophorous vacuolar protein 5","""Parasitophorous vacuolar protein 5",Q8I2Q0,False,Q8I2Q0,PF3D7_0925900
+82,6.0,ATP synthase subunit alpha,"putative""",O96252,False,O96252,PF3D7_0217100
+83,6.0,PhIL1 interacting protein PIP2,PhIL1 interacting protein PIP2,Q8ILF4,False,Q8ILF4,PF3D7_1431100
+84,6.0,,PhIL1 interacting protein PIP3,Q8ILF6,False,Q8ILF6,PF3D7_1430800
+85,6.0,"""Alpha/beta hydrolase",,C6S3G2,False,C6S3G2,PF3D7_1143000
+86,6.0,P-type sodium-transporting ATPase4,,A0A143ZZK9,False,A0A143ZZK9,PF3D7_1211900
+87,7.0,Heat shock protein 110,Heat shock protein 110,Q8IC01,False,Q8IC01,PF3D7_0708800
+88,7.0,,Hsp70-Hsp90 organising protein,Q8ILC1,False,Q8ILC1,PF3D7_1434300
+89,7.0,"""Heat shock protein 90","""Heat shock protein 90",Q8III6,False,Q8III6,PF3D7_1118200
+90,7.0,protein-serine/threonine phosphatase,protein-serine/threonine phosphatase,Q8IDE7,False,Q8IDE7,PF3D7_1355500
+91,7.0,DNA/RNA-binding protein ALBA4,,A0A5K1K8Y8,False,A0A5K1K8Y8,PF3D7_1347500
+92,7.0,"""Chaperone binding protein",,A0A5K1K963,False,A0A5K1K963,PF3D7_1334200
+93,7.0,,Protein phosphatase PPM2,Q8IHY0,False,Q8IHY0,PF3D7_1138500
+94,8.0,,"""Succinate--CoA ligase [ADP-forming] subunit alpha",Q8IIR8,False,Q8IIR8,PF3D7_1108500
+95,8.0,Phosphoglycerate kinase,,P27362,False,P27362,PF3D7_0922500
+96,8.0,L-lactate dehydrogenase,L-lactate dehydrogenase,C6KT25,False,C6KT25,PF3D7_0618500
+97,8.0,aspartate carbamoyltransferase,,A0A5K1K910,False,A0A5K1K910,PF3D7_1344800
+98,8.0,Adenosylhomocysteinase,Adenosylhomocysteinase,P50250,False,P50250,PF3D7_0520900
+99,8.0,,Glutamate dehydrogenase,Q8ILT0,False,Q8ILT0,PF3D7_1416500
+100,9.0,Proliferating cell nuclear antigen 1,Proliferating cell nuclear antigen 1,P61074,False,P61074,PF3D7_1361900
+101,9.0,Hsc70-interacting protein,Hsc70-interacting protein,Q8I3J0,False,Q8I3J0,PF3D7_0527500
+102,9.0,Nucleosome assembly protein,Nucleosome assembly protein,Q8I2W3,False,Q8I2W3,PF3D7_0919000
+103,9.0,Nucleoplasmin-like domain-containing protein,,C0H4U4,False,C0H4U4,PF3D7_0813300
+104,9.0,,Acidic leucine-rich nuclear phosphoprotein 32-related protein,Q8ILI6,False,Q8ILI6,PF3D7_1427900
+105,9.0,Endoplasmic reticulum-resident calcium binding protein,Endoplasmic reticulum-resident calcium binding protein,Q8IIR7,False,Q8IIR7,PF3D7_1108600
+106,10.0,Vacuolar proton pump subunit B,Vacuolar proton pump subunit B,Q6ZMA8,False,Q6ZMA8,PF3D7_0406100
+107,10.0,V-type proton ATPase subunit C,V-type proton ATPase subunit C,Q8I280,False,Q8I280,PF3D7_0106100
+108,10.0,Elongation factor 2,Elongation factor 2,Q8IKW5,False,Q8IKW5,PF3D7_1451100
+109,10.0,transketolase,,C6KSV3,False,C6KSV3,PF3D7_0610800
+110,10.0,"""V-type proton ATPase subunit D","putative""",Q8IDS0,False,Q8IDS0,PF3D7_1341900
+111,10.0,Inosine-5'-monophosphate dehydrogenase,,Q8I2U5,False,Q8I2U5,PF3D7_0920800
+112,11.0,T-complex protein 1 subunit epsilon,T-complex protein 1 subunit epsilon,O97282,False,O97282,PF3D7_0320300
+113,11.0,T-complex protein 1 subunit alpha,T-complex protein 1 subunit alpha,Q8II43,False,Q8II43,PF3D7_1132200
+114,11.0,T-complex protein 1 subunit delta,T-complex protein 1 subunit delta,C0H5I7,False,C0H5I7,PF3D7_1357800
+115,11.0,20 kDa chaperonin,20 kDa chaperonin,Q8IDZ8,False,Q8IDZ8,PF3D7_1333000
+116,11.0,T-complex protein 1 subunit eta,T-complex protein 1 subunit eta,O77323,False,O77323,PF3D7_0308200
+117,11.0,CCT-theta,CCT-theta,O96220,False,O96220,PF3D7_0214000
+118,12.0,,Nuclear transport factor 2,Q8ILX1,False,Q8ILX1,PF3D7_1412300
+119,12.0,1-cys peroxiredoxin,1-cys peroxiredoxin,Q8IAM2,False,Q8IAM2,PF3D7_0802200
+120,12.0,Thioredoxin 1,,Q7KQL8,False,Q7KQL8,PfTG01_140062500
+121,12.0,thioredoxin-dependent peroxiredoxin,thioredoxin-dependent peroxiredoxin,Q8IL80,False,Q8IL80,PF3D7_1438900
+122,12.0,,Glutaredoxin-1,Q9NLB2,False,Q9NLB2,PF3D7_0306300
+123,13.0,GPI-anchored micronemal antigen,GPI-anchored micronemal antigen,Q8IBB9,False,Q8IBB9,PF3D7_0828800
+124,13.0,,Rhoptry-associated protein 1,Q8ILZ1,False,Q8ILZ1,PF3D7_1410400
+125,13.0,EMP1-trafficking protein,,Q8I669,False,Q8I669,PF3D7_0202200
+126,13.0,Rhoptry-associated protein 3,,Q8I485,False,Q8I485,PF3D7_0501500
+127,13.0,Uncharacterized protein,Uncharacterized protein,Q8IK07,False,Q8IK07,PF3D7_1002900
+128,14.0,"""Ubiquitin domain-containing protein DSK2","""Ubiquitin domain-containing protein DSK2",Q8IIM8,False,Q8IIM8,PF3D7_1113400
+129,14.0,Protein transport protein SEC23,Protein transport protein SEC23,Q8IB60,False,Q8IB60,PF3D7_0822600
+130,14.0,Small GTP-binding protein sar1,Small GTP-binding protein sar1,Q8I1S0,False,Q8I1S0,PF3D7_0416800
+131,14.0,ADP-ribosylation factor 1,,A0A143ZY58,False,A0A143ZY58,PfNF54_100026000
+132,14.0,Proline--tRNA ligase,,Q8I5R7,False,Q8I5R7,PF3D7_1213800
+133,15.0,,Ribonucleoside-diphosphate reductase,Q8IL94,False,Q8IL94,PF3D7_1437200
+134,15.0,"""60S ribosomal protein L12","putative""",Q8I3T8,False,Q8I3T8,PF3D7_0517000
+135,15.0,EMP1-trafficking protein,"putative""",Q8IK15,False,Q8IK15,PF3D7_1002100
+136,15.0,"""40S ribosomal protein S18","""40S ribosomal protein S18",Q8IIA2,False,Q8IIA2,PF3D7_1126200
+137,15.0,Merozoite surface protein 2,,A0A143ZX41,False,A0A143ZX41,PF3D7_0206800
+138,16.0,3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring),3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring),Q8I0X1,False,Q8I0X1,PF3D7_0504600
+139,16.0,ATPase,ATPase,C6KTA3,False,C6KTA3,PF3D7_0626700
+140,16.0,,Leucine aminopeptidase,Q8IL11,False,Q8IL11,PF3D7_1446200
+141,16.0,"""Heptatricopeptide repeat and RAP domain-containing protein","""Heptatricopeptide repeat and RAP domain-containing protein",Q8I289,False,Q8I289,PF3D7_0105200
+142,16.0,,DNA/RNA-binding protein ALBA2,Q8IDN4,False,Q8IDN4,PF3D7_1346300
+143,17.0,Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex,Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex,O97227,False,O97227,PF3D7_0303700
+144,17.0,dihydrolipoyllysine-residue succinyltransferase,dihydrolipoyllysine-residue succinyltransferase,Q8IEA6,False,Q8IEA6,PF3D7_1320800
+145,17.0,2-oxoglutarate dehydrogenase E1 component,,Q8I6S5,False,Q8I6S5,PF3D7_0820700
+146,17.0,2-oxoisovalerate dehydrogenase subunit alpha,2-oxoisovalerate dehydrogenase subunit alpha,Q8IEJ6,False,Q8IEJ6,PF3D7_1312600
+147,17.0,Thioredoxin reductase,Thioredoxin reductase,P61076,False,P61076,PF3D7_0923800
+148,18.0,Gamete antigen 27/25,Gamete antigen 27/25,Q8IEU2,False,Q8IEU2,PF3D7_1302100
+149,18.0,Small exported membrane protein 1,Small exported membrane protein 1,Q8IC43,False,Q8IC43,PF3D7_0702400
+150,18.0,,"""Cytochrome b-c1 complex subunit Rieske",Q8IL75,False,Q8IL75,PF3D7_1439400
+151,18.0,,Uncharacterized protein,Q8IM52,False,Q8IM52,PF3D7_1404200
+152,19.0,,Early transcribed membrane protein 10.3,Q8IJM9,False,Q8IJM9,PF3D7_1016900
+153,19.0,"""ATP synthase-associated protein","""ATP synthase-associated protein",C6KSV8,False,C6KSV8,PF3D7_0611300
+154,19.0,Uncharacterized protein,,A0A5K1K9E9,False,A0A5K1K9E9,PF3D7_1326000
+155,19.0,Antigen UB05,"putative""",Q8IJ28,False,Q8IJ28,PF3D7_1038000
+156,20.0,threonine--tRNA ligase,threonine--tRNA ligase,Q8IIA4,False,Q8IIA4,PF3D7_1126000
+157,20.0,,glycine--tRNA ligase,Q8ILP6,False,Q8ILP6,PF3D7_1420400
+158,20.0,isoleucine--tRNA ligase,,Q8IDZ9,False,Q8IDZ9,PF3D7_1332900
+159,20.0,,phenylalanine--tRNA ligase,Q8IIW2,False,Q8IIW2,PF3D7_1104000
+160,21.0,"""DnaJ protein",,Q8I2W2,False,Q8I2W2,PF3D7_0919100
+161,21.0,ER membrane protein complex subunit 1,"putative""",Q8IAU7,False,Q8IAU7,PF3D7_0811200
+162,21.0,"""Translocation protein SEC63","""Translocation protein SEC63",Q8IEC8,False,Q8IEC8,PF3D7_1318800
+163,21.0,,"putative""",Q8IL86,False,Q8IL86,PF3D7_1438100
+164,22.0,,"putative""",Q8II42,False,Q8II42,PF3D7_1132300
+165,22.0,"""Replication factor A protein 3",,C6S3I6,False,C6S3I6,PF3D7_1442100
+166,22.0,,"putative""",Q8II92,False,Q8II92,PF3D7_1127100
+167,22.0,10 kDa chaperonin,"putative""",Q8I5Q3,False,Q8I5Q3,PF3D7_1215300
+168,23.0,Ras-related protein Rab-5C,Ras-related protein Rab-5C,Q8I274,False,Q8I274,PF3D7_0106800
+169,23.0,Ras-related protein Rab-1A,Ras-related protein Rab-1A,Q8I3W9,False,Q8I3W9,PF3D7_0513800
+170,23.0,,Peptidyl-prolyl cis-trans isomerase,Q8IIK8,False,Q8IIK8,PF3D7_1115600
+171,23.0,Ras-related protein Rab-1B,,A0A5K1K8H7,False,A0A5K1K8H7,PF3D7_0512600
+172,24.0,glutamine--tRNA ligase,glutamine--tRNA ligase,Q8IE10,False,Q8IE10,PF3D7_1331700
+173,24.0,Lysine--tRNA ligase,Lysine--tRNA ligase,Q8IDJ8,False,Q8IDJ8,PF3D7_1350100
+174,24.0,methionine--tRNA ligase,methionine--tRNA ligase,Q8IJ60,False,Q8IJ60,PF3D7_1034900
+175,24.0,Ornithine aminotransferase,,Q6LFH8,False,Q6LFH8,PF3D7_0608800
+176,25.0,ribose-phosphate diphosphokinase,ribose-phosphate diphosphokinase,Q8IE67,False,Q8IE67,PF3D7_1325100
+177,25.0,Glycerol-3-phosphate dehydrogenase,"putative""",O97245,False,O97245,PF3D7_0306400
+178,25.0,"""Saccharopine dehydrogenase",,O96268,False,O96268,PF3D7_0219100
+179,26.0,Tubulin beta chain,Tubulin beta chain,Q7KQL5,False,Q7KQL5,PF3D7_1008700
+180,26.0,"""Cytochrome b-c1 complex subunit 9",,C0H4H6,False,C0H4H6,PF3D7_0622600
+181,26.0,,Dynein heavy chain-like protein 1,Q8IBG1,False,Q8IBG1,PF3D7_0729900
+182,27.0,,"""CUGBP Elav-like family member 2",Q8ILZ7,False,Q8ILZ7,PF3D7_1409800
+183,27.0,mRNA-binding protein PUF1,,Q8I3S3,False,Q8I3S3,PF3D7_0518700
+184,27.0,Uncharacterized protein,,O97306,False,O97306,PF3D7_0323800
+185,28.0,Parasitophorous vacuole membrane protein S16,Parasitophorous vacuole membrane protein S16,Q6ZMA7,False,Q6ZMA7,PF3D7_0406200
+186,28.0,Parasitophorous vacuolar protein 1,Parasitophorous vacuolar protein 1,Q8II72,False,Q8II72,PF3D7_1129100
+187,28.0,,"""Gamete egress and sporozoite traversal protein",Q8IKY4,False,Q8IKY4,PF3D7_1449000
+188,29.0,Ras-related protein Rab-11A,Ras-related protein Rab-11A,Q76NM4,False,Q76NM4,PF3D7_1320600
+189,29.0,Ras-related protein RAB7,,C0H516,False,C0H516,PF3D7_0903200
+190,29.0,,Ras-related protein Rab-6,Q8IHR8,False,Q8IHR8,PF3D7_1144900
+191,30.0,Malate:quinone oxidoreductase,Malate:quinone oxidoreductase,C6KT09,False,C6KT09,PF3D7_0616800
+192,30.0,40S ribosomal protein S19,40S ribosomal protein S19,C0H5C2,False,C0H5C2,PF3D7_1317800
+193,30.0,,"""26S proteasome regulatory subunit RPN13",Q8ILV5,False,Q8ILV5,PF3D7_1414000
+194,31.0,Tubulin alpha chain,Tubulin alpha chain,Q8IFP3,False,Q8IFP3,PF3D7_0422300
+195,31.0,Obg-like ATPase 1,,Q8IBM9,False,Q8IBM9,PF3D7_0722400
+196,31.0,,"""Serine/threonine protein phosphatase CPPED1",Q8IM55,False,Q8IM55,PF3D7_1403900
+197,32.0,LCCL domain-containing protein,LCCL domain-containing protein,Q8IKS0,False,Q8IKS0,PF3D7_1455800
+198,32.0,Uncharacterized protein,,Q8I3X7,False,Q8I3X7,PF3D7_0513000
+199,32.0,LCCL domain-containing protein,LCCL domain-containing protein,Q8IKW0,False,Q8IKW0,PF3D7_1451600
+200,33.0,Heat shock protein 70,Heat shock protein 70,Q8II24,False,Q8II24,PF3D7_1134000
+201,33.0,"""Small heat shock protein",,Q8IES0,False,Q8IES0,PF3D7_1304500
+202,33.0,Phosphotransferase,,C6KT76,False,C6KT76,PF3D7_0624000
+203,34.0,Uncharacterized protein,Uncharacterized protein,Q8I544,False,Q8I544,PF3D7_1237900
+204,34.0,Glutamate-rich protein GLURP,Glutamate-rich protein GLURP,Q8IJ56,False,Q8IJ56,PF3D7_1035300
+205,34.0,Ring-exported protein 1,,Q8I2G1,False,Q8I2G1,PF3D7_0935900
+206,35.0,"""Replication protein A1","putative""",Q8I3A1,False,Q8I3A1,PF3D7_0904800
+207,35.0,Proliferating cell nuclear antigen 2,Proliferating cell nuclear antigen 2,Q7KQJ9,False,Q7KQJ9,PfTG01_120031500
+208,35.0,,"small""",Q8I467,False,Q8I467,PF3D7_0503400
+209,36.0,60S ribosomal protein L4,60S ribosomal protein L4,Q8I431,False,Q8I431,PF3D7_0507100
+210,36.0,,Protein transport protein SEC61 subunit alpha,Q8IDN6,False,Q8IDN6,PF3D7_1346100
+211,36.0,"""Elongation factor 1-delta","putative""",O97319,False,O97319,PF3D7_0319600
+212,37.0,Polyadenylate-binding protein,Polyadenylate-binding protein,Q8I5H4,False,Q8I5H4,PF3D7_1224300
+213,37.0,Eukaryotic translation initiation factor 4E,,O97266,False,O97266,PF3D7_0315100
+214,37.0,ATP-dependent RNA helicase DDX6,,O97285,False,O97285,PF3D7_0320800
+215,38.0,Fructose-bisphosphate aldolase,Fructose-bisphosphate aldolase,Q7KQL9,False,Q7KQL9,PF3D7_1444800
+216,38.0,Pyridoxal 5'-phosphate synthase subunit Pdx1,,C6KT50,False,C6KT50,PF3D7_0621200
+217,38.0,Triosephosphate isomerase,Triosephosphate isomerase,Q7KQM0,False,Q7KQM0,PF3D7_1439900
+218,39.0,60S ribosomal protein L31,"putative""",Q8I463,False,Q8I463,PF3D7_0503800
+219,39.0,High mobility group protein B2,High mobility group protein B2,Q8IB14,False,Q8IB14,PF3D7_0817900
+220,39.0,,Signal peptide peptidase,Q8IKQ9,False,Q8IKQ9,PF3D7_1457000
+221,40.0,Elongation factor 1-alpha,Elongation factor 1-alpha,Q8I0P6,False,Q8I0P6,PF3D7_1357100
+222,40.0,40S ribosomal protein S19,40S ribosomal protein S19,Q8IFP2,False,Q8IFP2,PF3D7_0422400
+223,40.0,Peptidyl-prolyl cis-trans isomerase,Peptidyl-prolyl cis-trans isomerase,Q76NN7,False,Q76NN7,PF3D7_0322000
+224,41.0,RNA helicase,RNA helicase,Q8IKF0,False,Q8IKF0,PF3D7_1468700
+225,41.0,RNA helicase,RNA helicase,Q8IKP1,False,Q8IKP1,PF3D7_1459000
+226,41.0,"""Trailer hitch homolog","putative""",Q8IK89,False,Q8IK89,PF3D7_1474900
+227,42.0,"""26S protease regulatory subunit 7","""26S protease regulatory subunit 7",Q8IEK3,False,Q8IEK3,PF3D7_1311500
+228,42.0,"""26S proteasome regulatory subunit RPN2","""26S proteasome regulatory subunit RPN2",Q8IKH3,False,Q8IKH3,PF3D7_1466300
+229,42.0,,"putative""",Q8IM66,False,Q8IM66,PF3D7_1402300
+230,43.0,Histone H3,Histone H3,C6KT19,False,C6KT19,PF3D7_0617900
+231,43.0,Histone H2A,Histone H2A,O97320,False,O97320,PF3D7_0320900
+232,43.0,"""Importin-7",,C0H4L1,False,C0H4L1,PF3D7_0706000
+233,44.0,"""Endoplasmin","""Endoplasmin",Q8I0V4,False,Q8I0V4,PF3D7_1222300
+234,44.0,Falcilysin,,Q76NL8,False,Q76NL8,PfTG01_130066500
+235,44.0,,"putative""",Q8III5,False,Q8III5,PF3D7_1118300
+236,45.0,"""26S proteasome regulatory subunit RPN8","putative""",Q8I323,False,Q8I323,PF3D7_0912900
+237,45.0,,"putative""",Q8I3A9,False,Q8I3A9,PF3D7_0904000
+238,45.0,"""26S proteasome regulatory subunit RPN3","""26S proteasome regulatory subunit RPN3",A0A5K1K9F3,False,A0A5K1K9F3,PF3D7_1338100
+239,46.0,Multidrug resistance protein 1,Multidrug resistance protein 1,Q7K6A5,False,Q7K6A5,PF3D7_0523000
+240,46.0,"""26S protease regulatory subunit 10B","putative""",Q8IEQ1,False,Q8IEQ1,PF3D7_1306400
+241,46.0,"""PPPDE peptidase domain-containing protein","putative""",Q8I5M9,False,Q8I5M9,PF3D7_1217900
+242,47.0,Tubulin alpha chain,Tubulin alpha chain,Q6ZLZ9,False,Q6ZLZ9,PF3D7_0903700
+243,47.0,Adenylosuccinate synthetase,Adenylosuccinate synthetase,Q8IDF6,False,Q8IDF6,PF3D7_1354500
+244,47.0,Transcription factor Pcc1,,C6KSV2,False,C6KSV2,PF3D7_0610700
+245,48.0,Heat shock protein 60,Heat shock protein 60,Q8IJN9,False,Q8IJN9,PF3D7_1015600
+246,48.0,,Glucose-6-phosphate isomerase,Q8ILA4,False,Q8ILA4,PF3D7_1436000
+247,48.0,Citrate synthase,,Q8I6U7,False,Q8I6U7,PF3D7_1022500
+248,49.0,"""60S ribosomal protein L1","""60S ribosomal protein L1",Q8IL58,False,Q8IL58,PF3D7_1441200
+249,49.0,40S ribosomal protein S8,40S ribosomal protein S8,Q8IM10,False,Q8IM10,PF3D7_1408600
+250,49.0,Adenylate kinase 1,Adenylate kinase 1,Q8IJV6,False,Q8IJV6,PfTG01_100014100
+251,50.0,"""60S ribosomal protein L6",,A0A5K1K8V8,False,A0A5K1K8V8,PF3D7_1338200
+252,50.0,Heat shock 70 kDa protein,"putative""",K7NTP5,False,K7NTP5,PF3D7_0831700
+253,50.0,Eukaryotic translation initiation factor 5A,Eukaryotic translation initiation factor 5A,Q8I603,False,Q8I603,PF3D7_1204300
+254,51.0,serine--tRNA ligase,serine--tRNA ligase,Q8IBS3,False,Q8IBS3,PF3D7_0717700
+255,51.0,phenylalanine--tRNA ligase,,Q8I246,False,Q8I246,PF3D7_0109800
+256,52.0,Early transcribed membrane protein 4,Early transcribed membrane protein 4,Q8IFM9,False,Q8IFM9,PF3D7_0423700
+257,52.0,Ookinete surface protein P25,,Q7KQL2,False,Q7KQL2,PF3D7_1031000
+258,53.0,,Sortilin,Q8IKV8,False,Q8IKV8,PF3D7_1451800
+259,53.0,"""Secreted ookinete protein",,A0A5K1K8W5,False,A0A5K1K8W5,PF3D7_0513700
+260,54.0,Prefoldin subunit 4,"putative""",Q8I3A4,False,Q8I3A4,PF3D7_0904500
+261,54.0,,Uncharacterized protein,Q8IBZ4,False,Q8IBZ4,PF3D7_0709500
+262,55.0,Gametocyte-specific protein,Gametocyte-specific protein,Q8I6U6,False,Q8I6U6,PF3D7_1038400
+263,55.0,Uncharacterized protein,,A0A5K1K8E0,False,A0A5K1K8E0,PF3D7_1327300
+264,56.0,Calmodulin,,P62203,False,P62203,PF3D7_1434200
+265,56.0,,Calcineurin subunit B,Q8IKV9,False,Q8IKV9,PF3D7_1451700
+266,57.0,"""YOP1-like protein",,Q8IDB8,False,Q8IDB8,PF3D7_1358700
+267,57.0,,Aquaglyceroporin,Q8II36,False,Q8II36,PF3D7_1132800
+268,58.0,,Knob-associated histidine-rich protein,Q9TY99,False,Q9TY99,PF3D7_0202000
+269,58.0,Plasmodium RESA N-terminal domain-containing protein,,C0H4Z6,False,C0H4Z6,PF3D7_0831300
+270,59.0,"""Major facilitator superfamily-related transporter",,Q8I305,False,Q8I305,PF3D7_0914700
+271,59.0,,"putative""",Q8II64,False,Q8II64,PF3D7_1129900
+272,60.0,Plasmepsin III,Plasmepsin III,Q8IM15,False,Q8IM15,PF3D7_1408100
+273,60.0,,Plasmepsin IV,Q8IM16,False,Q8IM16,PF3D7_1407800
+274,61.0,ADP/ATP translocase,ADP/ATP translocase,Q8IJ34,False,Q8IJ34,PF3D7_1037300
+275,61.0,Mitochondrial phosphate carrier protein,Mitochondrial phosphate carrier protein,Q8I623,False,Q8I623,PF3D7_1202200
+276,62.0,Gametocyte surface protein P230,,P68874,False,P68874,PF3D7_0209000
+277,62.0,Gametocyte surface protein P45/48,Gametocyte surface protein P45/48,Q8I6T1,False,Q8I6T1,PF3D7_1346700
+278,63.0,"""Exportin-1","""Exportin-1",O77312,False,O77312,PF3D7_0302900
+279,63.0,Transportin,,C6KTB3,False,C6KTB3,PF3D7_0627700
+280,64.0,,Glideosome associated protein with multiple membrane spans 3,Q8IM26,False,Q8IM26,PF3D7_1406800
+281,64.0,Uncharacterized protein,,Q8IJT0,False,Q8IJT0,PF3D7_1011500
+282,65.0,"""Ribonucleoside-diphosphate reductase small chain",,Q8IJN8,False,Q8IJN8,PF3D7_1015800
+283,65.0,,"putative""",Q8IM38,False,Q8IM38,PF3D7_1405600
+284,66.0,"""26S proteasome regulatory subunit RPN7","""26S proteasome regulatory subunit RPN7",Q8II71,False,Q8II71,PF3D7_1129200
+285,66.0,,"putative""",Q8IM03,False,Q8IM03,PF3D7_1409300
+286,67.0,60S ribosomal protein L3,60S ribosomal protein L3,Q8IJC6,False,Q8IJC6,PF3D7_1027800
+287,67.0,Isocitrate dehydrogenase [NADP,,Q8I6T2,False,Q8I6T2,PF3D7_1345700
+288,68.0,Rhoptry-associated protein 2,"putative""",Q8I484,False,Q8I484,PF3D7_0501600
+289,68.0,Uncharacterized protein,Uncharacterized protein,Q8I5J2,False,Q8I5J2,PF3D7_1222100
+290,69.0,,Surface protein P113,Q8ILP3,False,Q8ILP3,PF3D7_1420700
+291,69.0,Translocon component PTEX150,,Q8ILA1,False,Q8ILA1,PF3D7_1436300
+292,70.0,,Uncharacterized protein,Q8III8,False,Q8III8,PF3D7_1118000
+293,70.0,Purine nucleoside phosphorylase,Purine nucleoside phosphorylase,Q8I3X4,False,Q8I3X4,PF3D7_0513300
+294,71.0,40S ribosomal protein S15,40S ribosomal protein S15,Q8IDB0,False,Q8IDB0,PF3D7_1358800
+295,71.0,Ubiquitin-like domain-containing protein,Ubiquitin-like domain-containing protein,Q8IB31,False,Q8IB31,PF3D7_0819600
+296,72.0,Nucleosome assembly protein,Nucleosome assembly protein,Q8I608,False,Q8I608,PF3D7_1203700
+297,72.0,,"""Casein kinase 2",Q8IIR9,False,Q8IIR9,PF3D7_1108400
+298,73.0,"""V-type proton ATPase subunit G","""V-type proton ATPase subunit G",Q8IE84,False,Q8IE84,PF3D7_1323200
+299,73.0,,"putative""",Q8IEP9,False,Q8IEP9,PF3D7_1306600
+300,74.0,L-lactate dehydrogenase,L-lactate dehydrogenase,Q8IE66,False,Q8IE66,PF3D7_1325200
+301,74.0,Glycerol-3-phosphate dehydrogenase [NAD(+),Glycerol-3-phosphate dehydrogenase [NAD(+),Q8I5P5,False,Q8I5P5,PF3D7_1216200
+302,75.0,"""26S proteasome regulatory subunit RPN1","putative""",O96153,False,O96153,PF3D7_0205900
+303,75.0,,"putative""",Q8I5L6,False,Q8I5L6,PF3D7_1219100
+304,76.0,AP complex subunit beta,AP complex subunit beta,Q8I3I6,False,Q8I3I6,PF3D7_0528100
+305,76.0,,"""Coatomer subunit beta",Q8ILG6,False,Q8ILG6,PF3D7_1429800
+306,77.0,DUF4149 domain-containing protein,DUF4149 domain-containing protein,Q8I546,False,Q8I546,PF3D7_1237700
+307,77.0,Formate-nitrite transporter,,O77389,False,O77389,PF3D7_0316600
+308,78.0,Histone H2B,Histone H2B,Q8IBV7,False,Q8IBV7,PF3D7_0714000
+309,78.0,,V-type proton ATPase subunit,Q8IKJ0,False,Q8IKJ0,PF3D7_1464700
+310,79.0,Histone H2B,"putative""",Q8IIV1,False,Q8IIV1,PF3D7_1105100
+311,79.0,"""Antigen 332","""Antigen 332",Q8IHN4,False,Q8IHN4,PF3D7_1149000
+312,80.0,Ribosomal protein L15,,C0H4A6,False,C0H4A6,PF3D7_0415900
+313,80.0,,"""Cytochrome b-c1 complex subunit 7",Q8IJS2,False,Q8IJS2,PF3D7_1012300
+314,81.0,Alpha-MPP,"putative""",Q8I3N3,False,Q8I3N3,PF3D7_0523100
+315,81.0,"""Mitochondrial-processing peptidase subunit beta","""Mitochondrial-processing peptidase subunit beta",Q8I2I2,False,Q8I2I2,PF3D7_0933600
+316,82.0,"""Glutamine synthetase",,C0H551,False,C0H551,PF3D7_0922600
+317,82.0,,"putative""",Q8I2W4,False,Q8I2W4,PF3D7_0918900
+318,83.0,Signal recognition particle 54 kDa protein,"putative""",Q8IKX4,False,Q8IKX4,PF3D7_1450100
+319,83.0,Small ribosomal subunit protein eS12,Small ribosomal subunit protein eS12,O97249,False,O97249,PF3D7_0307100
+320,84.0,Small ribosomal subunit protein eS1,Small ribosomal subunit protein eS1,O97313,False,O97313,PF3D7_0322900
+321,84.0,H(+)-exporting diphosphatase,H(+)-exporting diphosphatase,Q8IKR1,False,Q8IKR1,PF3D7_1456800
+322,85.0,Phosphoglycerate mutase,Phosphoglycerate mutase,Q8IIG6,False,Q8IIG6,PF3D7_1120100
+323,85.0,,Glutathione S-transferase,Q8ILQ7,False,Q8ILQ7,PfTG01_140024900
+324,86.0,,deoxyribose-phosphate aldolase,Q8IJI7,False,Q8IJI7,PF3D7_1021600
+325,86.0,Pyruvate kinase,Pyruvate kinase,C6KTA4,False,C6KTA4,PF3D7_0626800
+326,87.0,"""Secreted ookinete protein","""Secreted ookinete protein",Q8IBN4,False,Q8IBN4,PF3D7_0721700
+327,87.0,Glideosome-associated protein 50,Glideosome-associated protein 50,Q8I2X3,False,Q8I2X3,PF3D7_0918000
+328,88.0,Protein transport protein SEC31,Protein transport protein SEC31,O96221,False,O96221,PF3D7_0214100
+329,88.0,Protein transport protein SEC13,Protein transport protein SEC13,Q8I5B3,False,Q8I5B3,PF3D7_1230700
+330,89.0,,RNA helicase,Q9TY94,False,Q9TY94,PF3D7_0209800
+331,89.0,Heat shock protein 90,Heat shock protein 90,Q8IC05,False,Q8IC05,PF3D7_0708400
+332,90.0,High molecular weight rhoptry protein 2,High molecular weight rhoptry protein 2,C0H571,False,C0H571,PF3D7_0929400
+333,90.0,Uncharacterized protein,,A0A5K1K9E5,False,A0A5K1K9E5,PF3D7_0801400
+334,91.0,"""26S protease regulatory subunit 8",,Q8I4U5,False,Q8I4U5,PF3D7_1248900
+335,91.0,"""26S proteasome regulatory subunit RPN11","putative""",Q8ID28,False,Q8ID28,PF3D7_1368100
+336,92.0,Karyopherin beta,"putative""",Q8I3M5,False,Q8I3M5,PF3D7_0524000
+337,92.0,,"""Importin subunit beta",Q8IAY9,False,Q8IAY9,PF3D7_0815200
+338,93.0,,"putative""",Q8ILE3,False,Q8ILE3,PF3D7_1432100
+339,93.0,"""26S protease regulatory subunit 6B","""26S protease regulatory subunit 6B",Q8I1V1,False,Q8I1V1,PF3D7_0413600
+340,94.0,T-complex protein 1 subunit gamma,T-complex protein 1 subunit gamma,Q8I5C4,False,Q8I5C4,PF3D7_1229500
+341,94.0,T-complex protein 1 subunit zeta,T-complex protein 1 subunit zeta,C6KST5,False,C6KST5,PF3D7_0608700
+342,95.0,60S ribosomal protein L7a,60S ribosomal protein L7a,Q8ILL2,False,Q8ILL2,PF3D7_1424400
+343,95.0,"""40S ribosomal protein S16","""40S ribosomal protein S16",Q8IAX5,False,Q8IAX5,PF3D7_0813900
+344,,"""Mediator of RNA polymerase II transcription subunit 11",,C0H4C7,False,C0H4C7,PF3D7_0505900
+345,,"""60S acidic ribosomal protein P1","""60S acidic ribosomal protein P1",Q8IIX0,False,Q8IIX0,PF3D7_1103100
+346,,60S ribosomal protein L21,60S ribosomal protein L21,Q8ILK3,False,Q8ILK3,PF3D7_1426000
+347,,"""40S ribosomal protein S11","""40S ribosomal protein S11",O77381,False,O77381,PF3D7_0317600
+348,,Glyceraldehyde-3-phosphate dehydrogenase,"putative""",Q8IKK7,False,Q8IKK7,PF3D7_1462800
+349,,"""60S ribosomal protein L5","""60S ribosomal protein L5",Q8ILL3,False,Q8ILL3,PF3D7_1424100
+350,,40S ribosomal protein S5,40S ribosomal protein S5,Q8IL02,False,Q8IL02,PF3D7_1447000
+351,,glutamate--tRNA ligase,"putative""",Q8IDK7,False,Q8IDK7,PF3D7_1349200
+352,,DNA/RNA-binding protein ALBA1,DNA/RNA-binding protein ALBA1,Q8IAX8,False,Q8IAX8,PF3D7_0814200
+353,,Heat shock 70 kDa protein,Heat shock 70 kDa protein,Q8IB24,False,Q8IB24,PF3D7_0818900
+354,,Large ribosomal subunit protein P2,Large ribosomal subunit protein P2,O00806,False,O00806,PF3D7_0309600
+355,,"""60S ribosomal protein L27a","putative""",C6KT23,False,C6KT23,PF3D7_0618300
+356,,"""40S ribosomal protein S9","""40S ribosomal protein S9",Q8I3R0,False,Q8I3R0,PF3D7_0520000
+357,,Actin-1,,A0A144A1R5,False,A0A144A1R5,PF3D7_1246200
+358,,Histone H4,Histone H4,Q8IIV2,False,Q8IIV2,PF3D7_1105000
+359,,40S ribosomal protein S4,"putative""",Q8IIU8,False,Q8IIU8,PF3D7_1105400
+360,,60S acidic ribosomal protein P0,"putative""",Q8II61,False,Q8II61,PF3D7_1130200
+361,,Exported protein 1,Exported protein 1,Q8IIF0,False,Q8IIF0,PF3D7_1121600
+362,,"""Proliferation-associated protein 2g4","""Proliferation-associated protein 2g4",Q8ILI2,False,Q8ILI2,PF3D7_1428300
+363,,V-type proton ATPase catalytic subunit A,V-type proton ATPase catalytic subunit A,Q76NM6,False,Q76NM6,PfTG01_130017600
+364,,ATP-dependent protease subunit ClpQ,ATP-dependent protease subunit ClpQ,Q8I5B6,False,Q8I5B6,PF3D7_1230400
+365,,60S ribosomal protein L34,60S ribosomal protein L34,Q8IBY4,False,Q8IBY4,PF3D7_0710600
+366,,Merozoite surface protein 1,,Q8I0U8,False,Q8I0U8,PF3D7_0930300
+367,,40S ribosomal protein S3,40S ribosomal protein S3,Q8IKH8,False,Q8IKH8,PF3D7_1465900
+368,,CCT-beta,CCT-beta,O97247,False,O97247,PF3D7_0306800
+369,,"""V-type proton ATPase subunit E","putative""",Q8I2H3,False,Q8I2H3,PF3D7_0934500
+370,,Enolase,"putative""",Q8IJN7,False,Q8IJN7,PF3D7_1015900
+371,,Skeleton-binding protein 1,Skeleton-binding protein 1,Q8I487,False,Q8I487,PF3D7_0501300
+372,,"""Elongation factor 1-gamma",,A0A5K1K967,False,A0A5K1K967,PF3D7_1338300
+373,,Early transcribed membrane protein 10.2,"putative""",Q8IJ76,False,Q8IJ76,PF3D7_1033200
+374,,"""6-phosphogluconate dehydrogenase","""6-phosphogluconate dehydrogenase",Q8IKT2,False,Q8IKT2,PF3D7_1454700
+375,,Serine hydroxymethyltransferase,Serine hydroxymethyltransferase,Q8I566,False,Q8I566,PF3D7_1235600
+376,,Exported protein family 1,,B9ZSJ2,False,B9ZSJ2,PF3D7_0114000
+377,,L-lactate dehydrogenase,"putative""",Q76NM3,False,Q76NM3,PF3D7_1324900
+378,,Mature parasite-infected erythrocyte surface antigen,"putative""",Q8I492,False,Q8I492,PF3D7_0500800
+379,,Nucleoside diphosphate kinase,Nucleoside diphosphate kinase,Q8ID43,False,Q8ID43,PF3D7_1366500
+380,,"""Single-strand telomeric DNA-binding protein GBP2","""Single-strand telomeric DNA-binding protein GBP2",Q8IJX3,False,Q8IJX3,PF3D7_1006800
+381,,Elongation factor 1-beta,"putative""",Q8I320,False,Q8I320,PF3D7_0913200

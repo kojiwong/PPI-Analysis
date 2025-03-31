@@ -1,0 +1,1831 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="A0A5K1K7U1" />
+    <node id="O77396" />
+    <node id="Q8I0P6" />
+    <node id="Q8IFP3" />
+    <node id="Q8IEU2" />
+    <node id="Q8IKC8" />
+    <node id="Q8I2X4" />
+    <node id="Q8II43" />
+    <node id="O97285" />
+    <node id="Q8IKF0" />
+    <node id="Q8I484" />
+    <node id="Q8I485" />
+    <node id="C6KST3" />
+    <node id="Q6ZMA8" />
+    <node id="Q8IEK1" />
+    <node id="Q8IJW0" />
+    <node id="O97227" />
+    <node id="Q8I0X1" />
+    <node id="C6KT18" />
+    <node id="Q8I5H4" />
+    <node id="Q8IDG2" />
+    <node id="C0H4V6" />
+    <node id="Q7KQL9" />
+    <node id="Q8IC05" />
+    <node id="Q8IDN6" />
+    <node id="Q7KQL5" />
+    <node id="Q8IET7" />
+    <node id="Q76NN6" />
+    <node id="Q8ILI6" />
+    <node id="Q8IDZ8" />
+    <node id="Q8II61" />
+    <node id="C0H5H0" />
+    <node id="Q8I0U7" />
+    <node id="Q8IC01" />
+    <node id="Q8I608" />
+    <node id="Q8IKK7" />
+    <node id="Q8IJN9" />
+    <node id="Q8I280" />
+    <node id="C0H571" />
+    <node id="Q8IJT1" />
+    <node id="O96153" />
+    <node id="Q8I1V1" />
+    <node id="Q8I261" />
+    <node id="P61074" />
+    <node id="Q76NM6" />
+    <node id="K7NTP5" />
+    <node id="Q8IJN7" />
+    <node id="Q8I0V4" />
+    <node id="Q8ILB6" />
+    <node id="Q8IK90" />
+    <node id="C6KTA4" />
+    <node id="Q8II36" />
+    <node id="Q8IJ34" />
+    <node id="C6KT34" />
+    <node id="Q8IBI3" />
+    <node id="C6KSV0" />
+    <node id="Q8I395" />
+    <node id="Q8IBN4" />
+    <node id="Q8IEC8" />
+    <node id="Q8IKR1" />
+    <node id="Q8I2W3" />
+    <node id="Q8IM55" />
+    <node id="Q8I2H3" />
+    <node id="Q8I2W2" />
+    <node id="O97247" />
+    <node id="O96252" />
+    <node id="Q8IKJ0" />
+    <node id="Q8I0V2" />
+    <node id="Q7K6A9" />
+    <node id="C0H4Y6" />
+    <node id="Q8I2V9" />
+    <node id="Q76NN8" />
+    <node id="Q8IAR3" />
+    <node id="Q8ILV6" />
+    <node id="Q8I289" />
+    <node id="Q8IB24" />
+    <node id="Q8IIV1" />
+    <node id="Q8I2J3" />
+    <node id="Q8I3N3" />
+    <node id="Q8IKI8" />
+    <node id="O77389" />
+    <node id="Q8IAX8" />
+    <node id="Q8IIV2" />
+    <node id="A0A5K1K8H7" />
+    <node id="Q8IHR8" />
+    <node id="O96127" />
+    <node id="Q8I492" />
+    <node id="Q8IIJ8" />
+    <node id="Q8IES0" />
+    <node id="Q8I6S5" />
+    <node id="Q8IEA6" />
+    <node id="A0A143ZY58" />
+    <node id="Q76NM3" />
+    <node id="A0A5K1K7X4" />
+    <node id="Q8IIF0" />
+    <node id="Q8IB03" />
+    <node id="Q8II24" />
+    <node id="Q8I2F4" />
+    <node id="Q8IIX5" />
+    <node id="C6KTB3" />
+    <node id="Q8I3M5" />
+    <node id="Q8I4R5" />
+    <node id="Q8ILZ1" />
+    <node id="Q8IBV7" />
+    <node id="Q8IE84" />
+    <node id="O97320" />
+    <node id="Q8ILG8" />
+    <node id="Q8IDG3" />
+    <node id="Q8I2N1" />
+    <node id="O77310" />
+    <node id="Q8I5L6" />
+    <node id="Q8IDG9" />
+    <node id="Q8IEI6" />
+    <node id="Q8I490" />
+    <node id="Q76NM4" />
+    <node id="Q8I3W9" />
+    <node id="Q8IK89" />
+    <node id="Q8ILJ9" />
+    <node id="Q8I2I2" />
+    <node id="Q8IL75" />
+    <node id="Q8IJX8" />
+    <node id="Q8IBD1" />
+    <node id="Q7KQM4" />
+    <node id="Q8IM16" />
+    <node id="C6KT50" />
+    <node id="Q7KQK6" />
+    <node id="Q8ILA1" />
+    <node id="Q7K6A5" />
+    <node id="Q8ILT0" />
+    <node id="Q8II73" />
+    <node id="Q8IAV1" />
+    <node id="Q8IEJ6" />
+    <node id="Q8IKG9" />
+    <node id="C0H4D2" />
+    <node id="Q8IM57" />
+    <node id="C6KSX4" />
+    <node id="Q8I6V3" />
+    <node id="Q8IM15" />
+    <node id="Q7KQM0" />
+    <node id="Q8I5A9" />
+    <node id="Q8IFM0" />
+    <node id="O77312" />
+    <node id="Q8I5I0" />
+    <node id="A0A143ZZK9" />
+    <node id="A0A144A2H0" />
+    <node id="Q8IJX3" />
+    <node id="A0A5K1K8W5" />
+    <node id="Q8IDN0" />
+    <node id="Q8III6" />
+    <node id="Q8IM01" />
+    <node id="Q8IFM9" />
+    <node id="Q8IJM9" />
+    <node id="Q8I206" />
+    <node id="Q8IIV8" />
+    <node id="A0A143ZX41" />
+    <node id="Q7KWJ2" />
+    <node id="Q8I5B6" />
+    <edge source="A0A5K1K7U1" target="O77396">
+      <data key="d0">0.9996333599090576</data>
+    </edge>
+    <edge source="A0A5K1K7U1" target="Q8IDG2">
+      <data key="d0">0.711460018157959</data>
+    </edge>
+    <edge source="A0A5K1K7U1" target="Q8I261">
+      <data key="d0">0.7520615637302399</data>
+    </edge>
+    <edge source="A0A5K1K7U1" target="Q8IK90">
+      <data key="d0">0.5712116062641144</data>
+    </edge>
+    <edge source="A0A5K1K7U1" target="Q8IDG3">
+      <data key="d0">0.6616768673062324</data>
+    </edge>
+    <edge source="A0A5K1K7U1" target="Q8IAR3">
+      <data key="d0">0.7904582031071186</data>
+    </edge>
+    <edge source="A0A5K1K7U1" target="Q8IJT1">
+      <data key="d0">0.573606901243329</data>
+    </edge>
+    <edge source="A0A5K1K7U1" target="Q8IBI3">
+      <data key="d0">0.8615920066833496</data>
+    </edge>
+    <edge source="A0A5K1K7U1" target="Q8I0U7">
+      <data key="d0">0.5276215501129627</data>
+    </edge>
+    <edge source="A0A5K1K7U1" target="C6KST3">
+      <data key="d0">0.6037195086479187</data>
+    </edge>
+    <edge source="A0A5K1K7U1" target="Q7K6A9">
+      <data key="d0">0.5659467220306397</data>
+    </edge>
+    <edge source="O77396" target="Q8IJN9">
+      <data key="d0">0.5896192209795117</data>
+    </edge>
+    <edge source="O77396" target="Q8IDG2">
+      <data key="d0">0.7277012944221497</data>
+    </edge>
+    <edge source="O77396" target="Q8I261">
+      <data key="d0">0.8277857899665833</data>
+    </edge>
+    <edge source="O77396" target="Q8IK90">
+      <data key="d0">0.571053259447217</data>
+    </edge>
+    <edge source="O77396" target="Q8IDG3">
+      <data key="d0">0.8076829083263874</data>
+    </edge>
+    <edge source="O77396" target="Q8IC01">
+      <data key="d0">0.9279629588127136</data>
+    </edge>
+    <edge source="O77396" target="Q8IJT1">
+      <data key="d0">0.6240195512771607</data>
+    </edge>
+    <edge source="O77396" target="Q8IAR3">
+      <data key="d0">0.5754890620708465</data>
+    </edge>
+    <edge source="O77396" target="Q8IBI3">
+      <data key="d0">0.6254671137779951</data>
+    </edge>
+    <edge source="O77396" target="C6KST3">
+      <data key="d0">0.8858442187309266</data>
+    </edge>
+    <edge source="O77396" target="C6KT34">
+      <data key="d0">0.6842965185642242</data>
+    </edge>
+    <edge source="O77396" target="Q8I0U7">
+      <data key="d0">0.9679560542106628</data>
+    </edge>
+    <edge source="O77396" target="Q8II43">
+      <data key="d0">0.6738397832028568</data>
+    </edge>
+    <edge source="O77396" target="Q8I2X4">
+      <data key="d0">0.7662417173385621</data>
+    </edge>
+    <edge source="O77396" target="Q7K6A9">
+      <data key="d0">0.9331219077110292</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q8IFP3">
+      <data key="d0">0.913918673992157</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q8IJW0">
+      <data key="d0">0.8538144707679749</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q8IET7">
+      <data key="d0">0.7016216896474361</data>
+    </edge>
+    <edge source="Q8I0P6" target="A0A143ZY58">
+      <data key="d0">0.845184326171875</data>
+    </edge>
+    <edge source="Q8I0P6" target="O96252">
+      <data key="d0">0.8849881768226624</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q76NM3">
+      <data key="d0">0.9525165557861328</data>
+    </edge>
+    <edge source="Q8I0P6" target="C6KTA4">
+      <data key="d0">0.9998002529144288</data>
+    </edge>
+    <edge source="Q8I0P6" target="O97247">
+      <data key="d0">0.8111000806093216</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q8IKK7">
+      <data key="d0">0.9170876860618592</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q8IKR1">
+      <data key="d0">0.5721960484981536</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q8IKF0">
+      <data key="d0">0.9994900107383728</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q8I0V2">
+      <data key="d0">0.9785741806030274</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q8IIV2">
+      <data key="d0">0.6506299659609794</data>
+    </edge>
+    <edge source="Q8I0P6" target="K7NTP5">
+      <data key="d0">0.9998429179191588</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q7KQL5">
+      <data key="d0">0.8548926472663879</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q8IDN6">
+      <data key="d0">0.5227838814258575</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q8I1V1">
+      <data key="d0">0.9999000310897828</data>
+    </edge>
+    <edge source="Q8I0P6" target="O96153">
+      <data key="d0">0.9999085307121276</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q8I289">
+      <data key="d0">0.9241816163063048</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q8IEC8">
+      <data key="d0">0.974586308002472</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q8IIJ8">
+      <data key="d0">0.5071525335311889</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q8IBV7">
+      <data key="d0">0.9754770874977112</data>
+    </edge>
+    <edge source="Q8I0P6" target="Q8IB03">
+      <data key="d0">0.5226507939398288</data>
+    </edge>
+    <edge source="Q8IFP3" target="Q8IKK7">
+      <data key="d0">0.656221866607666</data>
+    </edge>
+    <edge source="Q8IFP3" target="Q8I1V1">
+      <data key="d0">0.5628015458583832</data>
+    </edge>
+    <edge source="Q8IFP3" target="Q8IEC8">
+      <data key="d0">0.9983038902282716</data>
+    </edge>
+    <edge source="Q8IFP3" target="Q8IKR1">
+      <data key="d0">0.8061918020248413</data>
+    </edge>
+    <edge source="Q8IFP3" target="Q8IKF0">
+      <data key="d0">0.7203761361539364</data>
+    </edge>
+    <edge source="Q8IFP3" target="A0A143ZY58">
+      <data key="d0">0.5409498492255806</data>
+    </edge>
+    <edge source="Q8IFP3" target="C6KSV0">
+      <data key="d0">0.5781578984344378</data>
+    </edge>
+    <edge source="Q8IFP3" target="O97247">
+      <data key="d0">0.9945586919784546</data>
+    </edge>
+    <edge source="Q8IFP3" target="Q8IBV7">
+      <data key="d0">0.5754545571748167</data>
+    </edge>
+    <edge source="Q8IFP3" target="Q8I289">
+      <data key="d0">0.5707636952400208</data>
+    </edge>
+    <edge source="Q8IFP3" target="C6KSX4">
+      <data key="d0">0.997419536113739</data>
+    </edge>
+    <edge source="Q8IFP3" target="Q8IJW0">
+      <data key="d0">0.6378807216882706</data>
+    </edge>
+    <edge source="Q8IFP3" target="Q8IET7">
+      <data key="d0">0.7691635847091675</data>
+    </edge>
+    <edge source="Q8IFP3" target="K7NTP5">
+      <data key="d0">0.757332581281662</data>
+    </edge>
+    <edge source="Q8IFP3" target="Q8I0V2">
+      <data key="d0">0.992475152015686</data>
+    </edge>
+    <edge source="Q8IFP3" target="C0H4V6">
+      <data key="d0">0.9801848649978636</data>
+    </edge>
+    <edge source="Q8IFP3" target="Q7KQL5">
+      <data key="d0">0.6655917681753636</data>
+    </edge>
+    <edge source="Q8IEU2" target="Q8IKC8">
+      <data key="d0">0.5799234182108194</data>
+    </edge>
+    <edge source="Q8IEU2" target="Q8I395">
+      <data key="d0">0.7554760873317719</data>
+    </edge>
+    <edge source="Q8IEU2" target="C0H571">
+      <data key="d0">0.9273954510688782</data>
+    </edge>
+    <edge source="Q8IEU2" target="O77310">
+      <data key="d0">0.8462604761123658</data>
+    </edge>
+    <edge source="Q8IKC8" target="C0H571">
+      <data key="d0">0.7945791855454445</data>
+    </edge>
+    <edge source="Q8IKC8" target="O77310">
+      <data key="d0">0.8084828913211822</data>
+    </edge>
+    <edge source="Q8IKC8" target="Q8ILZ1">
+      <data key="d0">0.8743395209312439</data>
+    </edge>
+    <edge source="Q8IKC8" target="Q8I484">
+      <data key="d0">0.5835778921842575</data>
+    </edge>
+    <edge source="Q8IKC8" target="Q8I395">
+      <data key="d0">0.523157948255539</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q8II43">
+      <data key="d0">0.8501102924346924</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q8IEK1">
+      <data key="d0">0.7624803937971592</data>
+    </edge>
+    <edge source="Q8I2X4" target="O97227">
+      <data key="d0">0.976285171508789</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q8IKJ0">
+      <data key="d0">0.5785079166293144</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q7K6A9">
+      <data key="d0">0.9050453066825868</data>
+    </edge>
+    <edge source="Q8I2X4" target="C6KST3">
+      <data key="d0">0.621143388748169</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q8IJN9">
+      <data key="d0">0.7672930680215359</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q8I2H3">
+      <data key="d0">0.5504861742258071</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q8IK90">
+      <data key="d0">0.6218417465686799</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q8IDG2">
+      <data key="d0">0.9364129662513732</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q8II24">
+      <data key="d0">0.9739554286003111</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q8IE84">
+      <data key="d0">0.9808879137039184</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q6ZMA8">
+      <data key="d0">0.5086495444178581</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q8IDG3">
+      <data key="d0">0.6840274512767792</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q8II36">
+      <data key="d0">0.7371839791536331</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q8I2J3">
+      <data key="d0">0.7419023476541042</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q8IC01">
+      <data key="d0">0.7737980484962463</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q8IJT1">
+      <data key="d0">0.7600331157445908</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q8I5I0">
+      <data key="d0">0.7189214855432511</data>
+    </edge>
+    <edge source="Q8I2X4" target="Q76NM6">
+      <data key="d0">0.6557933688163757</data>
+    </edge>
+    <edge source="Q8II43" target="Q8IBI3">
+      <data key="d0">0.512065939605236</data>
+    </edge>
+    <edge source="Q8II43" target="Q8IAR3">
+      <data key="d0">0.8240507006645202</data>
+    </edge>
+    <edge source="Q8II43" target="Q8IJN9">
+      <data key="d0">0.625004243850708</data>
+    </edge>
+    <edge source="Q8II43" target="C6KST3">
+      <data key="d0">0.626926600933075</data>
+    </edge>
+    <edge source="Q8II43" target="Q8IK90">
+      <data key="d0">0.6565854251384735</data>
+    </edge>
+    <edge source="Q8II43" target="Q8I261">
+      <data key="d0">0.5780184924602508</data>
+    </edge>
+    <edge source="Q8II43" target="C6KT34">
+      <data key="d0">0.5836414992809296</data>
+    </edge>
+    <edge source="Q8II43" target="Q6ZMA8">
+      <data key="d0">0.8408661603927612</data>
+    </edge>
+    <edge source="Q8II43" target="Q8IJT1">
+      <data key="d0">0.6603582680225373</data>
+    </edge>
+    <edge source="Q8II43" target="Q8IDG3">
+      <data key="d0">0.5437675133347512</data>
+    </edge>
+    <edge source="Q8II43" target="Q8IC01">
+      <data key="d0">0.8587123274803161</data>
+    </edge>
+    <edge source="Q8II43" target="Q76NM6">
+      <data key="d0">0.5845636772923172</data>
+    </edge>
+    <edge source="Q8II43" target="Q7K6A9">
+      <data key="d0">0.9745667576789856</data>
+    </edge>
+    <edge source="O97285" target="Q8IKF0">
+      <data key="d0">0.5848075211048126</data>
+    </edge>
+    <edge source="O97285" target="Q8I1V1">
+      <data key="d0">0.6550163216888905</data>
+    </edge>
+    <edge source="O97285" target="Q8IJW0">
+      <data key="d0">0.973400616645813</data>
+    </edge>
+    <edge source="O97285" target="K7NTP5">
+      <data key="d0">0.9574142575263976</data>
+    </edge>
+    <edge source="O97285" target="Q8IB24">
+      <data key="d0">0.5140750199556351</data>
+    </edge>
+    <edge source="O97285" target="C0H4V6">
+      <data key="d0">0.5376930743455887</data>
+    </edge>
+    <edge source="O97285" target="Q8I5H4">
+      <data key="d0">0.9465721607208252</data>
+    </edge>
+    <edge source="O97285" target="Q8IK89">
+      <data key="d0">0.9430780172348022</data>
+    </edge>
+    <edge source="Q8IKF0" target="Q8I0V4">
+      <data key="d0">0.976761257648468</data>
+    </edge>
+    <edge source="Q8IKF0" target="C6KTA4">
+      <data key="d0">0.9938706636428832</data>
+    </edge>
+    <edge source="Q8IKF0" target="O97247">
+      <data key="d0">0.5769700676202774</data>
+    </edge>
+    <edge source="Q8IKF0" target="Q8IET7">
+      <data key="d0">0.8789228200912476</data>
+    </edge>
+    <edge source="Q8IKF0" target="Q8II24">
+      <data key="d0">0.7615305945277214</data>
+    </edge>
+    <edge source="Q8IKF0" target="K7NTP5">
+      <data key="d0">0.5628422144800425</data>
+    </edge>
+    <edge source="Q8IKF0" target="Q8I0V2">
+      <data key="d0">0.6187448184937239</data>
+    </edge>
+    <edge source="Q8IKF0" target="C0H4V6">
+      <data key="d0">0.5136159935966134</data>
+    </edge>
+    <edge source="Q8IKF0" target="Q7KQL5">
+      <data key="d0">0.9997753024101256</data>
+    </edge>
+    <edge source="Q8IKF0" target="Q8I5L6">
+      <data key="d0">0.5539511807262898</data>
+    </edge>
+    <edge source="Q8IKF0" target="Q8I5H4">
+      <data key="d0">0.9852630496025084</data>
+    </edge>
+    <edge source="Q8IKF0" target="Q8IB24">
+      <data key="d0">0.9985397338867188</data>
+    </edge>
+    <edge source="Q8IKF0" target="Q8IC05">
+      <data key="d0">0.7893906235694885</data>
+    </edge>
+    <edge source="Q8IKF0" target="Q8IK89">
+      <data key="d0">0.999826681613922</data>
+    </edge>
+    <edge source="Q8IKF0" target="O96252">
+      <data key="d0">0.7778268976137042</data>
+    </edge>
+    <edge source="Q8I484" target="Q8I485">
+      <data key="d0">0.995911991596222</data>
+    </edge>
+    <edge source="Q8I484" target="Q8ILZ1">
+      <data key="d0">0.9897249460220336</data>
+    </edge>
+    <edge source="Q8I485" target="Q8I4R5">
+      <data key="d0">0.5568926556501538</data>
+    </edge>
+    <edge source="Q8I485" target="Q8ILZ1">
+      <data key="d0">0.5760559618473053</data>
+    </edge>
+    <edge source="C6KST3" target="Q6ZMA8">
+      <data key="d0">0.844795435667038</data>
+    </edge>
+    <edge source="C6KST3" target="Q8I0U7">
+      <data key="d0">0.7077856384217739</data>
+    </edge>
+    <edge source="C6KST3" target="C6KT34">
+      <data key="d0">0.9973775625228882</data>
+    </edge>
+    <edge source="C6KST3" target="Q7K6A9">
+      <data key="d0">0.5085937272757292</data>
+    </edge>
+    <edge source="C6KST3" target="Q8IJN9">
+      <data key="d0">0.7989374905824661</data>
+    </edge>
+    <edge source="C6KST3" target="Q8IDG2">
+      <data key="d0">0.6260966807603836</data>
+    </edge>
+    <edge source="C6KST3" target="Q8I261">
+      <data key="d0">0.6876430720090866</data>
+    </edge>
+    <edge source="C6KST3" target="Q8IK90">
+      <data key="d0">0.8556625485420227</data>
+    </edge>
+    <edge source="C6KST3" target="Q76NM6">
+      <data key="d0">0.5314948618412018</data>
+    </edge>
+    <edge source="C6KST3" target="Q8IDG3">
+      <data key="d0">0.5932047791779042</data>
+    </edge>
+    <edge source="C6KST3" target="Q8IC01">
+      <data key="d0">0.641743937600404</data>
+    </edge>
+    <edge source="C6KST3" target="Q8IJT1">
+      <data key="d0">0.6124924354255199</data>
+    </edge>
+    <edge source="C6KST3" target="Q8IAR3">
+      <data key="d0">0.973967719078064</data>
+    </edge>
+    <edge source="C6KST3" target="Q8IBI3">
+      <data key="d0">0.98386549949646</data>
+    </edge>
+    <edge source="Q6ZMA8" target="Q8IC01">
+      <data key="d0">0.6257726445794105</data>
+    </edge>
+    <edge source="Q6ZMA8" target="Q8I280">
+      <data key="d0">0.7877995133399963</data>
+    </edge>
+    <edge source="Q6ZMA8" target="Q8IJT1">
+      <data key="d0">0.9920438885688782</data>
+    </edge>
+    <edge source="Q6ZMA8" target="Q8I2H3">
+      <data key="d0">0.5888288122601807</data>
+    </edge>
+    <edge source="Q6ZMA8" target="Q8IKJ0">
+      <data key="d0">0.9995426058769226</data>
+    </edge>
+    <edge source="Q6ZMA8" target="Q8IJN9">
+      <data key="d0">0.5265821985900402</data>
+    </edge>
+    <edge source="Q6ZMA8" target="Q76NM3">
+      <data key="d0">0.5030843406915665</data>
+    </edge>
+    <edge source="Q6ZMA8" target="Q8IK90">
+      <data key="d0">0.997844421863556</data>
+    </edge>
+    <edge source="Q6ZMA8" target="Q8IJN7">
+      <data key="d0">0.9491129279136656</data>
+    </edge>
+    <edge source="Q6ZMA8" target="Q76NM6">
+      <data key="d0">0.6780212163925171</data>
+    </edge>
+    <edge source="Q6ZMA8" target="Q8IE84">
+      <data key="d0">0.748190176486969</data>
+    </edge>
+    <edge source="Q8IEK1" target="Q8IC01">
+      <data key="d0">0.998980677127838</data>
+    </edge>
+    <edge source="Q8IJW0" target="Q8I1V1">
+      <data key="d0">0.5481198702007533</data>
+    </edge>
+    <edge source="Q8IJW0" target="Q8IB03">
+      <data key="d0">0.9933477997779846</data>
+    </edge>
+    <edge source="Q8IJW0" target="Q8IES0">
+      <data key="d0">0.5611101515591145</data>
+    </edge>
+    <edge source="Q8IJW0" target="O96252">
+      <data key="d0">0.9613568902015686</data>
+    </edge>
+    <edge source="Q8IJW0" target="C6KTA4">
+      <data key="d0">0.9866608262062072</data>
+    </edge>
+    <edge source="Q8IJW0" target="O97247">
+      <data key="d0">0.621888792514801</data>
+    </edge>
+    <edge source="Q8IJW0" target="Q8I289">
+      <data key="d0">0.7825129866600037</data>
+    </edge>
+    <edge source="Q8IJW0" target="Q8IET7">
+      <data key="d0">0.9118263959884644</data>
+    </edge>
+    <edge source="Q8IJW0" target="Q8IIJ8">
+      <data key="d0">0.5367674767971039</data>
+    </edge>
+    <edge source="Q8IJW0" target="K7NTP5">
+      <data key="d0">0.7435745269060134</data>
+    </edge>
+    <edge source="Q8IJW0" target="Q8IDN6">
+      <data key="d0">0.5388408120721577</data>
+    </edge>
+    <edge source="Q8IJW0" target="Q7KQL5">
+      <data key="d0">0.5326689586043358</data>
+    </edge>
+    <edge source="Q8IJW0" target="Q8I0V2">
+      <data key="d0">0.878401517868042</data>
+    </edge>
+    <edge source="Q8IJW0" target="O96153">
+      <data key="d0">0.9407370686531068</data>
+    </edge>
+    <edge source="O97227" target="Q8I0X1">
+      <data key="d0">0.7989922255277634</data>
+    </edge>
+    <edge source="O97227" target="C0H5H0">
+      <data key="d0">0.9116176843643188</data>
+    </edge>
+    <edge source="O97227" target="Q8IJN9">
+      <data key="d0">0.7335072442889213</data>
+    </edge>
+    <edge source="O97227" target="Q8ILB6">
+      <data key="d0">0.94878591299057</data>
+    </edge>
+    <edge source="O97227" target="Q8II24">
+      <data key="d0">0.6081095725297928</data>
+    </edge>
+    <edge source="O97227" target="Q8II36">
+      <data key="d0">0.790908545255661</data>
+    </edge>
+    <edge source="O97227" target="Q8IC01">
+      <data key="d0">0.6814394772052765</data>
+    </edge>
+    <edge source="O97227" target="Q8IEJ6">
+      <data key="d0">0.7281350582838059</data>
+    </edge>
+    <edge source="Q8I0X1" target="Q8ILB6">
+      <data key="d0">0.7398522071540355</data>
+    </edge>
+    <edge source="Q8I0X1" target="P61074">
+      <data key="d0">0.6359063163399696</data>
+    </edge>
+    <edge source="Q8I0X1" target="Q8II61">
+      <data key="d0">0.6963693648576735</data>
+    </edge>
+    <edge source="Q8I0X1" target="Q8IEJ6">
+      <data key="d0">0.7560477077960968</data>
+    </edge>
+    <edge source="C6KT18" target="Q8I5H4">
+      <data key="d0">0.6534894801676273</data>
+    </edge>
+    <edge source="C6KT18" target="Q8I608">
+      <data key="d0">0.7877830614335835</data>
+    </edge>
+    <edge source="C6KT18" target="C6KSV0">
+      <data key="d0">0.990760338306427</data>
+    </edge>
+    <edge source="C6KT18" target="Q8I0V2">
+      <data key="d0">0.9060609817504884</data>
+    </edge>
+    <edge source="C6KT18" target="Q8IIV2">
+      <data key="d0">0.7117183183319866</data>
+    </edge>
+    <edge source="C6KT18" target="K7NTP5">
+      <data key="d0">0.5591669142246246</data>
+    </edge>
+    <edge source="C6KT18" target="Q8IIV1">
+      <data key="d0">0.6779407680034637</data>
+    </edge>
+    <edge source="C6KT18" target="Q8IBV7">
+      <data key="d0">0.9926780223846436</data>
+    </edge>
+    <edge source="C6KT18" target="Q7KQL5">
+      <data key="d0">0.6111686676740646</data>
+    </edge>
+    <edge source="C6KT18" target="Q8IET7">
+      <data key="d0">0.6431944459676743</data>
+    </edge>
+    <edge source="C6KT18" target="Q8IB24">
+      <data key="d0">0.6553582489490509</data>
+    </edge>
+    <edge source="Q8I5H4" target="Q8IAX8">
+      <data key="d0">0.5337429894134402</data>
+    </edge>
+    <edge source="Q8I5H4" target="K7NTP5">
+      <data key="d0">0.8169132530689239</data>
+    </edge>
+    <edge source="Q8I5H4" target="Q8I0V2">
+      <data key="d0">0.8338174819946289</data>
+    </edge>
+    <edge source="Q8I5H4" target="Q8IB24">
+      <data key="d0">0.6257041484117508</data>
+    </edge>
+    <edge source="Q8I5H4" target="Q8IK89">
+      <data key="d0">0.5145177394151688</data>
+    </edge>
+    <edge source="Q8I5H4" target="Q8IIV2">
+      <data key="d0">0.6002417381852865</data>
+    </edge>
+    <edge source="Q8I5H4" target="Q8IKG9">
+      <data key="d0">0.5998935662209988</data>
+    </edge>
+    <edge source="Q8I5H4" target="Q8IIV1">
+      <data key="d0">0.6168375313282013</data>
+    </edge>
+    <edge source="Q8I5H4" target="C6KSV0">
+      <data key="d0">0.8301278352737427</data>
+    </edge>
+    <edge source="Q8I5H4" target="Q8IBV7">
+      <data key="d0">0.5642642557621003</data>
+    </edge>
+    <edge source="Q8IDG2" target="Q8IC01">
+      <data key="d0">0.5236556231975555</data>
+    </edge>
+    <edge source="Q8IDG2" target="Q76NM6">
+      <data key="d0">0.877495813369751</data>
+    </edge>
+    <edge source="Q8IDG2" target="Q8I0U7">
+      <data key="d0">0.956131649017334</data>
+    </edge>
+    <edge source="Q8IDG2" target="Q8IJN9">
+      <data key="d0">0.6021788582205773</data>
+    </edge>
+    <edge source="Q8IDG2" target="Q7K6A9">
+      <data key="d0">0.6040418467484414</data>
+    </edge>
+    <edge source="Q8IDG2" target="Q8IK90">
+      <data key="d0">0.5315857410430909</data>
+    </edge>
+    <edge source="Q8IDG2" target="Q8IBI3">
+      <data key="d0">0.7753922015428543</data>
+    </edge>
+    <edge source="Q8IDG2" target="Q8IAR3">
+      <data key="d0">0.9795835614204408</data>
+    </edge>
+    <edge source="Q8IDG2" target="Q8II24">
+      <data key="d0">0.8607619524002075</data>
+    </edge>
+    <edge source="Q8IDG2" target="Q8IDG3">
+      <data key="d0">0.7797228336334229</data>
+    </edge>
+    <edge source="Q8IDG2" target="Q8I261">
+      <data key="d0">0.8621182560920715</data>
+    </edge>
+    <edge source="Q8IDG2" target="Q8IJT1">
+      <data key="d0">0.5550167512468761</data>
+    </edge>
+    <edge source="Q8IDG2" target="C6KT34">
+      <data key="d0">0.9868422985076905</data>
+    </edge>
+    <edge source="C0H4V6" target="Q7KQL9">
+      <data key="d0">0.6281091019511222</data>
+    </edge>
+    <edge source="C0H4V6" target="P61074">
+      <data key="d0">0.7440528869628906</data>
+    </edge>
+    <edge source="C0H4V6" target="Q8I0V4">
+      <data key="d0">0.7704584468156099</data>
+    </edge>
+    <edge source="C0H4V6" target="Q8IJN7">
+      <data key="d0">0.8181600928306579</data>
+    </edge>
+    <edge source="C0H4V6" target="Q8II24">
+      <data key="d0">0.6270820915699005</data>
+    </edge>
+    <edge source="C0H4V6" target="Q8IB24">
+      <data key="d0">0.5789141654968262</data>
+    </edge>
+    <edge source="C0H4V6" target="Q8IE84">
+      <data key="d0">0.564981932938099</data>
+    </edge>
+    <edge source="C0H4V6" target="Q8IM55">
+      <data key="d0">0.5232290174812079</data>
+    </edge>
+    <edge source="C0H4V6" target="Q8I608">
+      <data key="d0">0.7674408823251724</data>
+    </edge>
+    <edge source="C0H4V6" target="Q8I2H3">
+      <data key="d0">0.5296934336423874</data>
+    </edge>
+    <edge source="C0H4V6" target="Q8IC05">
+      <data key="d0">0.7994705259799957</data>
+    </edge>
+    <edge source="C0H4V6" target="K7NTP5">
+      <data key="d0">0.7061116635799408</data>
+    </edge>
+    <edge source="C0H4V6" target="Q8II61">
+      <data key="d0">0.6745435714721679</data>
+    </edge>
+    <edge source="C0H4V6" target="O97247">
+      <data key="d0">0.9517114877700804</data>
+    </edge>
+    <edge source="C0H4V6" target="Q8IBV7">
+      <data key="d0">0.7297577183693648</data>
+    </edge>
+    <edge source="C0H4V6" target="Q76NN6">
+      <data key="d0">0.5402900248765945</data>
+    </edge>
+    <edge source="C0H4V6" target="A0A143ZY58">
+      <data key="d0">0.9999318838119506</data>
+    </edge>
+    <edge source="C0H4V6" target="Q8ILB6">
+      <data key="d0">0.526628191024065</data>
+    </edge>
+    <edge source="Q7KQL9" target="C6KT50">
+      <data key="d0">0.9321502685546876</data>
+    </edge>
+    <edge source="Q7KQL9" target="Q8IJN7">
+      <data key="d0">0.577183285402134</data>
+    </edge>
+    <edge source="Q7KQL9" target="Q8II61">
+      <data key="d0">0.5620351552963256</data>
+    </edge>
+    <edge source="Q8IC05" target="Q8IDN6">
+      <data key="d0">0.7987437635660172</data>
+    </edge>
+    <edge source="Q8IC05" target="Q8IEC8">
+      <data key="d0">0.9550028681755066</data>
+    </edge>
+    <edge source="Q8IC05" target="Q8I289">
+      <data key="d0">0.8843506813049317</data>
+    </edge>
+    <edge source="Q8IC05" target="Q8II24">
+      <data key="d0">0.8469569325447083</data>
+    </edge>
+    <edge source="Q8IC05" target="Q8IKK7">
+      <data key="d0">0.96721351146698</data>
+    </edge>
+    <edge source="Q8IC05" target="Q8IB24">
+      <data key="d0">0.5146657444536686</data>
+    </edge>
+    <edge source="Q8IC05" target="Q8IB03">
+      <data key="d0">0.696231198310852</data>
+    </edge>
+    <edge source="Q8IC05" target="O96252">
+      <data key="d0">0.9994425415992736</data>
+    </edge>
+    <edge source="Q8IC05" target="C6KSV0">
+      <data key="d0">0.9840363025665284</data>
+    </edge>
+    <edge source="Q8IC05" target="Q8I0V4">
+      <data key="d0">0.6765065610408783</data>
+    </edge>
+    <edge source="Q8IDN6" target="Q8I2W2">
+      <data key="d0">0.999689483642578</data>
+    </edge>
+    <edge source="Q8IDN6" target="O96252">
+      <data key="d0">0.7083565047010779</data>
+    </edge>
+    <edge source="Q8IDN6" target="Q8IKR1">
+      <data key="d0">0.9758895993232728</data>
+    </edge>
+    <edge source="Q8IDN6" target="Q8I0V2">
+      <data key="d0">0.6149057045578956</data>
+    </edge>
+    <edge source="Q8IDN6" target="Q8ILV6">
+      <data key="d0">0.9997732877731323</data>
+    </edge>
+    <edge source="Q8IDN6" target="Q8IEC8">
+      <data key="d0">0.5047942817211151</data>
+    </edge>
+    <edge source="Q7KQL5" target="Q8IET7">
+      <data key="d0">0.6145927727222442</data>
+    </edge>
+    <edge source="Q7KQL5" target="Q8ILB6">
+      <data key="d0">0.937140941619873</data>
+    </edge>
+    <edge source="Q7KQL5" target="A0A143ZY58">
+      <data key="d0">0.8211259871721268</data>
+    </edge>
+    <edge source="Q7KQL5" target="C6KSV0">
+      <data key="d0">0.5685515627264977</data>
+    </edge>
+    <edge source="Q7KQL5" target="O96252">
+      <data key="d0">0.5128146418370306</data>
+    </edge>
+    <edge source="Q7KQL5" target="Q8IKK7">
+      <data key="d0">0.544692063331604</data>
+    </edge>
+    <edge source="Q7KQL5" target="Q8IKR1">
+      <data key="d0">0.8600964307785034</data>
+    </edge>
+    <edge source="Q7KQL5" target="C6KTA4">
+      <data key="d0">0.6666960403323173</data>
+    </edge>
+    <edge source="Q7KQL5" target="O97247">
+      <data key="d0">0.7664513301104308</data>
+    </edge>
+    <edge source="Q7KQL5" target="Q8I0V2">
+      <data key="d0">0.614089785516262</data>
+    </edge>
+    <edge source="Q7KQL5" target="Q8I1V1">
+      <data key="d0">0.8344494044780731</data>
+    </edge>
+    <edge source="Q7KQL5" target="K7NTP5">
+      <data key="d0">0.760325801372528</data>
+    </edge>
+    <edge source="Q8IET7" target="O96153">
+      <data key="d0">0.8563888192176818</data>
+    </edge>
+    <edge source="Q8IET7" target="Q8IKR1">
+      <data key="d0">0.6782449953258037</data>
+    </edge>
+    <edge source="Q8IET7" target="Q8I1V1">
+      <data key="d0">0.5262319892644882</data>
+    </edge>
+    <edge source="Q8IET7" target="O96252">
+      <data key="d0">0.5423214294016361</data>
+    </edge>
+    <edge source="Q8IET7" target="C6KSV0">
+      <data key="d0">0.7373006075620652</data>
+    </edge>
+    <edge source="Q8IET7" target="C6KTA4">
+      <data key="d0">0.99977388381958</data>
+    </edge>
+    <edge source="Q8IET7" target="O97247">
+      <data key="d0">0.52668796479702</data>
+    </edge>
+    <edge source="Q8IET7" target="Q8IBV7">
+      <data key="d0">0.7162953913211823</data>
+    </edge>
+    <edge source="Q8IET7" target="Q8IIV8">
+      <data key="d0">0.9587987422943116</data>
+    </edge>
+    <edge source="Q8IET7" target="K7NTP5">
+      <data key="d0">0.5077332239598036</data>
+    </edge>
+    <edge source="Q8IET7" target="Q8I0V2">
+      <data key="d0">0.6450066678225994</data>
+    </edge>
+    <edge source="Q76NN6" target="Q8ILI6">
+      <data key="d0">0.7372349798679352</data>
+    </edge>
+    <edge source="Q76NN6" target="Q8IM55">
+      <data key="d0">0.9311452627182006</data>
+    </edge>
+    <edge source="Q76NN6" target="C0H4Y6">
+      <data key="d0">0.5336467124521732</data>
+    </edge>
+    <edge source="Q76NN6" target="O97320">
+      <data key="d0">0.5153305441141128</data>
+    </edge>
+    <edge source="Q76NN6" target="Q8II61">
+      <data key="d0">0.8883574724197387</data>
+    </edge>
+    <edge source="Q76NN6" target="P61074">
+      <data key="d0">0.7879633270204067</data>
+    </edge>
+    <edge source="Q76NN6" target="Q8I2W3">
+      <data key="d0">0.5109905481338501</data>
+    </edge>
+    <edge source="Q76NN6" target="Q8ILB6">
+      <data key="d0">0.5730460345745086</data>
+    </edge>
+    <edge source="Q8ILI6" target="Q8I2W3">
+      <data key="d0">0.7984559237957001</data>
+    </edge>
+    <edge source="Q8ILI6" target="Q8ILB6">
+      <data key="d0">0.856654268503189</data>
+    </edge>
+    <edge source="Q8ILI6" target="Q8I608">
+      <data key="d0">0.878549325466156</data>
+    </edge>
+    <edge source="Q8ILI6" target="O97320">
+      <data key="d0">0.90115385055542</data>
+    </edge>
+    <edge source="Q8ILI6" target="Q8II61">
+      <data key="d0">0.5795196861028671</data>
+    </edge>
+    <edge source="Q8IDZ8" target="Q8II61">
+      <data key="d0">0.6859583526849746</data>
+    </edge>
+    <edge source="Q8IDZ8" target="Q8II24">
+      <data key="d0">0.8326678514480591</data>
+    </edge>
+    <edge source="Q8II61" target="Q8I2H3">
+      <data key="d0">0.5635925214737654</data>
+    </edge>
+    <edge source="Q8II61" target="P61074">
+      <data key="d0">0.6360621333122254</data>
+    </edge>
+    <edge source="Q8II61" target="Q76NM3">
+      <data key="d0">0.958012068271637</data>
+    </edge>
+    <edge source="Q8II61" target="Q8I2W3">
+      <data key="d0">0.7940073549747467</data>
+    </edge>
+    <edge source="Q8II61" target="Q8ILB6">
+      <data key="d0">0.888881504535675</data>
+    </edge>
+    <edge source="Q8II61" target="Q8IE84">
+      <data key="d0">0.5777650948613882</data>
+    </edge>
+    <edge source="Q8II61" target="Q8IJN7">
+      <data key="d0">0.603042921423912</data>
+    </edge>
+    <edge source="Q8II61" target="Q8I608">
+      <data key="d0">0.9837513089179992</data>
+    </edge>
+    <edge source="Q8II61" target="Q8IM55">
+      <data key="d0">0.83238505423069</data>
+    </edge>
+    <edge source="Q8II61" target="Q8I5B6">
+      <data key="d0">0.8039928674697876</data>
+    </edge>
+    <edge source="C0H5H0" target="Q8I0U7">
+      <data key="d0">0.6139167175628245</data>
+    </edge>
+    <edge source="C0H5H0" target="Q8IJN9">
+      <data key="d0">0.9519560933113098</data>
+    </edge>
+    <edge source="C0H5H0" target="Q8IK90">
+      <data key="d0">0.5740393459796905</data>
+    </edge>
+    <edge source="C0H5H0" target="Q8II36">
+      <data key="d0">0.5525138005614281</data>
+    </edge>
+    <edge source="C0H5H0" target="Q8IC01">
+      <data key="d0">0.6074600905179978</data>
+    </edge>
+    <edge source="C0H5H0" target="Q8IBI3">
+      <data key="d0">0.722867465019226</data>
+    </edge>
+    <edge source="Q8I0U7" target="Q8I261">
+      <data key="d0">0.8155449688434601</data>
+    </edge>
+    <edge source="Q8I0U7" target="Q8IK90">
+      <data key="d0">0.725270825624466</data>
+    </edge>
+    <edge source="Q8I0U7" target="Q8IDG3">
+      <data key="d0">0.5131049221381545</data>
+    </edge>
+    <edge source="Q8I0U7" target="C6KT34">
+      <data key="d0">0.9878728032112122</data>
+    </edge>
+    <edge source="Q8I0U7" target="Q8IC01">
+      <data key="d0">0.6297559728845954</data>
+    </edge>
+    <edge source="Q8I0U7" target="Q8IAR3">
+      <data key="d0">0.606773267313838</data>
+    </edge>
+    <edge source="Q8I0U7" target="Q8IJT1">
+      <data key="d0">0.581487999856472</data>
+    </edge>
+    <edge source="Q8I0U7" target="Q8IBI3">
+      <data key="d0">0.952688193321228</data>
+    </edge>
+    <edge source="Q8I0U7" target="Q7K6A9">
+      <data key="d0">0.7997030317783356</data>
+    </edge>
+    <edge source="Q8IC01" target="Q8IK90">
+      <data key="d0">0.8127252697944641</data>
+    </edge>
+    <edge source="Q8IC01" target="Q8I2J3">
+      <data key="d0">0.7091998592019081</data>
+    </edge>
+    <edge source="Q8IC01" target="Q8IDG3">
+      <data key="d0">0.6388127237558365</data>
+    </edge>
+    <edge source="Q8IC01" target="Q8II36">
+      <data key="d0">0.705884462967515</data>
+    </edge>
+    <edge source="Q8IC01" target="Q8IKK7">
+      <data key="d0">0.9981636881828309</data>
+    </edge>
+    <edge source="Q8IC01" target="Q8IJT1">
+      <data key="d0">0.6544997066259384</data>
+    </edge>
+    <edge source="Q8IC01" target="Q7K6A5">
+      <data key="d0">0.6557865798473358</data>
+    </edge>
+    <edge source="Q8IC01" target="Q7K6A9">
+      <data key="d0">0.936710488796234</data>
+    </edge>
+    <edge source="Q8IC01" target="Q8IBI3">
+      <data key="d0">0.8805423498153686</data>
+    </edge>
+    <edge source="Q8IC01" target="Q8I2H3">
+      <data key="d0">0.5737094417214392</data>
+    </edge>
+    <edge source="Q8IC01" target="Q8IJN9">
+      <data key="d0">0.9996663570404052</data>
+    </edge>
+    <edge source="Q8I608" target="Q8I2W3">
+      <data key="d0">0.5831441329792142</data>
+    </edge>
+    <edge source="Q8I608" target="K7NTP5">
+      <data key="d0">0.5021687181666493</data>
+    </edge>
+    <edge source="Q8I608" target="Q8IIV2">
+      <data key="d0">0.635938324034214</data>
+    </edge>
+    <edge source="Q8I608" target="Q7KQK6">
+      <data key="d0">0.9941964507102966</data>
+    </edge>
+    <edge source="Q8I608" target="C6KSV0">
+      <data key="d0">0.5871988788247109</data>
+    </edge>
+    <edge source="Q8I608" target="Q8IIV1">
+      <data key="d0">0.6024049066007138</data>
+    </edge>
+    <edge source="Q8IKK7" target="Q8II24">
+      <data key="d0">0.7817428827285766</data>
+    </edge>
+    <edge source="Q8IKK7" target="K7NTP5">
+      <data key="d0">0.739393949508667</data>
+    </edge>
+    <edge source="Q8IKK7" target="Q8I0V2">
+      <data key="d0">0.9614146113395692</data>
+    </edge>
+    <edge source="Q8IKK7" target="Q8IB24">
+      <data key="d0">0.5305555403232575</data>
+    </edge>
+    <edge source="Q8IKK7" target="Q76NM3">
+      <data key="d0">0.9246500968933106</data>
+    </edge>
+    <edge source="Q8IKK7" target="O97247">
+      <data key="d0">0.5011678069829941</data>
+    </edge>
+    <edge source="Q8IJN9" target="Q7K6A9">
+      <data key="d0">0.7693220615386963</data>
+    </edge>
+    <edge source="Q8IJN9" target="Q8IBI3">
+      <data key="d0">0.6254955649375915</data>
+    </edge>
+    <edge source="Q8IJN9" target="Q8IK90">
+      <data key="d0">0.999897563457489</data>
+    </edge>
+    <edge source="Q8IJN9" target="Q8IDG3">
+      <data key="d0">0.6693640619516372</data>
+    </edge>
+    <edge source="Q8IJN9" target="Q76NM6">
+      <data key="d0">0.998046827316284</data>
+    </edge>
+    <edge source="Q8I280" target="Q8IE84">
+      <data key="d0">0.7809593409299851</data>
+    </edge>
+    <edge source="Q8I280" target="Q76NM6">
+      <data key="d0">0.5168864354491234</data>
+    </edge>
+    <edge source="Q8I280" target="Q8I2H3">
+      <data key="d0">0.6764739146456122</data>
+    </edge>
+    <edge source="C0H571" target="O77310">
+      <data key="d0">0.9985048413276671</data>
+    </edge>
+    <edge source="C0H571" target="Q8I395">
+      <data key="d0">0.7863685712218285</data>
+    </edge>
+    <edge source="C0H571" target="Q8IBN4">
+      <data key="d0">0.8555385708808899</data>
+    </edge>
+    <edge source="C0H571" target="Q8ILZ1">
+      <data key="d0">0.565418416261673</data>
+    </edge>
+    <edge source="C0H571" target="Q8IAV1">
+      <data key="d0">0.5968037880957127</data>
+    </edge>
+    <edge source="Q8IJT1" target="Q8IDG3">
+      <data key="d0">0.7809720575809479</data>
+    </edge>
+    <edge source="Q8IJT1" target="Q76NM6">
+      <data key="d0">0.7252574587240815</data>
+    </edge>
+    <edge source="Q8IJT1" target="Q7K6A9">
+      <data key="d0">0.5558761455118656</data>
+    </edge>
+    <edge source="Q8IJT1" target="Q8IK90">
+      <data key="d0">0.9970599055290222</data>
+    </edge>
+    <edge source="Q8IJT1" target="Q8IBI3">
+      <data key="d0">0.8784822821617126</data>
+    </edge>
+    <edge source="Q8IJT1" target="Q8IAR3">
+      <data key="d0">0.7714065723121166</data>
+    </edge>
+    <edge source="Q8IJT1" target="Q8I261">
+      <data key="d0">0.6912136256694794</data>
+    </edge>
+    <edge source="Q8IJT1" target="C6KT34">
+      <data key="d0">0.9182290196418762</data>
+    </edge>
+    <edge source="O96153" target="O96252">
+      <data key="d0">0.7996527016162872</data>
+    </edge>
+    <edge source="O96153" target="Q8I0V2">
+      <data key="d0">0.6639643698930741</data>
+    </edge>
+    <edge source="O96153" target="K7NTP5">
+      <data key="d0">0.98492751121521</data>
+    </edge>
+    <edge source="O96153" target="Q8I5L6">
+      <data key="d0">0.7259729340672493</data>
+    </edge>
+    <edge source="O96153" target="O97247">
+      <data key="d0">0.8849692463874816</data>
+    </edge>
+    <edge source="O96153" target="Q8I1V1">
+      <data key="d0">0.5639472514390945</data>
+    </edge>
+    <edge source="O96153" target="Q8I289">
+      <data key="d0">0.6306662704795599</data>
+    </edge>
+    <edge source="Q8I1V1" target="O96252">
+      <data key="d0">0.5627483159303666</data>
+    </edge>
+    <edge source="Q8I1V1" target="O97247">
+      <data key="d0">0.999692726135254</data>
+    </edge>
+    <edge source="Q8I1V1" target="K7NTP5">
+      <data key="d0">0.6494590699672699</data>
+    </edge>
+    <edge source="Q8I1V1" target="Q8I0V2">
+      <data key="d0">0.5347036629915237</data>
+    </edge>
+    <edge source="Q8I1V1" target="Q8I289">
+      <data key="d0">0.5119504325091839</data>
+    </edge>
+    <edge source="Q8I1V1" target="Q8IIJ8">
+      <data key="d0">0.7548639476299286</data>
+    </edge>
+    <edge source="Q8I261" target="Q7K6A9">
+      <data key="d0">0.7858856439590454</data>
+    </edge>
+    <edge source="Q8I261" target="Q8IK90">
+      <data key="d0">0.642706960439682</data>
+    </edge>
+    <edge source="Q8I261" target="Q8IDG3">
+      <data key="d0">0.9801401615142822</data>
+    </edge>
+    <edge source="Q8I261" target="Q8IAR3">
+      <data key="d0">0.6909383496269583</data>
+    </edge>
+    <edge source="Q8I261" target="Q8IBI3">
+      <data key="d0">0.6439750790596008</data>
+    </edge>
+    <edge source="P61074" target="Q8ILB6">
+      <data key="d0">0.999647057056427</data>
+    </edge>
+    <edge source="Q76NM6" target="Q8IK90">
+      <data key="d0">0.699627810716629</data>
+    </edge>
+    <edge source="Q76NM6" target="Q8IE84">
+      <data key="d0">0.954171895980835</data>
+    </edge>
+    <edge source="Q76NM6" target="Q8IDG3">
+      <data key="d0">0.5624771483242512</data>
+    </edge>
+    <edge source="Q76NM6" target="Q8I2H3">
+      <data key="d0">0.5464491218328476</data>
+    </edge>
+    <edge source="Q76NM6" target="Q8IBI3">
+      <data key="d0">0.759518849849701</data>
+    </edge>
+    <edge source="Q76NM6" target="Q8IKJ0">
+      <data key="d0">0.9879031896591186</data>
+    </edge>
+    <edge source="Q76NM6" target="Q7K6A9">
+      <data key="d0">0.5701248660683632</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8IJN7">
+      <data key="d0">0.9839324116706848</data>
+    </edge>
+    <edge source="K7NTP5" target="C6KSV0">
+      <data key="d0">0.6639498591423034</data>
+    </edge>
+    <edge source="K7NTP5" target="Q76NN8">
+      <data key="d0">0.621202540397644</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8IB24">
+      <data key="d0">0.6818523705005646</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8IES0">
+      <data key="d0">0.8520348906517029</data>
+    </edge>
+    <edge source="K7NTP5" target="C6KTA4">
+      <data key="d0">0.8740836143493652</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8IKR1">
+      <data key="d0">0.9004997372627258</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8IK89">
+      <data key="d0">0.529296438023448</data>
+    </edge>
+    <edge source="K7NTP5" target="O96252">
+      <data key="d0">0.7500089704990387</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8IBD1">
+      <data key="d0">0.7366987407207489</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8I0V2">
+      <data key="d0">0.9387556791305542</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8IIV2">
+      <data key="d0">0.5677161674946547</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8II73">
+      <data key="d0">0.5348239287734031</data>
+    </edge>
+    <edge source="K7NTP5" target="O97247">
+      <data key="d0">0.5615703787654638</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8IKG9">
+      <data key="d0">0.9537190079689026</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8ILV6">
+      <data key="d0">0.9993508100509644</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8I5L6">
+      <data key="d0">0.6622864723205566</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8I5A9">
+      <data key="d0">0.51964130140841</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8IIV1">
+      <data key="d0">0.6553739674389363</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8IBV7">
+      <data key="d0">0.9997873187065124</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8IIJ8">
+      <data key="d0">0.7179137170314789</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8IB03">
+      <data key="d0">0.8848047971725463</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8IKJ0">
+      <data key="d0">0.5305626474320888</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8I2W2">
+      <data key="d0">0.6490318536758423</data>
+    </edge>
+    <edge source="K7NTP5" target="Q8IJX8">
+      <data key="d0">0.7987085238099099</data>
+    </edge>
+    <edge source="K7NTP5" target="Q76NM3">
+      <data key="d0">0.790561419725418</data>
+    </edge>
+    <edge source="K7NTP5" target="A0A143ZY58">
+      <data key="d0">0.6038088619709014</data>
+    </edge>
+    <edge source="Q8IJN7" target="C6KT50">
+      <data key="d0">0.5302730811759829</data>
+    </edge>
+    <edge source="Q8I0V4" target="Q8II24">
+      <data key="d0">0.8700834274291992</data>
+    </edge>
+    <edge source="Q8I0V4" target="Q8IB24">
+      <data key="d0">0.6347081214189529</data>
+    </edge>
+    <edge source="Q8ILB6" target="Q7KQK6">
+      <data key="d0">0.5610793471336365</data>
+    </edge>
+    <edge source="Q8ILB6" target="Q8IEJ6">
+      <data key="d0">0.8176041126251221</data>
+    </edge>
+    <edge source="Q8IK90" target="Q7K6A9">
+      <data key="d0">0.5391262378543615</data>
+    </edge>
+    <edge source="Q8IK90" target="Q8IBI3">
+      <data key="d0">0.6742614179849624</data>
+    </edge>
+    <edge source="Q8IK90" target="Q8IAR3">
+      <data key="d0">0.9487323880195616</data>
+    </edge>
+    <edge source="Q8IK90" target="C6KT34">
+      <data key="d0">0.9006780028343201</data>
+    </edge>
+    <edge source="Q8IK90" target="Q8IDG3">
+      <data key="d0">0.6075443148612976</data>
+    </edge>
+    <edge source="C6KTA4" target="Q8I0V2">
+      <data key="d0">0.6573792189359665</data>
+    </edge>
+    <edge source="C6KTA4" target="O97247">
+      <data key="d0">0.7366818696260452</data>
+    </edge>
+    <edge source="Q8II36" target="Q8IJ34">
+      <data key="d0">0.5322580337524414</data>
+    </edge>
+    <edge source="Q8II36" target="O77389">
+      <data key="d0">0.8492644846439361</data>
+    </edge>
+    <edge source="Q8IJ34" target="C6KSV0">
+      <data key="d0">0.5833195298910141</data>
+    </edge>
+    <edge source="Q8IJ34" target="Q8IEA6">
+      <data key="d0">0.6120107783004641</data>
+    </edge>
+    <edge source="Q8IJ34" target="Q8I0V2">
+      <data key="d0">0.6188284754753113</data>
+    </edge>
+    <edge source="C6KT34" target="Q8IBI3">
+      <data key="d0">0.7477305829524994</data>
+    </edge>
+    <edge source="C6KT34" target="Q7K6A9">
+      <data key="d0">0.7588646173477173</data>
+    </edge>
+    <edge source="C6KT34" target="Q8IDG3">
+      <data key="d0">0.5098424319177866</data>
+    </edge>
+    <edge source="Q8IBI3" target="Q8IDG3">
+      <data key="d0">0.6597691167145967</data>
+    </edge>
+    <edge source="Q8IBI3" target="Q7K6A9">
+      <data key="d0">0.8738824188709259</data>
+    </edge>
+    <edge source="Q8IBI3" target="Q8IAR3">
+      <data key="d0">0.9061123490333556</data>
+    </edge>
+    <edge source="C6KSV0" target="Q8IIV1">
+      <data key="d0">0.6828259050846099</data>
+    </edge>
+    <edge source="C6KSV0" target="Q8ILG8">
+      <data key="d0">0.5521578341722488</data>
+    </edge>
+    <edge source="C6KSV0" target="Q8IBV7">
+      <data key="d0">0.6422656491398812</data>
+    </edge>
+    <edge source="C6KSV0" target="Q8IAX8">
+      <data key="d0">0.8626718044281005</data>
+    </edge>
+    <edge source="C6KSV0" target="Q8IB24">
+      <data key="d0">0.6675848145037889</data>
+    </edge>
+    <edge source="C6KSV0" target="C0H4D2">
+      <data key="d0">0.6021961893886327</data>
+    </edge>
+    <edge source="C6KSV0" target="Q8IM01">
+      <data key="d0">0.6283768195658922</data>
+    </edge>
+    <edge source="C6KSV0" target="Q8IJX3">
+      <data key="d0">0.8390521883964539</data>
+    </edge>
+    <edge source="C6KSV0" target="Q8I0V2">
+      <data key="d0">0.6614312350749969</data>
+    </edge>
+    <edge source="C6KSV0" target="Q8IIV2">
+      <data key="d0">0.719885277748108</data>
+    </edge>
+    <edge source="Q8I395" target="Q8IBN4">
+      <data key="d0">0.9581726908683776</data>
+    </edge>
+    <edge source="Q8I395" target="Q8ILZ1">
+      <data key="d0">0.5459949731826782</data>
+    </edge>
+    <edge source="Q8I395" target="Q8IAV1">
+      <data key="d0">0.6354540631175041</data>
+    </edge>
+    <edge source="Q8I395" target="O77310">
+      <data key="d0">0.9996237874031066</data>
+    </edge>
+    <edge source="Q8IBN4" target="O77310">
+      <data key="d0">0.998648989200592</data>
+    </edge>
+    <edge source="Q8IEC8" target="Q8ILV6">
+      <data key="d0">0.7441980123519898</data>
+    </edge>
+    <edge source="Q8IKR1" target="Q8I0V2">
+      <data key="d0">0.9777473449707031</data>
+    </edge>
+    <edge source="Q8IKR1" target="O96252">
+      <data key="d0">0.8460212588310242</data>
+    </edge>
+    <edge source="Q8IKR1" target="O97247">
+      <data key="d0">0.5428372003138066</data>
+    </edge>
+    <edge source="Q8I2H3" target="Q8IE84">
+      <data key="d0">0.9921843886375428</data>
+    </edge>
+    <edge source="Q8I2W2" target="Q8ILV6">
+      <data key="d0">0.9899728775024416</data>
+    </edge>
+    <edge source="Q8I2W2" target="Q8IB24">
+      <data key="d0">0.6024139516055584</data>
+    </edge>
+    <edge source="O97247" target="Q8I0V2">
+      <data key="d0">0.8597426474094391</data>
+    </edge>
+    <edge source="O97247" target="O96252">
+      <data key="d0">0.8489569187164306</data>
+    </edge>
+    <edge source="O97247" target="Q8I289">
+      <data key="d0">0.9414589047431946</data>
+    </edge>
+    <edge source="O97247" target="Q8IB03">
+      <data key="d0">0.6890150398015976</data>
+    </edge>
+    <edge source="O97247" target="Q8III6">
+      <data key="d0">0.8592911005020142</data>
+    </edge>
+    <edge source="O96252" target="Q8I289">
+      <data key="d0">0.5229321509599686</data>
+    </edge>
+    <edge source="O96252" target="Q8I3N3">
+      <data key="d0">0.6461516737937927</data>
+    </edge>
+    <edge source="O96252" target="Q8IIJ8">
+      <data key="d0">0.6157945674378424</data>
+    </edge>
+    <edge source="O96252" target="Q8IB03">
+      <data key="d0">0.9657986164093018</data>
+    </edge>
+    <edge source="O96252" target="Q8IKJ0">
+      <data key="d0">0.999782395362854</data>
+    </edge>
+    <edge source="O96252" target="Q8ILJ9">
+      <data key="d0">0.5855523526668549</data>
+    </edge>
+    <edge source="O96252" target="Q8I2N1">
+      <data key="d0">0.6245315879583359</data>
+    </edge>
+    <edge source="O96252" target="Q8IB24">
+      <data key="d0">0.9983623027801514</data>
+    </edge>
+    <edge source="O96252" target="Q8I0V2">
+      <data key="d0">0.9160072684288024</data>
+    </edge>
+    <edge source="Q8I0V2" target="Q8IB24">
+      <data key="d0">0.9565654039382936</data>
+    </edge>
+    <edge source="Q8I0V2" target="Q8IES0">
+      <data key="d0">0.5757910907268524</data>
+    </edge>
+    <edge source="Q8I0V2" target="Q8IIV2">
+      <data key="d0">0.6327135056257248</data>
+    </edge>
+    <edge source="Q8I0V2" target="Q8I289">
+      <data key="d0">0.6975008647888898</data>
+    </edge>
+    <edge source="Q8I0V2" target="Q8I3N3">
+      <data key="d0">0.6381591141223908</data>
+    </edge>
+    <edge source="Q8I0V2" target="Q8IIV1">
+      <data key="d0">0.5677121698856353</data>
+    </edge>
+    <edge source="Q8I0V2" target="Q8IIJ8">
+      <data key="d0">0.547316326200962</data>
+    </edge>
+    <edge source="Q8I0V2" target="Q8IBV7">
+      <data key="d0">0.5045131210237741</data>
+    </edge>
+    <edge source="Q7K6A9" target="Q8IDG3">
+      <data key="d0">0.6322721302509308</data>
+    </edge>
+    <edge source="Q7K6A9" target="Q8IAR3">
+      <data key="d0">0.6597901821136475</data>
+    </edge>
+    <edge source="C0H4Y6" target="Q8I2V9">
+      <data key="d0">0.8764208555221558</data>
+    </edge>
+    <edge source="Q8IAR3" target="Q8IDG3">
+      <data key="d0">0.8262550592422485</data>
+    </edge>
+    <edge source="Q8I289" target="Q8I3N3">
+      <data key="d0">0.6710918009281158</data>
+    </edge>
+    <edge source="Q8I289" target="Q8IB03">
+      <data key="d0">0.5529760293662548</data>
+    </edge>
+    <edge source="Q8I289" target="Q8I2I2">
+      <data key="d0">0.5046251956373453</data>
+    </edge>
+    <edge source="Q8IB24" target="Q8IIV1">
+      <data key="d0">0.7048084482550621</data>
+    </edge>
+    <edge source="Q8IB24" target="Q8IIJ8">
+      <data key="d0">0.5193531282246113</data>
+    </edge>
+    <edge source="Q8IB24" target="Q8I5L6">
+      <data key="d0">0.7389492422342301</data>
+    </edge>
+    <edge source="Q8IB24" target="Q8IJX8">
+      <data key="d0">0.6594967901706695</data>
+    </edge>
+    <edge source="Q8IB24" target="Q8IB03">
+      <data key="d0">0.5172641217708588</data>
+    </edge>
+    <edge source="Q8IB24" target="Q8II24">
+      <data key="d0">0.9942572236061096</data>
+    </edge>
+    <edge source="Q8IB24" target="Q8I5I0">
+      <data key="d0">0.9787869572639464</data>
+    </edge>
+    <edge source="Q8IB24" target="A0A143ZZK9">
+      <data key="d0">0.5162679105997086</data>
+    </edge>
+    <edge source="Q8IB24" target="Q8IK89">
+      <data key="d0">0.7169469356536865</data>
+    </edge>
+    <edge source="Q8IB24" target="Q8IIV2">
+      <data key="d0">0.591015137732029</data>
+    </edge>
+    <edge source="Q8IB24" target="Q8II73">
+      <data key="d0">0.6030457571148873</data>
+    </edge>
+    <edge source="Q8IIV1" target="Q8IIV2">
+      <data key="d0">0.9795925378799438</data>
+    </edge>
+    <edge source="Q8IIV1" target="Q8IJX8">
+      <data key="d0">0.5561644420027733</data>
+    </edge>
+    <edge source="Q8I2J3" target="Q8II24">
+      <data key="d0">0.5341838210821152</data>
+    </edge>
+    <edge source="Q8I3N3" target="Q8IKI8">
+      <data key="d0">0.5720594666898251</data>
+    </edge>
+    <edge source="Q8I3N3" target="Q8I2I2">
+      <data key="d0">0.9225801825523376</data>
+    </edge>
+    <edge source="Q8IKI8" target="Q8I2N1">
+      <data key="d0">0.6645169008523226</data>
+    </edge>
+    <edge source="Q8IKI8" target="Q8I2I2">
+      <data key="d0">0.7970832012593746</data>
+    </edge>
+    <edge source="Q8IAX8" target="Q8IIV2">
+      <data key="d0">0.9570827603340148</data>
+    </edge>
+    <edge source="Q8IAX8" target="Q8IJX8">
+      <data key="d0">0.82430379986763</data>
+    </edge>
+    <edge source="Q8IIV2" target="Q8IBV7">
+      <data key="d0">0.8367897987365722</data>
+    </edge>
+    <edge source="Q8IIV2" target="Q8IK89">
+      <data key="d0">0.5626400338485837</data>
+    </edge>
+    <edge source="Q8IIV2" target="Q8IJX3">
+      <data key="d0">0.605424887733534</data>
+    </edge>
+    <edge source="A0A5K1K8H7" target="Q8IHR8">
+      <data key="d0">0.8407130837440491</data>
+    </edge>
+    <edge source="A0A5K1K8H7" target="Q76NM4">
+      <data key="d0">0.9539113640785216</data>
+    </edge>
+    <edge source="A0A5K1K8H7" target="Q8I3W9">
+      <data key="d0">0.8266167223453522</data>
+    </edge>
+    <edge source="O96127" target="Q8I492">
+      <data key="d0">0.9797474980354308</data>
+    </edge>
+    <edge source="Q8IIJ8" target="Q8IB03">
+      <data key="d0">0.7102357387542725</data>
+    </edge>
+    <edge source="Q8IIJ8" target="Q8ILA1">
+      <data key="d0">0.5317367017269135</data>
+    </edge>
+    <edge source="Q8I6S5" target="Q8IEA6">
+      <data key="d0">0.6549273252487182</data>
+    </edge>
+    <edge source="A0A5K1K7X4" target="Q8IIF0">
+      <data key="d0">0.588723782543093</data>
+    </edge>
+    <edge source="Q8IB03" target="Q8ILA1">
+      <data key="d0">0.6095045996829868</data>
+    </edge>
+    <edge source="Q8II24" target="Q8ILT0">
+      <data key="d0">0.6491370677947998</data>
+    </edge>
+    <edge source="Q8II24" target="Q7KQM0">
+      <data key="d0">0.7518433850258589</data>
+    </edge>
+    <edge source="Q8II24" target="A0A144A2H0">
+      <data key="d0">0.8403204798698425</data>
+    </edge>
+    <edge source="Q8I2F4" target="Q8IIX5">
+      <data key="d0">0.9715587735176088</data>
+    </edge>
+    <edge source="Q8I2F4" target="Q8I490">
+      <data key="d0">0.7588787078857422</data>
+    </edge>
+    <edge source="Q8I2F4" target="Q8IFM0">
+      <data key="d0">0.9999256491661072</data>
+    </edge>
+    <edge source="Q8IIX5" target="Q8I490">
+      <data key="d0">0.5473556369543076</data>
+    </edge>
+    <edge source="Q8IIX5" target="Q8IFM0">
+      <data key="d0">0.5469985544681549</data>
+    </edge>
+    <edge source="C6KTB3" target="Q8I3M5">
+      <data key="d0">0.7967235803604126</data>
+    </edge>
+    <edge source="C6KTB3" target="O77312">
+      <data key="d0">0.8176456272602082</data>
+    </edge>
+    <edge source="Q8I3M5" target="Q8IBV7">
+      <data key="d0">0.8964289426803589</data>
+    </edge>
+    <edge source="Q8I3M5" target="O77312">
+      <data key="d0">0.5821890071034431</data>
+    </edge>
+    <edge source="Q8I4R5" target="Q8ILZ1">
+      <data key="d0">0.9756033897399904</data>
+    </edge>
+    <edge source="Q8ILZ1" target="O77310">
+      <data key="d0">0.995767903327942</data>
+    </edge>
+    <edge source="Q8IBV7" target="O97320">
+      <data key="d0">0.965097403526306</data>
+    </edge>
+    <edge source="Q8IE84" target="Q7KQK6">
+      <data key="d0">0.6129848090931773</data>
+    </edge>
+    <edge source="Q8I2N1" target="Q8I2I2">
+      <data key="d0">0.772877237200737</data>
+    </edge>
+    <edge source="Q8IDG9" target="Q8IEI6">
+      <data key="d0">0.9682778358459472</data>
+    </edge>
+    <edge source="Q8IDG9" target="Q8I490">
+      <data key="d0">0.9929667592048644</data>
+    </edge>
+    <edge source="Q8IEI6" target="Q8I490">
+      <data key="d0">0.5667071431875229</data>
+    </edge>
+    <edge source="Q8I490" target="Q8IFM0">
+      <data key="d0">0.7676094591617584</data>
+    </edge>
+    <edge source="Q76NM4" target="Q8I3W9">
+      <data key="d0">0.6232348620891571</data>
+    </edge>
+    <edge source="Q8IK89" target="Q8IJX3">
+      <data key="d0">0.6001937706023455</data>
+    </edge>
+    <edge source="Q8I2I2" target="Q8IL75">
+      <data key="d0">0.7342252815142274</data>
+    </edge>
+    <edge source="Q7KQM4" target="Q8IM16">
+      <data key="d0">0.7676784098148346</data>
+    </edge>
+    <edge source="Q8IM16" target="Q8I6V3">
+      <data key="d0">0.5798167757689953</data>
+    </edge>
+    <edge source="C0H4D2" target="Q8IM57">
+      <data key="d0">0.7810456797480583</data>
+    </edge>
+    <edge source="Q8I6V3" target="Q8IM15">
+      <data key="d0">0.6403404131531716</data>
+    </edge>
+    <edge source="Q8IFM0" target="Q8I206">
+      <data key="d0">0.934316635131836</data>
+    </edge>
+    <edge source="A0A5K1K8W5" target="Q8IDN0">
+      <data key="d0">0.6440545871853829</data>
+    </edge>
+    <edge source="Q8IFM9" target="Q8IJM9">
+      <data key="d0">0.5966803662478923</data>
+    </edge>
+    <edge source="A0A143ZX41" target="Q7KWJ2">
+      <data key="d0">0.9468098640441894</data>
+    </edge>
+  </graph>
+</graphml>

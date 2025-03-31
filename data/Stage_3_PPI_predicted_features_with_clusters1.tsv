@@ -1,0 +1,557 @@
+index	Protein1	Protein2	Score	Description1	Description2	Protein_1_clusters	Protein_2_clusters	Any Matching Go-Terms?	Train/Val/Test	Experimental P. Falciparum	P. Falciparum	P. Knowlesi	P. Berghei	P. Vivax	P. Yoelii	C. parvum	B. bovis
+0	A0A5K1K7U1	O77396	0.9996333599090576	Proteasome subunit beta	Proteasome subunit alpha type-3, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+1	Q8I0P6	Q8IFP3	0.913918673992157	Elongation factor 1-alpha	Tubulin alpha chain	[0, 2, 18]	[2, 18]	1	0	0	0	0	0	0	0	1	0
+2	Q8IEU2	Q8IKC8	0.5799234182108194	Gamete antigen 27/25	Exported protein 2	[7]	[7]	0	0	0	0	0	0	0	0	0	0
+3	Q8I2X4	Q8II43	0.8501102924346924	Heat shock protein 70	T-complex protein 1 subunit alpha	[1, 6, 16, 28]	[1, 6]	1	0	0	1	1	1	1	1	1	1
+4	O97285	Q8IKF0	0.5848075211048126	ATP-dependent RNA helicase DDX6	RNA helicase	[0, 2, 18, 24]	[0, 2, 10, 18, 24]	1	0	0	0	0	0	0	0	0	0
+5	Q8I484	Q8I485	0.995911991596222	Rhoptry-associated protein 2	Rhoptry-associated protein 3	[7]	[7]	1	0	0	0	0	0	0	0	0	0
+6	C6KST3	Q6ZMA8	0.844795435667038	Proteasome subunit alpha type-2, putative	Vacuolar proton pump subunit B	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+7	Q8I2X4	Q8IEK1	0.7624803937971592	Heat shock protein 70	Aminopeptidase N	[1, 6, 16, 28]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	1	0
+8	Q8I0P6	Q8IJW0	0.8538144707679749	Elongation factor 1-alpha	26S protease regulatory subunit 4, putative	[0, 2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+9	O97227	Q8I0X1	0.7989922255277634	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)	[6, 9, 16, 28]	[9, 21]	0	1	1	1	1	1	1	1	0	1
+10	C6KT18	Q8I5H4	0.6534894801676273	Histone H2A	Polyadenylate-binding protein	[0, 14, 27, 30]	[0, 14, 18, 24, 27, 30]	0	0	0	0	0	0	0	0	0	0
+11	A0A5K1K7U1	Q8IDG2	0.711460018157959	Proteasome subunit beta	Proteasome subunit alpha type	[1, 6]	[1, 6, 16]	1	1	1	1	1	1	1	1	1	1
+12	C0H4V6	Q7KQL9	0.6281091019511222	14-3-3 protein I	Fructose-bisphosphate aldolase	[10, 20]	[8]	0	0	0	0	0	0	0	0	0	0
+13	Q8IC05	Q8IDN6	0.7987437635660172	Heat shock protein 90	Protein transport protein SEC61 subunit alpha	[10]	[5]	0	0	0	0	0	0	0	0	1	0
+14	Q7KQL5	Q8IET7	0.6145927727222442	Tubulin beta chain	40S ribosomal protein S7	[2, 18]	[0, 2, 18]	0	0	0	0	0	0	0	0	0	0
+15	Q76NN6	Q8ILI6	0.7372349798679352	Ran-specific GTPase-activating protein 1, putative	Acidic leucine-rich nuclear phosphoprotein 32-related protein	[3, 20, 21]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+16	Q8IDZ8	Q8II61	0.6859583526849746	20 kDa chaperonin	60S acidic ribosomal protein P0	[4, 10]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+17	C0H5H0	Q8I0U7	0.6139167175628245	Endoplasmic reticulum chaperone GRP170	Proteasome subunit beta type-6, putative	[6, 16]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+18	Q6ZMA8	Q8IC01	0.6257726445794105	Vacuolar proton pump subunit B	Heat shock protein 110	[1, 6]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+19	C6KT18	Q8I608	0.7877830614335835	Histone H2A	Nucleosome assembly protein	[0, 14, 27, 30]	[3, 14, 20, 21]	0	0	1	1	1	1	1	1	1	1
+20	Q8IC01	Q8IDG2	0.5236556231975555	Heat shock protein 110	Proteasome subunit alpha type	[1, 6, 16, 28]	[1, 6, 16]	0	0	0	0	0	0	0	0	0	0
+21	Q8IFP3	Q8IKK7	0.656221866607666	Tubulin alpha chain	Glyceraldehyde-3-phosphate dehydrogenase	[2, 18]	[2]	0	0	0	0	0	0	0	0	1	0
+22	O77396	Q8IJN9	0.5896192209795117	Proteasome subunit alpha type-3, putative	Heat shock protein 60	[1, 6]	[1, 6, 16]	0	0	0	0	0	0	0	0	0	0
+23	Q6ZMA8	Q8I280	0.7877995133399963	Vacuolar proton pump subunit B	V-type proton ATPase subunit C	[1, 6]	[1]	1	1	1	1	1	1	1	1	1	1
+24	C0H571	Q8IKC8	0.7945791855454445	High molecular weight rhoptry protein 2	Exported protein 2	[7]	[7]	0	0	0	0	0	0	0	0	0	0
+25	Q6ZMA8	Q8IJT1	0.9920438885688782	Vacuolar proton pump subunit B	Proteasome subunit beta	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+26	O97227	Q8I2X4	0.976285171508789	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex	Heat shock protein 70	[6, 9, 16, 28]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+27	O96153	Q8IET7	0.8563888192176818	26S proteasome regulatory subunit RPN1, putative	40S ribosomal protein S7	[2, 18]	[0, 2, 18]	0	0	0	0	0	0	0	0	0	0
+28	Q8I1V1	Q8IFP3	0.5628015458583832	26S protease regulatory subunit 6B, putative	Tubulin alpha chain	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+29	A0A5K1K7U1	Q8I261	0.7520615637302399	Proteasome subunit beta	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	0	1	1	1	1	1
+30	C0H4V6	P61074	0.7440528869628906	14-3-3 protein I	Proliferating cell nuclear antigen 1	[10, 20]	[9, 20, 21]	0	0	0	0	0	0	0	0	0	0
+31	Q76NM6	Q8IDG2	0.877495813369751	V-type proton ATPase catalytic subunit A	Proteasome subunit alpha type	[1, 6]	[1, 6, 16]	0	0	0	0	0	0	0	0	0	0
+32	K7NTP5	Q8IJN7	0.9839324116706848	Heat shock 70 kDa protein	Enolase	[0, 2, 14, 18, 24]	[8]	0	1	1	1	0	0	0	0	0	0
+33	Q8I0V4	Q8IKF0	0.976761257648468	Endoplasmin, putative	RNA helicase	[10]	[0, 2, 10, 18, 24]	0	0	0	0	0	0	0	0	1	0
+34	Q7KQL5	Q8ILB6	0.937140941619873	Tubulin beta chain	Mitochondrial acidic protein MAM33, putative	[2, 18]	[3, 9, 20, 21]	0	0	0	0	0	0	0	0	0	0
+35	C0H4V6	Q8I0V4	0.7704584468156099	14-3-3 protein I	Endoplasmin, putative	[10, 20]	[10]	1	0	0	1	1	1	1	1	1	1
+36	A0A5K1K7U1	Q8IK90	0.5712116062641144	Proteasome subunit beta	Proteasome subunit alpha type-1, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	0
+37	C6KTA4	Q8IKF0	0.9938706636428832	Pyruvate kinase	RNA helicase	[2, 18]	[0, 2, 10, 18, 24]	0	0	0	0	0	0	0	0	0	0
+38	Q8II36	Q8IJ34	0.5322580337524414	Aquaglyceroporin	ADP/ATP translocase	[6, 16, 28]	[13]	0	0	0	0	0	0	0	0	0	0
+39	C6KT34	Q8IBI3	0.7477305829524994	Cell division cycle protein 48 homologue, putative	Proteasome subunit alpha type	[1, 6]	[1, 6]	0	0	0	0	1	1	1	1	1	1
+40	C6KSV0	K7NTP5	0.6639498591423034	Histone H3	Heat shock 70 kDa protein	[0, 14, 27, 30]	[0, 2, 14, 18, 24]	0	0	0	0	0	0	0	0	0	0
+41	C6KSV0	C6KT18	0.990760338306427	Histone H3	Histone H2A	[0, 14, 27, 30]	[0, 14, 27, 30]	1	0	1	1	1	1	1	1	1	1
+42	Q8I395	Q8IBN4	0.9581726908683776	High molecular weight rhoptry protein 3	Secreted ookinete protein, putative	[7]	[7]	0	0	0	0	0	0	0	0	0	0
+43	Q8IEC8	Q8IFP3	0.9983038902282716	Translocation protein SEC63, putative	Tubulin alpha chain	[2, 5]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+44	Q8IFP3	Q8IKR1	0.8061918020248413	Tubulin alpha chain	H(+)-exporting diphosphatase	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+45	Q8I2W3	Q8ILI6	0.7984559237957001	Nucleosome assembly protein	Acidic leucine-rich nuclear phosphoprotein 32-related protein	[3, 20, 21]	[3, 20, 21]	0	1	0	0	1	1	1	1	1	1
+46	Q8IC01	Q8IK90	0.8127252697944641	Heat shock protein 110	Proteasome subunit alpha type-1, putative	[1, 6, 16, 28]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+47	Q76NN6	Q8IM55	0.9311452627182006	Ran-specific GTPase-activating protein 1, putative	Serine/threonine protein phosphatase CPPED1, putative	[3, 20, 21]	[3, 20]	0	0	0	0	0	0	0	0	0	0
+48	Q6ZMA8	Q8I2H3	0.5888288122601807	Vacuolar proton pump subunit B	V-type proton ATPase subunit E, putative	[1, 6]	[1]	1	1	1	1	1	1	1	1	1	1
+49	Q8I2W2	Q8IDN6	0.999689483642578	DnaJ protein, putative	Protein transport protein SEC61 subunit alpha	[5]	[5]	0	0	0	0	0	0	0	0	0	0
+50	Q8IBI3	Q8II43	0.512065939605236	Proteasome subunit alpha type	T-complex protein 1 subunit alpha	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+51	O97247	Q8IKF0	0.5769700676202774	CCT-beta	RNA helicase	[2, 18]	[0, 2, 10, 18, 24]	0	0	0	0	0	0	0	0	1	0
+52	O96252	Q8I1V1	0.5627483159303666	ATP synthase subunit alpha	26S protease regulatory subunit 6B, putative	[2, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+53	C0H4V6	Q8IJN7	0.8181600928306579	14-3-3 protein I	Enolase	[10, 20]	[8]	0	0	0	0	0	0	0	0	0	0
+54	Q8I2X4	Q8IKJ0	0.5785079166293144	Heat shock protein 70	V-type proton ATPase subunit	[1, 6, 16, 28]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+55	Q8I2H3	Q8II61	0.5635925214737654	V-type proton ATPase subunit E, putative	60S acidic ribosomal protein P0	[1]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+56	C6KTA4	Q8I0V2	0.6573792189359665	Pyruvate kinase	ATP synthase subunit beta	[2, 18]	[0, 2, 14, 18, 24]	0	0	0	0	0	1	0	1	1	0
+57	Q7K6A9	Q8I2X4	0.9050453066825868	Proteasome subunit beta	Heat shock protein 70	[1, 6]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+58	Q8IC05	Q8IEC8	0.9550028681755066	Heat shock protein 90	Translocation protein SEC63, putative	[10]	[2, 5]	1	0	0	0	0	0	0	0	0	0
+59	Q76NM6	Q8IK90	0.699627810716629	V-type proton ATPase catalytic subunit A	Proteasome subunit alpha type-1, putative	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+60	C0H4Y6	Q8I2V9	0.8764208555221558	Protein disulfide-isomerase	Protein disulfide isomerase	[22]	[22]	1	0	0	1	0	0	0	0	0	0
+61	K7NTP5	Q76NN8	0.621202540397644	Heat shock 70 kDa protein	Calcium-transporting ATPase	[0, 2, 14, 18, 24]	[24]	1	0	0	0	0	0	0	0	0	0
+62	Q8IAR3	Q8II43	0.8240507006645202	Proteasome subunit alpha type-6, putative	T-complex protein 1 subunit alpha	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+63	Q8I0U7	Q8IDG2	0.956131649017334	Proteasome subunit beta type-6, putative	Proteasome subunit alpha type	[1, 6]	[1, 6, 16]	1	1	1	1	1	1	1	1	0	1
+64	Q8I2W2	Q8ILV6	0.9899728775024416	DnaJ protein, putative	DnaJ protein, putative	[5]	[5]	1	0	0	0	0	0	0	0	0	0
+65	Q8I289	Q8IC05	0.8843506813049317	Heptatricopeptide repeat and RAP domain-containing protein, putative	Heat shock protein 90	[2, 18]	[10]	0	0	0	0	0	1	1	0	0	1
+66	Q8IB24	Q8IIV1	0.7048084482550621	Heat shock 70 kDa protein	Histone H2B	[0, 10, 14, 24]	[0, 14, 27, 30]	0	0	0	0	0	0	0	0	0	0
+67	Q8I2J3	Q8IC01	0.7091998592019081	Aspartyl aminopeptidase	Heat shock protein 110	[16, 28]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+68	Q8I3N3	Q8IKI8	0.5720594666898251	Alpha-MPP	Cytochrome c oxidase subunit ApiCOX25, putative	[11]	[11]	0	0	0	0	0	0	0	0	0	0
+69	O77389	Q8II36	0.8492644846439361	Formate-nitrite transporter	Aquaglyceroporin		[6, 16, 28]	0	0	0	1	0	0	0	0	0	0
+70	C6KT18	Q8I0V2	0.9060609817504884	Histone H2A	ATP synthase subunit beta	[0, 14, 27, 30]	[0, 2, 14, 18, 24]	0	0	1	1	1	1	1	1	1	1
+71	Q8I1V1	Q8IJW0	0.5481198702007533	26S protease regulatory subunit 6B, putative	26S protease regulatory subunit 4, putative	[2, 18]	[2, 18]	1	1	1	1	1	1	1	1	1	1
+72	O97247	Q8I0V2	0.8597426474094391	CCT-beta	ATP synthase subunit beta	[2, 18]	[0, 2, 14, 18, 24]	1	0	0	0	0	1	0	0	1	0
+73	Q8IAX8	Q8IIV2	0.9570827603340148	DNA/RNA-binding protein ALBA1	Histone H4	[14, 27, 30]	[0, 14, 27, 30]	1	0	0	0	0	0	0	0	0	0
+74	C6KT18	Q8IIV2	0.7117183183319866	Histone H2A	Histone H4	[0, 14, 27, 30]	[0, 14, 27, 30]	1	0	1	1	1	1	1	0	1	1
+75	O97285	Q8I1V1	0.6550163216888905	ATP-dependent RNA helicase DDX6	26S protease regulatory subunit 6B, putative	[0, 2, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+76	A0A5K1K8H7	Q8IHR8	0.8407130837440491	Ras-related protein Rab-1B	Ras-related protein Rab-6	[17]	[17]	1	0	0	1	0	1	1	1	1	1
+77	O96252	O97247	0.8489569187164306	ATP synthase subunit alpha	CCT-beta	[2, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+78	O96127	Q8I492	0.9797474980354308	Translation-enhancing factor	Mature parasite-infected erythrocyte surface antigen	[25]	[25]	0	0	0	0	0	0	0	0	0	0
+79	Q8IB24	Q8IIJ8	0.5193531282246113	Heat shock 70 kDa protein	Heat shock protein 101	[0, 10, 14, 24]	[2, 18]	1	0	1	1	1	1	1	1	0	0
+80	Q8II43	Q8IJN9	0.625004243850708	T-complex protein 1 subunit alpha	Heat shock protein 60	[1, 6]	[1, 6, 16]	1	0	0	1	1	1	1	0	1	1
+81	O96252	Q8IDN6	0.7083565047010779	ATP synthase subunit alpha	Protein transport protein SEC61 subunit alpha	[2, 18, 24]	[5]	0	0	0	1	0	1	1	1	1	1
+82	O77396	Q8IDG2	0.7277012944221497	Proteasome subunit alpha type-3, putative	Proteasome subunit alpha type	[1, 6]	[1, 6, 16]	1	1	1	1	1	1	1	1	1	1
+83	Q8I0U7	Q8I261	0.8155449688434601	Proteasome subunit beta type-6, putative	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	0	1	1	1	0	1
+84	O96252	Q8I289	0.5229321509599686	ATP synthase subunit alpha	Heptatricopeptide repeat and RAP domain-containing protein, putative	[2, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+85	Q8I0U7	Q8IK90	0.725270825624466	Proteasome subunit beta type-6, putative	Proteasome subunit alpha type-1, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	0	0
+86	K7NTP5	Q8IB24	0.6818523705005646	Heat shock 70 kDa protein	Heat shock 70 kDa protein	[0, 2, 14, 18, 24]	[0, 10, 14, 24]	1	0	0	1	0	0	0	0	0	0
+87	K7NTP5	Q8IES0	0.8520348906517029	Heat shock 70 kDa protein	Small heat shock protein, putative	[0, 2, 14, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+88	C6KSV0	Q8IJ34	0.5833195298910141	Histone H3	ADP/ATP translocase	[0, 14, 27, 30]	[13]	0	0	0	0	0	0	0	0	0	0
+89	Q8I6S5	Q8IEA6	0.6549273252487182	2-oxoglutarate dehydrogenase E1 component	dihydrolipoyllysine-residue succinyltransferase	[13]	[13]	1	1	1	1	1	1	1	0	0	1
+90	A0A143ZY58	Q7KQL5	0.8211259871721268	ADP-ribosylation factor 1	Tubulin beta chain	[2]	[2, 18]	1	0	0	0	0	1	1	1	1	1
+91	P61074	Q8II61	0.6360621333122254	Proliferating cell nuclear antigen 1	60S acidic ribosomal protein P0	[9, 20, 21]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+92	C0H5H0	O97227	0.9116176843643188	Endoplasmic reticulum chaperone GRP170	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex	[6, 16]	[6, 9, 16, 28]	0	0	0	0	0	0	0	0	0	0
+93	Q8I0V2	Q8IB24	0.9565654039382936	ATP synthase subunit beta	Heat shock 70 kDa protein	[0, 2, 14, 18, 24]	[0, 10, 14, 24]	1	0	0	0	1	1	1	1	1	0
+94	Q76NM3	Q8II61	0.958012068271637	L-lactate dehydrogenase	60S acidic ribosomal protein P0	[2]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+95	A0A5K1K7X4	Q8IIF0	0.588723782543093	Early transcribed membrane protein 5	Exported protein 1	[26]	[26]	0	0	0	0	0	0	0	0	0	0
+96	Q8IB03	Q8IIJ8	0.7102357387542725	Chaperone protein ClpB1	Heat shock protein 101	[2, 18]	[2, 18]	1	0	0	0	0	0	0	0	0	0
+97	C6KST3	Q8I0U7	0.7077856384217739	Proteasome subunit alpha type-2, putative	Proteasome subunit beta type-6, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	0	1
+98	C6KSV0	Q8IIV1	0.6828259050846099	Histone H3	Histone H2B	[0, 14, 27, 30]	[0, 14, 27, 30]	1	0	1	1	1	1	1	0	1	1
+99	O77396	Q8I261	0.8277857899665833	Proteasome subunit alpha type-3, putative	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	0	1	1	1	1	1
+100	C0H4V6	Q8II24	0.6270820915699005	14-3-3 protein I	Heat shock protein 70	[10, 20]	[4, 10, 16]	0	0	0	1	1	0	0	0	0	1
+101	Q8I2F4	Q8IIX5	0.9715587735176088	Plasmodium RESA N-terminal domain-containing protein	Plasmodium RESA N-terminal domain-containing protein	[15]	[15]	0	0	0	0	0	0	0	0	0	0
+102	C6KTA4	K7NTP5	0.8740836143493652	Pyruvate kinase	Heat shock 70 kDa protein	[2, 18]	[0, 2, 14, 18, 24]	0	0	0	0	0	0	0	0	0	0
+103	C6KTB3	Q8I3M5	0.7967235803604126	Transportin	Karyopherin beta	[19]	[19]	1	1	1	1	1	1	1	1	1	1
+104	Q8IFP3	Q8IKF0	0.7203761361539364	Tubulin alpha chain	RNA helicase	[2, 18]	[0, 2, 10, 18, 24]	1	0	0	0	0	0	0	0	0	0
+105	Q8I4R5	Q8ILZ1	0.9756033897399904	Rhoptry neck protein 3	Rhoptry-associated protein 1	[7]	[7]	1	0	0	0	0	0	0	0	0	0
+106	O77396	Q8IK90	0.571053259447217	Proteasome subunit alpha type-3, putative	Proteasome subunit alpha type-1, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	0
+107	O96252	Q8I3N3	0.6461516737937927	ATP synthase subunit alpha	Alpha-MPP	[2, 18, 24]	[11]	0	0	0	1	1	1	1	1	1	1
+108	C6KST3	Q8II43	0.626926600933075	Proteasome subunit alpha type-2, putative	T-complex protein 1 subunit alpha	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+109	Q8IBV7	Q8IIV2	0.8367897987365722	Histone H2B	Histone H4	[0, 14, 27, 30]	[0, 14, 27, 30]	1	1	1	1	1	1	1	0	1	1
+110	C0H4V6	Q8IB24	0.5789141654968262	14-3-3 protein I	Heat shock 70 kDa protein	[10, 20]	[0, 10, 14, 24]	0	0	0	1	1	1	1	0	1	1
+111	C0H4V6	Q8IE84	0.564981932938099	14-3-3 protein I	V-type proton ATPase subunit G, putative	[10, 20]	[1]	0	0	0	0	0	0	0	0	0	0
+112	O97320	Q8IBV7	0.965097403526306	Histone H2A	Histone H2B	[20]	[0, 14, 27, 30]	1	1	1	1	1	1	1	1	1	1
+113	Q8I0P6	Q8IET7	0.7016216896474361	Elongation factor 1-alpha	40S ribosomal protein S7	[0, 2, 18]	[0, 2, 18]	1	1	1	1	1	1	1	1	1	1
+114	Q8ILB6	Q8ILI6	0.856654268503189	Mitochondrial acidic protein MAM33, putative	Acidic leucine-rich nuclear phosphoprotein 32-related protein	[3, 9, 20, 21]	[3, 20, 21]	0	1	0	0	0	0	0	0	0	0
+115	Q76NM6	Q8IE84	0.954171895980835	V-type proton ATPase catalytic subunit A	V-type proton ATPase subunit G, putative	[1, 6]	[1]	1	1	1	1	1	1	1	1	1	1
+116	C6KSV0	Q8ILG8	0.5521578341722488	Histone H3	Endoplasmic reticulum transmembrane protein	[0, 14, 27, 30]	[27]	0	0	0	0	0	0	0	0	0	0
+117	Q8IDG3	Q8IJT1	0.7809720575809479	Proteasome subunit alpha type	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+118	A0A143ZY58	Q8I0P6	0.845184326171875	ADP-ribosylation factor 1	Elongation factor 1-alpha	[2]	[0, 2, 18]	1	0	0	0	0	0	0	0	0	0
+119	Q8I5H4	Q8IAX8	0.5337429894134402	Polyadenylate-binding protein	DNA/RNA-binding protein ALBA1	[0, 14, 18, 24, 27, 30]	[14, 27, 30]	0	0	0	0	0	0	0	0	0	0
+120	Q8I2N1	Q8IKI8	0.6645169008523226	Cytochrome c oxidase subunit 5B, putative	Cytochrome c oxidase subunit ApiCOX25, putative	[11]	[11]	0	0	0	0	0	0	0	0	0	0
+121	Q8I2W3	Q8I608	0.5831441329792142	Nucleosome assembly protein	Nucleosome assembly protein	[3, 20, 21]	[3, 14, 20, 21]	1	0	0	0	1	1	1	1	1	1
+122	C6KSV0	Q8IBV7	0.6422656491398812	Histone H3	Histone H2B	[0, 14, 27, 30]	[0, 14, 27, 30]	1	1	1	1	1	1	1	1	1	1
+123	O96252	Q8IIJ8	0.6157945674378424	ATP synthase subunit alpha	Heat shock protein 101	[2, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+124	Q8I0X1	Q8ILB6	0.7398522071540355	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)	Mitochondrial acidic protein MAM33, putative	[9, 21]	[3, 9, 20, 21]	0	0	0	0	0	0	0	0	0	0
+125	Q8I0V2	Q8IES0	0.5757910907268524	ATP synthase subunit beta	Small heat shock protein, putative	[0, 2, 14, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+126	Q8IET7	Q8IKR1	0.6782449953258037	40S ribosomal protein S7	H(+)-exporting diphosphatase	[0, 2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+127	A0A5K1K7U1	Q8IDG3	0.6616768673062324	Proteasome subunit beta	Proteasome subunit alpha type	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+128	Q8II43	Q8IK90	0.6565854251384735	T-complex protein 1 subunit alpha	Proteasome subunit alpha type-1, putative	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+129	Q8II24	Q8IKK7	0.7817428827285766	Heat shock protein 70	Glyceraldehyde-3-phosphate dehydrogenase	[4, 10, 16]	[2]	0	0	0	1	1	1	0	1	1	1
+130	C6KTA4	O97247	0.7366818696260452	Pyruvate kinase	CCT-beta	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+131	Q8I261	Q8II43	0.5780184924602508	Proteasome subunit beta	T-complex protein 1 subunit alpha	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+132	C0H571	O77310	0.9985048413276671	High molecular weight rhoptry protein 2	Cytoadherence linked asexual protein 3.1	[7]	[7]	1	1	1	1	0	0	0	0	0	0
+133	Q8I5L6	Q8IB24	0.7389492422342301	Clathrin heavy chain	Heat shock 70 kDa protein	[0, 24]	[0, 10, 14, 24]	0	0	0	0	1	1	1	1	1	1
+134	C6KSV0	Q7KQL5	0.5685515627264977	Histone H3	Tubulin beta chain	[0, 14, 27, 30]	[2, 18]	0	0	0	1	0	1	1	1	1	1
+135	Q8I395	Q8IEU2	0.7554760873317719	High molecular weight rhoptry protein 3	Gamete antigen 27/25	[7]	[7]	0	0	0	0	0	0	0	0	0	0
+136	Q8IC01	Q8IDG3	0.6388127237558365	Heat shock protein 110	Proteasome subunit alpha type	[1, 6, 16, 28]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+137	O96252	Q8I0P6	0.8849881768226624	ATP synthase subunit alpha	Elongation factor 1-alpha	[2, 18, 24]	[0, 2, 18]	0	0	0	0	0	0	0	0	0	0
+138	C0H4V6	Q8IM55	0.5232290174812079	14-3-3 protein I	Serine/threonine protein phosphatase CPPED1, putative	[10, 20]	[3, 20]	0	0	0	0	0	0	0	0	0	0
+139	A0A143ZY58	Q8IFP3	0.5409498492255806	ADP-ribosylation factor 1	Tubulin alpha chain	[2]	[2, 18]	1	0	0	0	1	1	1	1	1	0
+140	Q8I1V1	Q8IET7	0.5262319892644882	26S protease regulatory subunit 6B, putative	40S ribosomal protein S7	[2, 18]	[0, 2, 18]	0	0	0	0	1	0	1	0	1	1
+141	Q8I485	Q8I4R5	0.5568926556501538	Rhoptry-associated protein 3	Rhoptry neck protein 3	[7]	[7]	1	0	0	0	0	0	0	0	0	0
+142	O96252	Q7KQL5	0.5128146418370306	ATP synthase subunit alpha	Tubulin beta chain	[2, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+143	Q8I280	Q8IE84	0.7809593409299851	V-type proton ATPase subunit C	V-type proton ATPase subunit G, putative	[1]	[1]	1	1	1	1	1	1	1	1	1	1
+144	C0H571	Q8I395	0.7863685712218285	High molecular weight rhoptry protein 2	High molecular weight rhoptry protein 3	[7]	[7]	1	1	1	1	1	1	0	0	0	0
+145	Q8IIV1	Q8IIV2	0.9795925378799438	Histone H2B	Histone H4	[0, 14, 27, 30]	[0, 14, 27, 30]	1	0	1	1	1	1	1	0	1	1
+146	Q8IB03	Q8IJW0	0.9933477997779846	Chaperone protein ClpB1	26S protease regulatory subunit 4, putative	[2, 18]	[2, 18]	1	0	0	0	0	0	0	0	0	0
+147	C6KT18	K7NTP5	0.5591669142246246	Histone H2A	Heat shock 70 kDa protein	[0, 14, 27, 30]	[0, 2, 14, 18, 24]	0	0	0	0	0	0	0	0	0	0
+148	K7NTP5	Q8IKK7	0.739393949508667	Heat shock 70 kDa protein	Glyceraldehyde-3-phosphate dehydrogenase	[0, 2, 14, 18, 24]	[2]	0	1	0	1	0	0	0	0	0	0
+149	Q8IC01	Q8II36	0.705884462967515	Heat shock protein 110	Aquaglyceroporin	[1, 6, 16, 28]	[6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+150	O97227	Q8IJN9	0.7335072442889213	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex	Heat shock protein 60	[6, 9, 16, 28]	[1, 6, 16]	0	0	0	0	0	0	0	0	0	0
+151	Q76NM6	Q8IDG3	0.5624771483242512	V-type proton ATPase catalytic subunit A	Proteasome subunit alpha type	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+152	O97247	Q8I1V1	0.999692726135254	CCT-beta	26S protease regulatory subunit 6B, putative	[2, 18]	[2, 18]	1	0	0	0	0	0	0	0	1	0
+153	C0H571	Q8IBN4	0.8555385708808899	High molecular weight rhoptry protein 2	Secreted ookinete protein, putative	[7]	[7]	0	0	0	0	0	0	0	0	0	0
+154	Q8I395	Q8ILZ1	0.5459949731826782	High molecular weight rhoptry protein 3	Rhoptry-associated protein 1	[7]	[7]	1	0	0	0	0	0	0	0	0	0
+155	O96252	Q8IB03	0.9657986164093018	ATP synthase subunit alpha	Chaperone protein ClpB1	[2, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	1	0
+156	C0H4Y6	Q76NN6	0.5336467124521732	Protein disulfide-isomerase	Ran-specific GTPase-activating protein 1, putative	[22]	[3, 20, 21]	0	0	0	1	1	1	1	1	1	1
+157	K7NTP5	Q8I5H4	0.8169132530689239	Heat shock 70 kDa protein	Polyadenylate-binding protein	[0, 2, 14, 18, 24]	[0, 14, 18, 24, 27, 30]	0	1	0	0	0	0	0	0	0	0
+158	C6KST3	Q8I2X4	0.621143388748169	Proteasome subunit alpha type-2, putative	Heat shock protein 70	[1, 6]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+159	A0A5K1K7U1	Q8IAR3	0.7904582031071186	Proteasome subunit beta	Proteasome subunit alpha type-6, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+160	Q8IC01	Q8IKK7	0.9981636881828309	Heat shock protein 110	Glyceraldehyde-3-phosphate dehydrogenase	[1, 6, 16, 28]	[2]	0	0	0	0	1	1	0	1	1	1
+161	Q8IES0	Q8IJW0	0.5611101515591145	Small heat shock protein, putative	26S protease regulatory subunit 4, putative	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+162	Q8I0V2	Q8I5H4	0.8338174819946289	ATP synthase subunit beta	Polyadenylate-binding protein	[0, 2, 14, 18, 24]	[0, 14, 18, 24, 27, 30]	0	0	0	0	0	0	0	0	0	0
+163	K7NTP5	Q8IKR1	0.9004997372627258	Heat shock 70 kDa protein	H(+)-exporting diphosphatase	[0, 2, 14, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+164	O97227	Q8ILB6	0.94878591299057	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex	Mitochondrial acidic protein MAM33, putative	[6, 9, 16, 28]	[3, 9, 20, 21]	0	0	0	0	0	0	0	0	0	0
+165	A0A5K1K7U1	Q8IJT1	0.573606901243329	Proteasome subunit beta	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+166	Q8IDG9	Q8IEI6	0.9682778358459472	Uncharacterized protein	EMP1-trafficking protein	[12, 15]	[12]	0	0	0	0	0	0	0	0	0	0
+167	Q8I5H4	Q8IB24	0.6257041484117508	Polyadenylate-binding protein	Heat shock 70 kDa protein	[0, 14, 18, 24, 27, 30]	[0, 10, 14, 24]	0	0	0	0	1	1	1	1	1	1
+168	Q7K6A9	Q8IJN9	0.7693220615386963	Proteasome subunit beta	Heat shock protein 60	[1, 6]	[1, 6, 16]	0	0	0	0	0	0	0	0	0	0
+169	O96252	Q8IJW0	0.9613568902015686	ATP synthase subunit alpha	26S protease regulatory subunit 4, putative	[2, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+170	Q8I0U7	Q8IDG3	0.5131049221381545	Proteasome subunit beta type-6, putative	Proteasome subunit alpha type	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	0	1
+171	Q8I2X4	Q8IJN9	0.7672930680215359	Heat shock protein 70	Heat shock protein 60	[1, 6, 16, 28]	[1, 6, 16]	1	0	0	1	1	1	1	1	1	1
+172	Q8IC01	Q8IJT1	0.6544997066259384	Heat shock protein 110	Proteasome subunit beta	[1, 6, 16, 28]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+173	Q8IDG2	Q8IJN9	0.6021788582205773	Proteasome subunit alpha type	Heat shock protein 60	[1, 6, 16]	[1, 6, 16]	0	0	0	0	0	0	0	0	0	0
+174	Q7KQL5	Q8IKK7	0.544692063331604	Tubulin beta chain	Glyceraldehyde-3-phosphate dehydrogenase	[2, 18]	[2]	0	0	0	1	0	0	0	0	1	0
+175	O97247	Q8I289	0.9414589047431946	CCT-beta	Heptatricopeptide repeat and RAP domain-containing protein, putative	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+176	Q8I2F4	Q8I490	0.7588787078857422	Plasmodium RESA N-terminal domain-containing protein	EMP1-trafficking protein	[15]	[12, 15]	0	0	0	0	0	0	0	0	0	0
+177	Q8I3M5	Q8IBV7	0.8964289426803589	Karyopherin beta	Histone H2B	[19]	[0, 14, 27, 30]	1	0	0	0	0	0	0	0	0	0
+178	Q8I0V2	Q8IKK7	0.9614146113395692	ATP synthase subunit beta	Glyceraldehyde-3-phosphate dehydrogenase	[0, 2, 14, 18, 24]	[2]	0	0	0	1	1	1	0	1	1	1
+179	O96252	Q8IKJ0	0.999782395362854	ATP synthase subunit alpha	V-type proton ATPase subunit	[2, 18, 24]	[1, 6]	1	0	0	0	0	0	0	0	0	0
+180	C6KST3	C6KT34	0.9973775625228882	Proteasome subunit alpha type-2, putative	Cell division cycle protein 48 homologue, putative	[1, 6]	[1, 6]	0	1	1	1	1	1	1	1	1	1
+181	Q76NM4	Q8I3W9	0.6232348620891571	Ras-related protein Rab-11A	Ras-related protein Rab-1A	[17]	[17]	1	0	0	1	1	1	1	1	1	0
+182	Q76NM6	Q8I280	0.5168864354491234	V-type proton ATPase catalytic subunit A	V-type proton ATPase subunit C	[1, 6]	[1]	1	1	1	1	1	1	1	1	1	1
+183	C6KSV0	Q8IFP3	0.5781578984344378	Histone H3	Tubulin alpha chain	[0, 14, 27, 30]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+184	Q8I2H3	Q8I2X4	0.5504861742258071	V-type proton ATPase subunit E, putative	Heat shock protein 70	[1]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+185	Q76NM6	Q8IJT1	0.7252574587240815	V-type proton ATPase catalytic subunit A	Proteasome subunit beta	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+186	Q8IET7	Q8IKF0	0.8789228200912476	40S ribosomal protein S7	RNA helicase	[0, 2, 18]	[0, 2, 10, 18, 24]	0	1	1	1	1	1	1	1	1	1
+187	C0H4V6	Q8I608	0.7674408823251724	14-3-3 protein I	Nucleosome assembly protein	[10, 20]	[3, 14, 20, 21]	1	0	0	0	0	0	0	0	0	0
+188	Q8IDN6	Q8IKR1	0.9758895993232728	Protein transport protein SEC61 subunit alpha	H(+)-exporting diphosphatase	[5]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+189	O77396	Q8IDG3	0.8076829083263874	Proteasome subunit alpha type-3, putative	Proteasome subunit alpha type	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+190	C6KT34	Q8I0U7	0.9878728032112122	Cell division cycle protein 48 homologue, putative	Proteasome subunit beta type-6, putative	[1, 6]	[1, 6]	0	0	0	0	1	1	1	1	0	1
+191	Q7K6A9	Q8IDG2	0.6040418467484414	Proteasome subunit beta	Proteasome subunit alpha type	[1, 6]	[1, 6, 16]	1	1	1	1	1	1	1	1	1	1
+192	Q7KQL5	Q8IKR1	0.8600964307785034	Tubulin beta chain	H(+)-exporting diphosphatase	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+193	C6KTA4	Q7KQL5	0.6666960403323173	Pyruvate kinase	Tubulin beta chain	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+194	K7NTP5	Q8IK89	0.529296438023448	Heat shock 70 kDa protein	Trailer hitch homolog, putative	[0, 2, 14, 18, 24]	[0, 10, 14, 18, 24]	0	0	0	0	0	0	0	0	0	0
+195	K7NTP5	Q8I608	0.5021687181666493	Heat shock 70 kDa protein	Nucleosome assembly protein	[0, 2, 14, 18, 24]	[3, 14, 20, 21]	0	0	0	0	0	0	0	0	0	0
+196	C0H5H0	Q8IJN9	0.9519560933113098	Endoplasmic reticulum chaperone GRP170	Heat shock protein 60	[6, 16]	[1, 6, 16]	1	0	0	1	1	1	1	1	1	1
+197	Q8I0V2	Q8IKR1	0.9777473449707031	ATP synthase subunit beta	H(+)-exporting diphosphatase	[0, 2, 14, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+198	C6KT34	Q8II43	0.5836414992809296	Cell division cycle protein 48 homologue, putative	T-complex protein 1 subunit alpha	[1, 6]	[1, 6]	1	0	0	0	0	0	0	0	0	0
+199	C0H4V6	Q8I2H3	0.5296934336423874	14-3-3 protein I	V-type proton ATPase subunit E, putative	[10, 20]	[1]	0	0	0	0	0	0	0	0	0	0
+200	P61074	Q8I0X1	0.6359063163399696	Proliferating cell nuclear antigen 1	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)	[9, 20, 21]	[9, 21]	0	0	0	0	0	0	0	0	0	0
+201	O96252	Q8ILJ9	0.5855523526668549	ATP synthase subunit alpha	ABC transporter G family member 2	[2, 18, 24]		0	1	1	1	1	1	1	0	1	0
+202	C6KT18	Q8IIV1	0.6779407680034637	Histone H2A	Histone H2B	[0, 14, 27, 30]	[0, 14, 27, 30]	1	0	1	1	1	1	1	0	1	1
+203	Q8I0U7	Q8IC01	0.6297559728845954	Proteasome subunit beta type-6, putative	Heat shock protein 110	[1, 6]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+204	O97320	Q76NN6	0.5153305441141128	Histone H2A	Ran-specific GTPase-activating protein 1, putative	[20]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+205	Q76NM6	Q8I2H3	0.5464491218328476	V-type proton ATPase catalytic subunit A	V-type proton ATPase subunit E, putative	[1, 6]	[1]	1	1	1	1	1	1	1	1	1	1
+206	Q8II24	Q8IKF0	0.7615305945277214	Heat shock protein 70	RNA helicase	[4, 10, 16]	[0, 2, 10, 18, 24]	0	0	0	1	1	1	1	1	1	1
+207	C0H4V6	Q8IC05	0.7994705259799957	14-3-3 protein I	Heat shock protein 90	[10, 20]	[10]	1	1	0	1	0	1	1	1	1	1
+208	Q76NM3	Q8I0P6	0.9525165557861328	L-lactate dehydrogenase	Elongation factor 1-alpha	[2]	[0, 2, 18]	0	0	0	0	0	0	0	0	0	0
+209	Q8I0U7	Q8IAR3	0.606773267313838	Proteasome subunit beta type-6, putative	Proteasome subunit alpha type-6, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	0	1
+210	O97247	Q7KQL5	0.7664513301104308	CCT-beta	Tubulin beta chain	[2, 18]	[2, 18]	0	0	0	1	0	1	1	1	1	1
+211	K7NTP5	O96252	0.7500089704990387	Heat shock 70 kDa protein	ATP synthase subunit alpha	[0, 2, 14, 18, 24]	[2, 18, 24]	0	0	0	0	0	0	0	0	0	0
+212	Q6ZMA8	Q8II43	0.8408661603927612	Vacuolar proton pump subunit B	T-complex protein 1 subunit alpha	[1, 6]	[1, 6]	0	0	0	1	1	1	1	1	1	1
+213	A0A5K1K7U1	Q8IBI3	0.8615920066833496	Proteasome subunit beta	Proteasome subunit alpha type	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+214	Q8I0U7	Q8IJT1	0.581487999856472	Proteasome subunit beta type-6, putative	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	0	1
+215	Q7K6A9	Q8I261	0.7858856439590454	Proteasome subunit beta	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	0	1	1	1	1	1
+216	Q7K6A9	Q8IK90	0.5391262378543615	Proteasome subunit beta	Proteasome subunit alpha type-1, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	0
+217	Q8I2I2	Q8IKI8	0.7970832012593746	Mitochondrial-processing peptidase subunit beta, putative	Cytochrome c oxidase subunit ApiCOX25, putative	[11]	[11]	0	0	0	0	0	0	0	0	0	0
+218	O97247	Q8IB03	0.6890150398015976	CCT-beta	Chaperone protein ClpB1	[2, 18]	[2, 18]	1	0	0	0	0	0	0	0	1	0
+219	O96252	Q8I2N1	0.6245315879583359	ATP synthase subunit alpha	Cytochrome c oxidase subunit 5B, putative	[2, 18, 24]	[11]	0	0	0	1	1	1	1	0	0	1
+220	C6KTA4	Q8I0P6	0.9998002529144288	Pyruvate kinase	Elongation factor 1-alpha	[2, 18]	[0, 2, 18]	0	0	0	1	1	0	1	1	1	0
+221	Q8I2I2	Q8I3N3	0.9225801825523376	Mitochondrial-processing peptidase subunit beta, putative	Alpha-MPP	[11]	[11]	1	1	1	1	1	1	1	1	1	0
+222	O97285	Q8IJW0	0.973400616645813	ATP-dependent RNA helicase DDX6	26S protease regulatory subunit 4, putative	[0, 2, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+223	Q8I2X4	Q8IK90	0.6218417465686799	Heat shock protein 70	Proteasome subunit alpha type-1, putative	[1, 6, 16, 28]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+224	O77396	Q8IC01	0.9279629588127136	Proteasome subunit alpha type-3, putative	Heat shock protein 110	[1, 6]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+225	K7NTP5	Q8IKF0	0.5628422144800425	Heat shock 70 kDa protein	RNA helicase	[0, 2, 14, 18, 24]	[0, 2, 10, 18, 24]	0	0	0	1	0	0	0	0	0	0
+226	C6KT18	Q8IBV7	0.9926780223846436	Histone H2A	Histone H2B	[0, 14, 27, 30]	[0, 14, 27, 30]	1	0	1	1	1	1	1	1	1	1
+227	Q76NN6	Q8II61	0.8883574724197387	Ran-specific GTPase-activating protein 1, putative	60S acidic ribosomal protein P0	[3, 20, 21]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+228	Q8I2X4	Q8IDG2	0.9364129662513732	Heat shock protein 70	Proteasome subunit alpha type	[1, 6, 16, 28]	[1, 6, 16]	0	0	0	0	0	0	0	0	0	0
+229	Q8I2I2	Q8IL75	0.7342252815142274	Mitochondrial-processing peptidase subunit beta, putative	Cytochrome b-c1 complex subunit Rieske, putative	[11]	[11]	1	1	1	1	1	1	1	1	0	0
+230	O77310	Q8IKC8	0.8084828913211822	Cytoadherence linked asexual protein 3.1	Exported protein 2	[7]	[7]	0	0	0	0	0	0	0	0	0	0
+231	Q8I490	Q8IEI6	0.5667071431875229	EMP1-trafficking protein	EMP1-trafficking protein	[12, 15]	[12]	0	0	0	0	0	0	0	0	0	0
+232	Q8IB24	Q8IJX8	0.6594967901706695	Heat shock 70 kDa protein	Endonuclease ALBA3	[0, 10, 14, 24]	[14]	0	0	0	0	0	0	0	0	0	0
+233	Q8I0V2	Q8IKF0	0.6187448184937239	ATP synthase subunit beta	RNA helicase	[0, 2, 14, 18, 24]	[0, 2, 10, 18, 24]	0	0	0	0	1	1	1	1	1	0
+234	K7NTP5	Q8IBD1	0.7366987407207489	Heat shock 70 kDa protein	Sporozoite and liver stage tryptophan-rich protein, putative	[0, 2, 14, 18, 24]	[24]	0	0	0	0	0	0	0	0	0	0
+235	Q8I490	Q8IIX5	0.5473556369543076	EMP1-trafficking protein	Plasmodium RESA N-terminal domain-containing protein	[12, 15]	[15]	0	0	0	0	0	0	0	0	0	0
+236	C0H571	Q8ILZ1	0.565418416261673	High molecular weight rhoptry protein 2	Rhoptry-associated protein 1	[7]	[7]	1	0	0	0	0	0	0	0	0	0
+237	Q8I0U7	Q8IBI3	0.952688193321228	Proteasome subunit beta type-6, putative	Proteasome subunit alpha type	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	0	1
+238	O77396	Q8IJT1	0.6240195512771607	Proteasome subunit alpha type-3, putative	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+239	Q76NM6	Q8IBI3	0.759518849849701	V-type proton ATPase catalytic subunit A	Proteasome subunit alpha type	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+240	O97247	Q8I0P6	0.8111000806093216	CCT-beta	Elongation factor 1-alpha	[2, 18]	[0, 2, 18]	0	0	0	0	0	0	0	0	0	0
+241	Q7KQM4	Q8IM16	0.7676784098148346	Plasmepsin I	Plasmepsin IV			1	0	0	0	0	0	0	0	0	0
+242	Q8I280	Q8I2H3	0.6764739146456122	V-type proton ATPase subunit C	V-type proton ATPase subunit E, putative	[1]	[1]	1	1	1	1	1	1	1	1	1	1
+243	C6KT18	Q7KQL5	0.6111686676740646	Histone H2A	Tubulin beta chain	[0, 14, 27, 30]	[2, 18]	0	0	0	0	0	0	0	0	0	1
+244	C6KT50	Q7KQL9	0.9321502685546876	Pyridoxal 5'-phosphate synthase subunit Pdx1	Fructose-bisphosphate aldolase	[8]	[8]	0	0	0	0	0	0	0	0	0	0
+245	O97227	Q8II24	0.6081095725297928	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex	Heat shock protein 70	[6, 9, 16, 28]	[4, 10, 16]	0	0	0	0	0	0	0	0	0	0
+246	K7NTP5	Q8I0V2	0.9387556791305542	Heat shock 70 kDa protein	ATP synthase subunit beta	[0, 2, 14, 18, 24]	[0, 2, 14, 18, 24]	1	0	0	0	0	0	0	0	0	0
+247	C6KST3	Q7K6A9	0.5085937272757292	Proteasome subunit alpha type-2, putative	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+248	C0H4V6	Q8IKF0	0.5136159935966134	14-3-3 protein I	RNA helicase	[10, 20]	[0, 2, 10, 18, 24]	0	0	0	0	0	0	0	0	0	0
+249	C0H571	Q8IEU2	0.9273954510688782	High molecular weight rhoptry protein 2	Gamete antigen 27/25	[7]	[7]	0	0	0	0	0	0	0	0	0	0
+250	Q8I289	Q8I3N3	0.6710918009281158	Heptatricopeptide repeat and RAP domain-containing protein, putative	Alpha-MPP	[2, 18]	[11]	0	0	0	0	0	0	0	0	0	0
+251	K7NTP5	Q8IIV2	0.5677161674946547	Heat shock 70 kDa protein	Histone H4	[0, 2, 14, 18, 24]	[0, 14, 27, 30]	0	0	0	0	0	0	0	0	0	0
+252	Q8I2W3	Q8II61	0.7940073549747467	Nucleosome assembly protein	60S acidic ribosomal protein P0	[3, 20, 21]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+253	Q8IBI3	Q8IJN9	0.6254955649375915	Proteasome subunit alpha type	Heat shock protein 60	[1, 6]	[1, 6, 16]	0	0	0	0	0	0	0	0	0	0
+254	Q8I608	Q8ILI6	0.878549325466156	Nucleosome assembly protein	Acidic leucine-rich nuclear phosphoprotein 32-related protein	[3, 14, 20, 21]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+255	C6KTA4	Q8IJW0	0.9866608262062072	Pyruvate kinase	26S protease regulatory subunit 4, putative	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+256	Q8IKC8	Q8ILZ1	0.8743395209312439	Exported protein 2	Rhoptry-associated protein 1	[7]	[7]	0	0	0	0	0	0	0	0	0	0
+257	Q8I0V2	Q8IIV2	0.6327135056257248	ATP synthase subunit beta	Histone H4	[0, 2, 14, 18, 24]	[0, 14, 27, 30]	0	1	1	1	1	1	1	0	1	1
+258	Q7KQK6	Q8ILB6	0.5610793471336365	GTP-binding nuclear protein	Mitochondrial acidic protein MAM33, putative	[21]	[3, 9, 20, 21]	0	0	0	0	0	0	0	0	0	0
+259	Q8IDG2	Q8IK90	0.5315857410430909	Proteasome subunit alpha type	Proteasome subunit alpha type-1, putative	[1, 6, 16]	[1, 6]	1	1	1	1	1	1	1	1	1	0
+260	Q8II43	Q8IJT1	0.6603582680225373	T-complex protein 1 subunit alpha	Proteasome subunit beta	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+261	Q8I484	Q8IKC8	0.5835778921842575	Rhoptry-associated protein 2	Exported protein 2	[7]	[7]	0	0	0	0	0	0	0	0	0	0
+262	O96153	O96252	0.7996527016162872	26S proteasome regulatory subunit RPN1, putative	ATP synthase subunit alpha	[2, 18]	[2, 18, 24]	0	0	0	0	0	0	0	0	0	0
+263	Q7KQL5	Q8IKF0	0.9997753024101256	Tubulin beta chain	RNA helicase	[2, 18]	[0, 2, 10, 18, 24]	0	0	0	0	0	0	0	0	1	0
+264	O77396	Q8IAR3	0.5754890620708465	Proteasome subunit alpha type-3, putative	Proteasome subunit alpha type-6, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+265	O97247	Q8IFP3	0.9945586919784546	CCT-beta	Tubulin alpha chain	[2, 18]	[2, 18]	0	0	0	0	1	0	0	0	1	0
+266	P61074	Q76NN6	0.7879633270204067	Proliferating cell nuclear antigen 1	Ran-specific GTPase-activating protein 1, putative	[9, 20, 21]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+267	Q8IIJ8	Q8ILA1	0.5317367017269135	Heat shock protein 101	Translocon component PTEX150	[2, 18]	[2]	1	1	1	1	0	1	0	0	0	0
+268	Q7K6A5	Q8IC01	0.6557865798473358	Multidrug resistance protein 1	Heat shock protein 110	[28]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+269	Q8I289	Q8IB03	0.5529760293662548	Heptatricopeptide repeat and RAP domain-containing protein, putative	Chaperone protein ClpB1	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+270	O97247	Q8IJW0	0.621888792514801	CCT-beta	26S protease regulatory subunit 4, putative	[2, 18]	[2, 18]	1	0	0	0	0	0	0	0	1	0
+271	Q8I5L6	Q8IKF0	0.5539511807262898	Clathrin heavy chain	RNA helicase	[0, 24]	[0, 2, 10, 18, 24]	0	0	0	0	0	0	0	0	0	0
+272	Q8I2X4	Q8II24	0.9739554286003111	Heat shock protein 70	Heat shock protein 70	[1, 6, 16, 28]	[4, 10, 16]	1	0	0	1	1	1	1	1	1	1
+273	Q8I0P6	Q8IKK7	0.9170876860618592	Elongation factor 1-alpha	Glyceraldehyde-3-phosphate dehydrogenase	[0, 2, 18]	[2]	0	0	0	1	1	1	0	1	1	1
+274	O96252	Q8IET7	0.5423214294016361	ATP synthase subunit alpha	40S ribosomal protein S7	[2, 18, 24]	[0, 2, 18]	0	0	0	0	0	0	0	0	0	0
+275	Q8IBI3	Q8IDG2	0.7753922015428543	Proteasome subunit alpha type	Proteasome subunit alpha type	[1, 6]	[1, 6, 16]	1	1	1	1	1	1	1	1	1	1
+276	C6KST3	Q8IJN9	0.7989374905824661	Proteasome subunit alpha type-2, putative	Heat shock protein 60	[1, 6]	[1, 6, 16]	0	0	0	0	0	0	0	0	0	0
+277	C0H5H0	Q8IK90	0.5740393459796905	Endoplasmic reticulum chaperone GRP170	Proteasome subunit alpha type-1, putative	[6, 16]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+278	Q8I5H4	Q8IK89	0.5145177394151688	Polyadenylate-binding protein	Trailer hitch homolog, putative	[0, 14, 18, 24, 27, 30]	[0, 10, 14, 18, 24]	1	1	0	1	1	1	1	1	1	1
+279	A0A5K1K8H7	Q76NM4	0.9539113640785216	Ras-related protein Rab-1B	Ras-related protein Rab-11A	[17]	[17]	1	0	0	1	1	1	1	1	1	1
+280	Q8II24	Q8ILT0	0.6491370677947998	Heat shock protein 70	Glutamate dehydrogenase	[4, 10, 16]		0	0	0	0	0	0	0	0	0	0
+281	Q7KQL5	Q8I0V2	0.614089785516262	Tubulin beta chain	ATP synthase subunit beta	[2, 18]	[0, 2, 14, 18, 24]	0	0	0	0	0	0	0	0	1	0
+282	Q8I2X4	Q8IE84	0.9808879137039184	Heat shock protein 70	V-type proton ATPase subunit G, putative	[1, 6, 16, 28]	[1]	0	0	0	0	0	0	0	0	0	0
+283	Q8IAR3	Q8IDG2	0.9795835614204408	Proteasome subunit alpha type-6, putative	Proteasome subunit alpha type	[1, 6]	[1, 6, 16]	1	1	1	1	1	1	1	1	1	1
+284	O77396	Q8IBI3	0.6254671137779951	Proteasome subunit alpha type-3, putative	Proteasome subunit alpha type	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+285	C6KT50	Q8IJN7	0.5302730811759829	Pyridoxal 5'-phosphate synthase subunit Pdx1	Enolase	[8]	[8]	0	0	0	0	0	0	0	0	0	0
+286	Q76NN6	Q8I2W3	0.5109905481338501	Ran-specific GTPase-activating protein 1, putative	Nucleosome assembly protein	[3, 20, 21]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+287	C6KST3	O77396	0.8858442187309266	Proteasome subunit alpha type-2, putative	Proteasome subunit alpha type-3, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+288	Q8I485	Q8ILZ1	0.5760559618473053	Rhoptry-associated protein 3	Rhoptry-associated protein 1	[7]	[7]	1	0	0	0	0	0	0	0	0	0
+289	Q8I0P6	Q8IKR1	0.5721960484981536	Elongation factor 1-alpha	H(+)-exporting diphosphatase	[0, 2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+290	O96153	Q8I0V2	0.6639643698930741	26S proteasome regulatory subunit RPN1, putative	ATP synthase subunit beta	[2, 18]	[0, 2, 14, 18, 24]	0	0	0	0	0	0	0	0	0	0
+291	Q6ZMA8	Q8IKJ0	0.9995426058769226	Vacuolar proton pump subunit B	V-type proton ATPase subunit	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+292	K7NTP5	Q8II73	0.5348239287734031	Heat shock 70 kDa protein	Spermidine synthase	[0, 2, 14, 18, 24]		0	0	0	0	0	0	0	0	0	0
+293	Q8IBV7	Q8IFP3	0.5754545571748167	Histone H2B	Tubulin alpha chain	[0, 14, 27, 30]	[2, 18]	0	0	0	0	0	0	0	0	1	0
+294	Q7KQL9	Q8IJN7	0.577183285402134	Fructose-bisphosphate aldolase	Enolase	[8]	[8]	1	0	0	1	0	0	0	0	0	0
+295	C6KSV0	Q8IET7	0.7373006075620652	Histone H3	40S ribosomal protein S7	[0, 14, 27, 30]	[0, 2, 18]	0	0	0	0	0	0	0	0	0	0
+296	O97227	Q8II36	0.790908545255661	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex	Aquaglyceroporin	[6, 9, 16, 28]	[6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+297	Q8I395	Q8IAV1	0.6354540631175041	High molecular weight rhoptry protein 3	Uncharacterized protein	[7]	[7]	0	0	0	0	0	0	0	0	0	0
+298	Q6ZMA8	Q8I2X4	0.5086495444178581	Vacuolar proton pump subunit B	Heat shock protein 70	[1, 6]	[1, 6, 16, 28]	0	0	0	1	1	1	1	1	1	1
+299	Q8IBI3	Q8IK90	0.6742614179849624	Proteasome subunit alpha type	Proteasome subunit alpha type-1, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	0
+300	Q8IDG2	Q8II24	0.8607619524002075	Proteasome subunit alpha type	Heat shock protein 70	[1, 6, 16]	[4, 10, 16]	0	0	0	0	0	0	0	0	0	0
+301	Q8I5H4	Q8IKF0	0.9852630496025084	Polyadenylate-binding protein	RNA helicase	[0, 14, 18, 24, 27, 30]	[0, 2, 10, 18, 24]	1	0	0	1	1	1	1	1	1	1
+302	Q8I289	Q8IFP3	0.5707636952400208	Heptatricopeptide repeat and RAP domain-containing protein, putative	Tubulin alpha chain	[2, 18]	[2, 18]	0	0	1	1	1	1	1	0	0	0
+303	Q8IAR3	Q8IK90	0.9487323880195616	Proteasome subunit alpha type-6, putative	Proteasome subunit alpha type-1, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	0
+304	Q7K6A9	Q8IDG3	0.6322721302509308	Proteasome subunit beta	Proteasome subunit alpha type	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+305	Q8IEJ6	Q8ILB6	0.8176041126251221	2-oxoisovalerate dehydrogenase subunit alpha	Mitochondrial acidic protein MAM33, putative	[9]	[3, 9, 20, 21]	0	0	0	0	0	0	0	0	0	0
+306	C0H4V6	K7NTP5	0.7061116635799408	14-3-3 protein I	Heat shock 70 kDa protein	[10, 20]	[0, 2, 14, 18, 24]	0	0	0	1	0	0	0	0	0	0
+307	Q8I2X4	Q8IDG3	0.6840274512767792	Heat shock protein 70	Proteasome subunit alpha type	[1, 6, 16, 28]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+308	Q8I289	Q8IJW0	0.7825129866600037	Heptatricopeptide repeat and RAP domain-containing protein, putative	26S protease regulatory subunit 4, putative	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+309	O97227	Q8IC01	0.6814394772052765	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex	Heat shock protein 110	[6, 9, 16, 28]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+310	C0H4V6	Q8II61	0.6745435714721679	14-3-3 protein I	60S acidic ribosomal protein P0	[10, 20]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+311	K7NTP5	O97247	0.5615703787654638	Heat shock 70 kDa protein	CCT-beta	[0, 2, 14, 18, 24]	[2, 18]	1	0	0	1	0	0	0	0	0	0
+312	K7NTP5	Q8IKG9	0.9537190079689026	Heat shock 70 kDa protein	Uncharacterized protein	[0, 2, 14, 18, 24]	[0, 24]	0	0	0	0	0	0	0	0	0	0
+313	C6KSV0	Q8IAX8	0.8626718044281005	Histone H3	DNA/RNA-binding protein ALBA1	[0, 14, 27, 30]	[14, 27, 30]	1	0	0	0	0	0	0	0	0	0
+314	C0H4D2	Q8IM57	0.7810456797480583	Longevity-assurance (LAG1) protein, putative	Translocation associated membrane protein, putative	[23]	[23]	1	0	0	1	0	0	1	0	0	0
+315	C6KSX4	Q8IFP3	0.997419536113739	Dolichol phosphate-mannose biosynthesis regulatory protein	Tubulin alpha chain	[2]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+316	Q8IFP3	Q8IJW0	0.6378807216882706	Tubulin alpha chain	26S protease regulatory subunit 4, putative	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+317	Q8I2X4	Q8II36	0.7371839791536331	Heat shock protein 70	Aquaglyceroporin	[1, 6, 16, 28]	[6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+318	Q8I6V3	Q8IM15	0.6403404131531716	Plasmepsin II	Plasmepsin III			1	0	0	0	0	0	0	0	0	0
+319	K7NTP5	Q8I1V1	0.6494590699672699	Heat shock 70 kDa protein	26S protease regulatory subunit 6B, putative	[0, 2, 14, 18, 24]	[2, 18]	1	0	0	0	0	0	0	0	0	0
+320	Q8IDG3	Q8II43	0.5437675133347512	Proteasome subunit alpha type	T-complex protein 1 subunit alpha	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+321	C6KST3	Q8IDG2	0.6260966807603836	Proteasome subunit alpha type-2, putative	Proteasome subunit alpha type	[1, 6]	[1, 6, 16]	1	1	1	1	1	1	1	1	1	1
+322	P61074	Q8ILB6	0.999647057056427	Proliferating cell nuclear antigen 1	Mitochondrial acidic protein MAM33, putative	[9, 20, 21]	[3, 9, 20, 21]	0	0	0	0	0	0	0	0	0	0
+323	Q8I5H4	Q8IIV2	0.6002417381852865	Polyadenylate-binding protein	Histone H4	[0, 14, 18, 24, 27, 30]	[0, 14, 27, 30]	0	1	0	0	0	0	0	0	0	0
+324	Q8I0V2	Q8I1V1	0.5347036629915237	ATP synthase subunit beta	26S protease regulatory subunit 6B, putative	[0, 2, 14, 18, 24]	[2, 18]	1	0	0	0	0	0	0	0	0	0
+325	K7NTP5	Q8ILV6	0.9993508100509644	Heat shock 70 kDa protein	DnaJ protein, putative	[0, 2, 14, 18, 24]	[5]	1	0	0	1	0	0	0	0	0	0
+326	Q8II61	Q8ILB6	0.888881504535675	60S acidic ribosomal protein P0	Mitochondrial acidic protein MAM33, putative	[3, 20, 21]	[3, 9, 20, 21]	0	0	0	0	0	0	0	0	0	0
+327	Q8IC05	Q8II24	0.8469569325447083	Heat shock protein 90	Heat shock protein 70	[10]	[4, 10, 16]	1	1	1	1	0	1	1	1	1	1
+328	Q8IE84	Q8II61	0.5777650948613882	V-type proton ATPase subunit G, putative	60S acidic ribosomal protein P0	[1]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+329	C0H4V6	O97247	0.9517114877700804	14-3-3 protein I	CCT-beta	[10, 20]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+330	Q8I2I2	Q8I2N1	0.772877237200737	Mitochondrial-processing peptidase subunit beta, putative	Cytochrome c oxidase subunit 5B, putative	[11]	[11]	1	1	1	1	1	1	1	0	0	0
+331	Q8I2J3	Q8I2X4	0.7419023476541042	Aspartyl aminopeptidase	Heat shock protein 70	[16, 28]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+332	Q8IAX8	Q8IJX8	0.82430379986763	DNA/RNA-binding protein ALBA1	Endonuclease ALBA3	[14, 27, 30]	[14]	1	0	0	0	0	0	0	0	0	0
+333	A0A5K1K7U1	Q8I0U7	0.5276215501129627	Proteasome subunit beta	Proteasome subunit beta type-6, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	0	1
+334	Q7K6A9	Q8IC01	0.936710488796234	Proteasome subunit beta	Heat shock protein 110	[1, 6]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+335	Q8I6V3	Q8IM16	0.5798167757689953	Plasmepsin II	Plasmepsin IV			1	0	0	1	0	0	0	0	0	0
+336	C6KT34	Q7K6A9	0.7588646173477173	Cell division cycle protein 48 homologue, putative	Proteasome subunit beta	[1, 6]	[1, 6]	0	0	0	0	1	1	1	1	1	1
+337	C0H5H0	Q8II36	0.5525138005614281	Endoplasmic reticulum chaperone GRP170	Aquaglyceroporin	[6, 16]	[6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+338	Q8I2X4	Q8IC01	0.7737980484962463	Heat shock protein 70	Heat shock protein 110	[1, 6, 16, 28]	[1, 6, 16, 28]	1	0	0	1	1	1	1	1	1	1
+339	O77310	Q8I395	0.9996237874031066	Cytoadherence linked asexual protein 3.1	High molecular weight rhoptry protein 3	[7]	[7]	1	1	1	1	0	0	0	0	0	0
+340	K7NTP5	Q8I5L6	0.6622864723205566	Heat shock 70 kDa protein	Clathrin heavy chain	[0, 2, 14, 18, 24]	[0, 24]	0	1	0	0	0	0	0	0	0	0
+341	Q8IDG2	Q8IDG3	0.7797228336334229	Proteasome subunit alpha type	Proteasome subunit alpha type	[1, 6, 16]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+342	Q8I261	Q8IK90	0.642706960439682	Proteasome subunit beta	Proteasome subunit alpha type-1, putative	[1, 6]	[1, 6]	1	1	1	1	0	1	1	1	1	0
+343	Q7KQM0	Q8II24	0.7518433850258589	Triosephosphate isomerase	Heat shock protein 70	[4]	[4, 10, 16]	0	0	0	0	0	0	0	0	1	1
+344	K7NTP5	Q8I5A9	0.51964130140841	Heat shock 70 kDa protein	Ras-related protein Rab-2	[0, 2, 14, 18, 24]	[24]	0	0	0	0	0	0	0	0	0	0
+345	C6KST3	Q8I261	0.6876430720090866	Proteasome subunit alpha type-2, putative	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	0	1	1	1	1	1
+346	Q7K6A9	Q8IJT1	0.5558761455118656	Proteasome subunit beta	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+347	Q8I2F4	Q8IFM0	0.9999256491661072	Plasmodium RESA N-terminal domain-containing protein	Plasmodium RESA N-terminal domain-containing protein	[15]	[15]	0	0	0	0	0	0	0	0	0	0
+348	Q8IB03	Q8IB24	0.5172641217708588	Chaperone protein ClpB1	Heat shock 70 kDa protein	[2, 18]	[0, 10, 14, 24]	1	0	1	1	1	1	1	1	1	1
+349	K7NTP5	O96153	0.98492751121521	Heat shock 70 kDa protein	26S proteasome regulatory subunit RPN1, putative	[0, 2, 14, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+350	K7NTP5	Q8IIV1	0.6553739674389363	Heat shock 70 kDa protein	Histone H2B	[0, 2, 14, 18, 24]	[0, 14, 27, 30]	0	0	0	0	0	0	0	0	0	0
+351	Q8I261	Q8IDG2	0.8621182560920715	Proteasome subunit beta	Proteasome subunit alpha type	[1, 6]	[1, 6, 16]	1	1	1	1	0	1	1	1	1	1
+352	Q8I0P6	Q8IKF0	0.9994900107383728	Elongation factor 1-alpha	RNA helicase	[0, 2, 18]	[0, 2, 10, 18, 24]	0	0	0	1	1	1	1	1	1	1
+353	C6KST3	Q8IK90	0.8556625485420227	Proteasome subunit alpha type-2, putative	Proteasome subunit alpha type-1, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	0
+354	O77310	Q8IBN4	0.998648989200592	Cytoadherence linked asexual protein 3.1	Secreted ookinete protein, putative	[7]	[7]	0	0	0	0	0	0	0	0	0	0
+355	Q8I2X4	Q8IJT1	0.7600331157445908	Heat shock protein 70	Proteasome subunit beta	[1, 6, 16, 28]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+356	Q8IB24	Q8II24	0.9942572236061096	Heat shock 70 kDa protein	Heat shock protein 70	[0, 10, 14, 24]	[4, 10, 16]	1	0	0	1	1	1	1	1	1	1
+357	Q7KQL5	Q8I1V1	0.8344494044780731	Tubulin beta chain	26S protease regulatory subunit 6B, putative	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+358	C6KTA4	Q8IET7	0.99977388381958	Pyruvate kinase	40S ribosomal protein S7	[2, 18]	[0, 2, 18]	0	0	0	0	0	0	0	0	0	0
+359	Q8I0V2	Q8IDN6	0.6149057045578956	ATP synthase subunit beta	Protein transport protein SEC61 subunit alpha	[0, 2, 14, 18, 24]	[5]	0	0	0	1	0	1	1	1	1	1
+360	Q8IC01	Q8II43	0.8587123274803161	Heat shock protein 110	T-complex protein 1 subunit alpha	[1, 6, 16, 28]	[1, 6]	1	0	0	1	1	1	1	1	1	1
+361	C6KTB3	O77312	0.8176456272602082	Transportin	Exportin-1, putative	[19]	[19]	1	0	0	1	1	1	1	0	1	1
+362	Q8I0V2	Q8I289	0.6975008647888898	ATP synthase subunit beta	Heptatricopeptide repeat and RAP domain-containing protein, putative	[0, 2, 14, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+363	Q8IDN6	Q8ILV6	0.9997732877731323	Protein transport protein SEC61 subunit alpha	DnaJ protein, putative	[5]	[5]	0	0	0	0	0	0	0	0	0	0
+364	O96153	Q8I5L6	0.7259729340672493	26S proteasome regulatory subunit RPN1, putative	Clathrin heavy chain	[2, 18]	[0, 24]	0	0	0	0	0	0	0	0	0	0
+365	O96153	O97247	0.8849692463874816	26S proteasome regulatory subunit RPN1, putative	CCT-beta	[2, 18]	[2, 18]	0	0	0	1	1	1	1	1	1	1
+366	Q8IC01	Q8IEK1	0.998980677127838	Heat shock protein 110	Aminopeptidase N	[1, 6, 16, 28]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+367	C6KST3	Q76NM6	0.5314948618412018	Proteasome subunit alpha type-2, putative	V-type proton ATPase catalytic subunit A	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+368	Q8IDZ8	Q8II24	0.8326678514480591	20 kDa chaperonin	Heat shock protein 70	[4, 10]	[4, 10, 16]	1	0	0	1	1	1	1	0	0	1
+369	C0H5H0	Q8IC01	0.6074600905179978	Endoplasmic reticulum chaperone GRP170	Heat shock protein 110	[6, 16]	[1, 6, 16, 28]	1	0	0	0	0	0	0	0	0	0
+370	Q76NM6	Q8II43	0.5845636772923172	V-type proton ATPase catalytic subunit A	T-complex protein 1 subunit alpha	[1, 6]	[1, 6]	1	0	0	0	0	0	0	0	0	0
+371	O96153	Q8I1V1	0.5639472514390945	26S proteasome regulatory subunit RPN1, putative	26S protease regulatory subunit 6B, putative	[2, 18]	[2, 18]	1	1	1	1	1	1	1	1	1	1
+372	C6KT18	Q8IET7	0.6431944459676743	Histone H2A	40S ribosomal protein S7	[0, 14, 27, 30]	[0, 2, 18]	0	0	0	0	0	0	0	0	0	0
+373	O97247	Q8IET7	0.52668796479702	CCT-beta	40S ribosomal protein S7	[2, 18]	[0, 2, 18]	0	0	0	0	0	0	0	0	0	0
+374	Q8I0P6	Q8I0V2	0.9785741806030274	Elongation factor 1-alpha	ATP synthase subunit beta	[0, 2, 18]	[0, 2, 14, 18, 24]	0	0	0	1	1	1	1	1	1	1
+375	Q8I5I0	Q8IB24	0.9787869572639464	Vacuolar iron transporter	Heat shock 70 kDa protein		[0, 10, 14, 24]	0	0	0	0	0	0	0	0	0	0
+376	K7NTP5	Q8IBV7	0.9997873187065124	Heat shock 70 kDa protein	Histone H2B	[0, 2, 14, 18, 24]	[0, 14, 27, 30]	0	0	0	0	0	0	0	0	0	0
+377	Q7KQK6	Q8IE84	0.6129848090931773	GTP-binding nuclear protein	V-type proton ATPase subunit G, putative	[21]	[1]	0	0	0	0	0	0	0	0	0	0
+378	Q8IBV7	Q8IET7	0.7162953913211823	Histone H2B	40S ribosomal protein S7	[0, 14, 27, 30]	[0, 2, 18]	0	0	0	0	0	0	0	0	0	0
+379	Q7K6A9	Q8IAR3	0.6597901821136475	Proteasome subunit beta	Proteasome subunit alpha type-6, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+380	Q8I0P6	Q8IIV2	0.6506299659609794	Elongation factor 1-alpha	Histone H4	[0, 2, 18]	[0, 14, 27, 30]	0	0	0	1	1	1	1	0	1	1
+381	Q8IEA6	Q8IJ34	0.6120107783004641	dihydrolipoyllysine-residue succinyltransferase	ADP/ATP translocase	[13]	[13]	0	0	0	0	0	0	0	0	0	0
+382	O96252	Q8IB24	0.9983623027801514	ATP synthase subunit alpha	Heat shock 70 kDa protein	[2, 18, 24]	[0, 10, 14, 24]	0	0	0	0	1	1	1	1	1	1
+383	Q8I0V2	Q8IJ34	0.6188284754753113	ATP synthase subunit beta	ADP/ATP translocase	[0, 2, 14, 18, 24]	[13]	0	0	0	1	1	1	1	1	1	1
+384	Q8I2W2	Q8IB24	0.6024139516055584	DnaJ protein, putative	Heat shock 70 kDa protein	[5]	[0, 10, 14, 24]	1	0	0	1	1	1	1	1	1	0
+385	Q8I0V2	Q8I3N3	0.6381591141223908	ATP synthase subunit beta	Alpha-MPP	[0, 2, 14, 18, 24]	[11]	0	0	0	1	1	1	1	1	1	1
+386	Q6ZMA8	Q8IJN9	0.5265821985900402	Vacuolar proton pump subunit B	Heat shock protein 60	[1, 6]	[1, 6, 16]	0	0	0	0	0	0	0	0	0	0
+387	A0A143ZZK9	Q8IB24	0.5162679105997086	P-type sodium-transporting ATPase4	Heat shock 70 kDa protein		[0, 10, 14, 24]	1	0	0	0	0	0	0	0	0	0
+388	K7NTP5	Q7KQL5	0.760325801372528	Heat shock 70 kDa protein	Tubulin beta chain	[0, 2, 14, 18, 24]	[2, 18]	0	1	1	1	0	0	0	0	0	0
+389	Q8IDG2	Q8IJT1	0.5550167512468761	Proteasome subunit alpha type	Proteasome subunit beta	[1, 6, 16]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+390	C6KT34	O77396	0.6842965185642242	Cell division cycle protein 48 homologue, putative	Proteasome subunit alpha type-3, putative	[1, 6]	[1, 6]	0	0	0	1	1	1	1	1	1	1
+391	Q8I0V2	Q8IIV1	0.5677121698856353	ATP synthase subunit beta	Histone H2B	[0, 2, 14, 18, 24]	[0, 14, 27, 30]	0	0	1	1	1	1	1	0	1	1
+392	Q8IBI3	Q8IDG3	0.6597691167145967	Proteasome subunit alpha type	Proteasome subunit alpha type	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+393	O97320	Q8ILI6	0.90115385055542	Histone H2A	Acidic leucine-rich nuclear phosphoprotein 32-related protein	[20]	[3, 20, 21]	0	1	1	1	1	1	1	1	1	1
+394	C0H4V6	Q8IBV7	0.7297577183693648	14-3-3 protein I	Histone H2B	[10, 20]	[0, 14, 27, 30]	0	0	0	0	0	0	0	0	0	0
+395	Q8II61	Q8IJN7	0.603042921423912	60S acidic ribosomal protein P0	Enolase	[3, 20, 21]	[8]	0	0	0	1	0	0	0	0	0	0
+396	Q8IDN6	Q8IEC8	0.5047942817211151	Protein transport protein SEC61 subunit alpha	Translocation protein SEC63, putative	[5]	[2, 5]	1	1	1	1	0	1	1	1	1	1
+397	K7NTP5	Q8IIJ8	0.7179137170314789	Heat shock 70 kDa protein	Heat shock protein 101	[0, 2, 14, 18, 24]	[2, 18]	1	1	1	1	0	0	0	0	0	0
+398	K7NTP5	Q8IB03	0.8848047971725463	Heat shock 70 kDa protein	Chaperone protein ClpB1	[0, 2, 14, 18, 24]	[2, 18]	1	1	1	1	0	0	0	0	0	0
+399	Q8IET7	Q8IFP3	0.7691635847091675	40S ribosomal protein S7	Tubulin alpha chain	[0, 2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+400	C6KSV0	Q8IB24	0.6675848145037889	Histone H3	Heat shock 70 kDa protein	[0, 14, 27, 30]	[0, 10, 14, 24]	0	0	0	0	0	0	0	0	0	0
+401	Q8IAR3	Q8IDG3	0.8262550592422485	Proteasome subunit alpha type-6, putative	Proteasome subunit alpha type	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+402	A0A144A2H0	Q8II24	0.8403204798698425	Aminopeptidase P	Heat shock protein 70	[4, 10]	[4, 10, 16]	0	0	0	0	0	0	0	0	0	0
+403	K7NTP5	O97285	0.9574142575263976	Heat shock 70 kDa protein	ATP-dependent RNA helicase DDX6	[0, 2, 14, 18, 24]	[0, 2, 18, 24]	0	0	0	0	0	0	0	0	0	0
+404	Q8IC05	Q8IKK7	0.96721351146698	Heat shock protein 90	Glyceraldehyde-3-phosphate dehydrogenase	[10]	[2]	0	0	0	1	0	1	0	0	1	1
+405	Q7K6A9	Q8IBI3	0.8738824188709259	Proteasome subunit beta	Proteasome subunit alpha type	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+406	O97285	Q8IB24	0.5140750199556351	ATP-dependent RNA helicase DDX6	Heat shock 70 kDa protein	[0, 2, 18, 24]	[0, 10, 14, 24]	0	0	0	0	0	0	0	0	0	0
+407	Q8I0V2	Q8IIJ8	0.547316326200962	ATP synthase subunit beta	Heat shock protein 101	[0, 2, 14, 18, 24]	[2, 18]	1	0	0	0	0	0	0	0	0	0
+408	Q8I490	Q8IDG9	0.9929667592048644	EMP1-trafficking protein	Uncharacterized protein	[12, 15]	[12, 15]	0	0	0	0	0	0	0	0	0	0
+409	O96153	Q8I289	0.6306662704795599	26S proteasome regulatory subunit RPN1, putative	Heptatricopeptide repeat and RAP domain-containing protein, putative	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+410	Q8IFM0	Q8IIX5	0.5469985544681549	Plasmodium RESA N-terminal domain-containing protein	Plasmodium RESA N-terminal domain-containing protein	[15]	[15]	1	0	0	0	0	0	0	0	0	0
+411	Q8IJX3	Q8IK89	0.6001937706023455	Single-strand telomeric DNA-binding protein GBP2, putative	Trailer hitch homolog, putative	[14, 27, 30]	[0, 10, 14, 18, 24]	1	0	0	0	0	0	0	0	0	0
+412	Q6ZMA8	Q76NM3	0.5030843406915665	Vacuolar proton pump subunit B	L-lactate dehydrogenase	[1, 6]	[2]	0	0	0	0	0	0	0	0	0	0
+413	C0H571	Q8IAV1	0.5968037880957127	High molecular weight rhoptry protein 2	Uncharacterized protein	[7]	[7]	0	0	0	0	0	0	0	0	0	0
+414	Q8IET7	Q8IJW0	0.9118263959884644	40S ribosomal protein S7	26S protease regulatory subunit 4, putative	[0, 2, 18]	[2, 18]	0	0	0	0	1	0	1	0	1	0
+415	Q8I0V2	Q8IBV7	0.5045131210237741	ATP synthase subunit beta	Histone H2B	[0, 2, 14, 18, 24]	[0, 14, 27, 30]	0	1	1	1	1	1	1	1	1	1
+416	Q8I2H3	Q8IE84	0.9921843886375428	V-type proton ATPase subunit E, putative	V-type proton ATPase subunit G, putative	[1]	[1]	1	1	1	1	1	1	1	1	1	1
+417	Q8I608	Q8IIV2	0.635938324034214	Nucleosome assembly protein	Histone H4	[3, 14, 20, 21]	[0, 14, 27, 30]	1	1	1	1	1	1	1	0	1	1
+418	O77396	Q8I0U7	0.9679560542106628	Proteasome subunit alpha type-3, putative	Proteasome subunit beta type-6, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	0	1
+419	K7NTP5	Q8I0P6	0.9998429179191588	Heat shock 70 kDa protein	Elongation factor 1-alpha	[0, 2, 14, 18, 24]	[0, 2, 18]	0	0	0	1	0	0	0	0	0	0
+420	C6KST3	Q8IDG3	0.5932047791779042	Proteasome subunit alpha type-2, putative	Proteasome subunit alpha type	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+421	O77396	Q8II43	0.6738397832028568	Proteasome subunit alpha type-3, putative	T-complex protein 1 subunit alpha	[1, 6]	[1, 6]	0	0	0	0	1	1	1	0	1	1
+422	Q8I289	Q8I2I2	0.5046251956373453	Heptatricopeptide repeat and RAP domain-containing protein, putative	Mitochondrial-processing peptidase subunit beta, putative	[2, 18]	[11]	0	0	0	0	0	0	0	0	0	0
+423	A0A5K1K8W5	Q8IDN0	0.6440545871853829	Secreted ookinete protein, putative	Female gametocyte surface protein P47	[29]	[29]	0	0	0	0	0	0	0	0	0	0
+424	Q8IB24	Q8IKK7	0.5305555403232575	Heat shock 70 kDa protein	Glyceraldehyde-3-phosphate dehydrogenase	[0, 10, 14, 24]	[2]	0	0	0	1	1	1	0	1	1	1
+425	C0H4V6	O97285	0.5376930743455887	14-3-3 protein I	ATP-dependent RNA helicase DDX6	[10, 20]	[0, 2, 18, 24]	0	0	0	0	0	0	0	0	0	0
+426	Q8IJN9	Q8IK90	0.999897563457489	Heat shock protein 60	Proteasome subunit alpha type-1, putative	[1, 6, 16]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+427	Q8IBI3	Q8IC01	0.8805423498153686	Proteasome subunit alpha type	Heat shock protein 110	[1, 6]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+428	Q8II61	Q8ILI6	0.5795196861028671	60S acidic ribosomal protein P0	Acidic leucine-rich nuclear phosphoprotein 32-related protein	[3, 20, 21]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+429	O97247	Q8III6	0.8592911005020142	CCT-beta	Heat shock protein 90, putative	[2, 18]		1	0	0	1	1	1	1	1	0	1
+430	K7NTP5	Q8IKJ0	0.5305626474320888	Heat shock 70 kDa protein	V-type proton ATPase subunit	[0, 2, 14, 18, 24]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+431	C0H5H0	Q8IBI3	0.722867465019226	Endoplasmic reticulum chaperone GRP170	Proteasome subunit alpha type	[6, 16]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+432	Q8IJT1	Q8IK90	0.9970599055290222	Proteasome subunit beta	Proteasome subunit alpha type-1, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	0
+433	Q8I5H4	Q8IKG9	0.5998935662209988	Polyadenylate-binding protein	Uncharacterized protein	[0, 14, 18, 24, 27, 30]	[0, 24]	0	1	1	1	1	1	1	0	1	0
+434	Q8IIJ8	Q8IJW0	0.5367674767971039	Heat shock protein 101	26S protease regulatory subunit 4, putative	[2, 18]	[2, 18]	1	0	0	0	0	0	0	0	0	0
+435	C6KT34	Q8IDG2	0.9868422985076905	Cell division cycle protein 48 homologue, putative	Proteasome subunit alpha type	[1, 6]	[1, 6, 16]	0	0	0	0	1	1	1	1	1	1
+436	A0A5K1K7U1	C6KST3	0.6037195086479187	Proteasome subunit beta	Proteasome subunit alpha type-2, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+437	Q8IBI3	Q8IJT1	0.8784822821617126	Proteasome subunit alpha type	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+438	Q8IB24	Q8IC05	0.5146657444536686	Heat shock 70 kDa protein	Heat shock protein 90	[0, 10, 14, 24]	[10]	1	0	1	1	0	1	1	1	1	1
+439	Q8I2X4	Q8I5I0	0.7189214855432511	Heat shock protein 70	Vacuolar iron transporter	[1, 6, 16, 28]		0	0	0	0	0	0	0	0	0	0
+440	K7NTP5	Q8IFP3	0.757332581281662	Heat shock 70 kDa protein	Tubulin alpha chain	[0, 2, 14, 18, 24]	[2, 18]	0	0	1	1	0	0	0	0	0	0
+441	Q8IAR3	Q8IJT1	0.7714065723121166	Proteasome subunit alpha type-6, putative	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+442	Q8I261	Q8IDG3	0.9801401615142822	Proteasome subunit beta	Proteasome subunit alpha type	[1, 6]	[1, 6]	1	1	1	1	0	1	1	1	1	1
+443	Q8IB24	Q8IK89	0.7169469356536865	Heat shock 70 kDa protein	Trailer hitch homolog, putative	[0, 10, 14, 24]	[0, 10, 14, 18, 24]	0	0	0	0	0	0	0	0	0	0
+444	Q8I0V2	Q8IFP3	0.992475152015686	ATP synthase subunit beta	Tubulin alpha chain	[0, 2, 14, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	1	0
+445	C0H4D2	C6KSV0	0.6021961893886327	Longevity-assurance (LAG1) protein, putative	Histone H3	[23]	[0, 14, 27, 30]	0	0	0	0	0	0	0	0	0	0
+446	K7NTP5	Q8IJW0	0.7435745269060134	Heat shock 70 kDa protein	26S protease regulatory subunit 4, putative	[0, 2, 14, 18, 24]	[2, 18]	1	0	0	0	0	0	0	0	0	0
+447	Q7KQL5	Q8I0P6	0.8548926472663879	Tubulin beta chain	Elongation factor 1-alpha	[2, 18]	[0, 2, 18]	1	1	0	0	0	0	0	0	1	0
+448	Q8IIV1	Q8IJX8	0.5561644420027733	Histone H2B	Endonuclease ALBA3	[0, 14, 27, 30]	[14]	1	0	0	0	0	0	0	0	0	0
+449	C6KST3	Q8IC01	0.641743937600404	Proteasome subunit alpha type-2, putative	Heat shock protein 110	[1, 6]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+450	O77310	Q8IEU2	0.8462604761123658	Cytoadherence linked asexual protein 3.1	Gamete antigen 27/25	[7]	[7]	0	0	0	0	0	0	0	0	0	0
+451	Q76NM6	Q8IKJ0	0.9879031896591186	V-type proton ATPase catalytic subunit A	V-type proton ATPase subunit	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+452	Q8I0P6	Q8IDN6	0.5227838814258575	Elongation factor 1-alpha	Protein transport protein SEC61 subunit alpha	[0, 2, 18]	[5]	0	0	0	0	0	0	0	0	0	0
+453	Q8I0X1	Q8II61	0.6963693648576735	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)	60S acidic ribosomal protein P0	[9, 21]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+454	Q8I0P6	Q8I1V1	0.9999000310897828	Elongation factor 1-alpha	26S protease regulatory subunit 6B, putative	[0, 2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+455	Q8I0V4	Q8II24	0.8700834274291992	Endoplasmin, putative	Heat shock protein 70	[10]	[4, 10, 16]	1	1	1	1	1	1	1	1	1	1
+456	Q7KQK6	Q8I608	0.9941964507102966	GTP-binding nuclear protein	Nucleosome assembly protein	[21]	[3, 14, 20, 21]	0	0	0	0	0	0	0	0	0	0
+457	Q8IB03	Q8IC05	0.696231198310852	Chaperone protein ClpB1	Heat shock protein 90	[2, 18]	[10]	1	0	0	1	0	1	1	1	1	1
+458	C6KT34	Q8IK90	0.9006780028343201	Cell division cycle protein 48 homologue, putative	Proteasome subunit alpha type-1, putative	[1, 6]	[1, 6]	0	0	0	0	1	1	1	1	1	0
+459	Q76NM6	Q8I2X4	0.6557933688163757	V-type proton ATPase catalytic subunit A	Heat shock protein 70	[1, 6]	[1, 6, 16, 28]	1	0	0	0	0	0	0	0	0	0
+460	C6KST3	Q8IJT1	0.6124924354255199	Proteasome subunit alpha type-2, putative	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+461	C0H4V6	Q8IFP3	0.9801848649978636	14-3-3 protein I	Tubulin alpha chain	[10, 20]	[2, 18]	0	0	0	0	0	0	0	1	1	0
+462	C6KSV0	Q8IM01	0.6283768195658922	Histone H3	COPI associated protein	[0, 14, 27, 30]	[30]	0	0	0	0	0	0	0	0	0	0
+463	Q8I608	Q8II61	0.9837513089179992	Nucleosome assembly protein	60S acidic ribosomal protein P0	[3, 14, 20, 21]	[3, 20, 21]	0	1	0	0	0	0	0	0	0	0
+464	Q8IAR3	Q8IBI3	0.9061123490333556	Proteasome subunit alpha type-6, putative	Proteasome subunit alpha type	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+465	O96153	Q8I0P6	0.9999085307121276	26S proteasome regulatory subunit RPN1, putative	Elongation factor 1-alpha	[2, 18]	[0, 2, 18]	0	0	0	0	0	0	0	0	0	0
+466	Q8I0V4	Q8IB24	0.6347081214189529	Endoplasmin, putative	Heat shock 70 kDa protein	[10]	[0, 10, 14, 24]	1	0	1	1	1	1	1	1	1	1
+467	Q8IFM9	Q8IJM9	0.5966803662478923	Early transcribed membrane protein 4	Early transcribed membrane protein 10.3	[31]	[31]	1	0	0	0	0	0	0	0	0	0
+468	Q6ZMA8	Q8IK90	0.997844421863556	Vacuolar proton pump subunit B	Proteasome subunit alpha type-1, putative	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+469	Q8I5H4	Q8IIV1	0.6168375313282013	Polyadenylate-binding protein	Histone H2B	[0, 14, 18, 24, 27, 30]	[0, 14, 27, 30]	0	0	0	0	0	0	0	0	0	0
+470	Q6ZMA8	Q8IJN7	0.9491129279136656	Vacuolar proton pump subunit B	Enolase	[1, 6]	[8]	0	0	0	1	0	0	0	0	0	0
+471	O77310	Q8ILZ1	0.995767903327942	Cytoadherence linked asexual protein 3.1	Rhoptry-associated protein 1	[7]	[7]	1	0	0	0	0	0	0	0	0	0
+472	C6KSV0	Q8I5H4	0.8301278352737427	Histone H3	Polyadenylate-binding protein	[0, 14, 27, 30]	[0, 14, 18, 24, 27, 30]	0	0	0	0	0	0	0	0	0	0
+473	Q7KQL5	Q8IFP3	0.6655917681753636	Tubulin beta chain	Tubulin alpha chain	[2, 18]	[2, 18]	1	0	1	1	0	1	1	1	1	0
+474	Q8I206	Q8IFM0	0.934316635131836	Plasmodium RESA N-terminal domain-containing protein	Plasmodium RESA N-terminal domain-containing protein	[15]	[15]	0	0	0	0	0	0	0	0	0	0
+475	Q8IB24	Q8IKF0	0.9985397338867188	Heat shock 70 kDa protein	RNA helicase	[0, 10, 14, 24]	[0, 2, 10, 18, 24]	0	0	0	1	1	1	1	1	1	1
+476	Q8IIV2	Q8IK89	0.5626400338485837	Histone H4	Trailer hitch homolog, putative	[0, 14, 27, 30]	[0, 10, 14, 18, 24]	0	0	0	0	0	0	0	0	0	0
+477	Q8I2H3	Q8IC01	0.5737094417214392	V-type proton ATPase subunit E, putative	Heat shock protein 110	[1]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+478	C6KT18	Q8IB24	0.6553582489490509	Histone H2A	Heat shock 70 kDa protein	[0, 14, 27, 30]	[0, 10, 14, 24]	0	0	0	0	0	0	0	0	0	0
+479	Q8IDN6	Q8IJW0	0.5388408120721577	Protein transport protein SEC61 subunit alpha	26S protease regulatory subunit 4, putative	[5]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+480	Q7KQL5	Q8IJW0	0.5326689586043358	Tubulin beta chain	26S protease regulatory subunit 4, putative	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+481	C6KSV0	Q8I608	0.5871988788247109	Histone H3	Nucleosome assembly protein	[0, 14, 27, 30]	[3, 14, 20, 21]	0	1	1	1	1	1	1	1	1	0
+482	O96252	Q8IC05	0.9994425415992736	ATP synthase subunit alpha	Heat shock protein 90	[2, 18, 24]	[10]	0	0	0	1	0	1	1	1	1	1
+483	Q8I261	Q8IJT1	0.6912136256694794	Proteasome subunit beta	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	0	1	1	1	1	1
+484	C6KST3	Q8IAR3	0.973967719078064	Proteasome subunit alpha type-2, putative	Proteasome subunit alpha type-6, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+485	Q8I395	Q8IKC8	0.523157948255539	High molecular weight rhoptry protein 3	Exported protein 2	[7]	[7]	0	0	0	0	0	0	0	0	0	0
+486	Q8IC05	Q8IKF0	0.7893906235694885	Heat shock protein 90	RNA helicase	[10]	[0, 2, 10, 18, 24]	0	0	0	0	0	0	0	0	1	0
+487	Q8I0V2	Q8IJW0	0.878401517868042	ATP synthase subunit beta	26S protease regulatory subunit 4, putative	[0, 2, 14, 18, 24]	[2, 18]	1	0	0	0	0	0	0	0	0	0
+488	Q8II61	Q8IM55	0.83238505423069	60S acidic ribosomal protein P0	Serine/threonine protein phosphatase CPPED1, putative	[3, 20, 21]	[3, 20]	0	0	0	0	0	0	0	0	0	0
+489	Q8I490	Q8IFM0	0.7676094591617584	EMP1-trafficking protein	Plasmodium RESA N-terminal domain-containing protein	[12, 15]	[15]	0	0	0	0	0	0	0	0	0	0
+490	Q8I5H4	Q8IBV7	0.5642642557621003	Polyadenylate-binding protein	Histone H2B	[0, 14, 18, 24, 27, 30]	[0, 14, 27, 30]	0	0	0	0	0	0	0	0	0	0
+491	Q8I0P6	Q8I289	0.9241816163063048	Elongation factor 1-alpha	Heptatricopeptide repeat and RAP domain-containing protein, putative	[0, 2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+492	O96252	Q8IKR1	0.8460212588310242	ATP synthase subunit alpha	H(+)-exporting diphosphatase	[2, 18, 24]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+493	Q8IET7	Q8IIV8	0.9587987422943116	40S ribosomal protein S7	Thioredoxin-like mero protein	[0, 2, 18]	[2]	0	0	0	0	0	0	0	0	0	0
+494	A0A143ZX41	Q7KWJ2	0.9468098640441894	Merozoite surface protein 2	Merozoite surface protein 4	[32]	[32]	0	0	0	0	0	0	0	0	0	0
+495	C0H4V6	Q76NN6	0.5402900248765945	14-3-3 protein I	Ran-specific GTPase-activating protein 1, putative	[10, 20]	[3, 20, 21]	0	0	0	0	0	0	0	0	1	1
+496	K7NTP5	Q8I2W2	0.6490318536758423	Heat shock 70 kDa protein	DnaJ protein, putative	[0, 2, 14, 18, 24]	[5]	1	0	0	1	0	0	0	0	0	0
+497	A0A5K1K7U1	Q7K6A9	0.5659467220306397	Proteasome subunit beta	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+498	Q8I0P6	Q8IEC8	0.974586308002472	Elongation factor 1-alpha	Translocation protein SEC63, putative	[0, 2, 18]	[2, 5]	0	0	0	0	0	0	0	0	0	0
+499	O96153	Q8IJW0	0.9407370686531068	26S proteasome regulatory subunit RPN1, putative	26S protease regulatory subunit 4, putative	[2, 18]	[2, 18]	1	1	1	1	1	1	1	1	1	1
+500	Q76NN6	Q8ILB6	0.5730460345745086	Ran-specific GTPase-activating protein 1, putative	Mitochondrial acidic protein MAM33, putative	[3, 20, 21]	[3, 9, 20, 21]	0	0	0	0	0	0	0	0	0	0
+501	Q8I484	Q8ILZ1	0.9897249460220336	Rhoptry-associated protein 2	Rhoptry-associated protein 1	[7]	[7]	1	0	0	0	0	0	0	0	0	0
+502	Q8IB24	Q8IIV2	0.591015137732029	Heat shock 70 kDa protein	Histone H4	[0, 10, 14, 24]	[0, 14, 27, 30]	0	0	0	0	1	1	1	0	1	1
+503	Q8IK89	Q8IKF0	0.999826681613922	Trailer hitch homolog, putative	RNA helicase	[0, 10, 14, 18, 24]	[0, 2, 10, 18, 24]	1	0	0	1	1	1	1	1	1	1
+504	Q8IDG3	Q8IJN9	0.6693640619516372	Proteasome subunit alpha type	Heat shock protein 60	[1, 6]	[1, 6, 16]	0	0	0	0	0	0	0	0	0	0
+505	C6KSV0	Q8IC05	0.9840363025665284	Histone H3	Heat shock protein 90	[0, 14, 27, 30]	[10]	0	0	0	0	0	0	0	0	0	0
+506	O97285	Q8I5H4	0.9465721607208252	ATP-dependent RNA helicase DDX6	Polyadenylate-binding protein	[0, 2, 18, 24]	[0, 14, 18, 24, 27, 30]	1	1	0	1	1	1	1	1	1	1
+507	Q8IEC8	Q8ILV6	0.7441980123519898	Translocation protein SEC63, putative	DnaJ protein, putative	[2, 5]	[5]	1	0	0	0	0	0	0	0	0	0
+508	O77396	Q8I2X4	0.7662417173385621	Proteasome subunit alpha type-3, putative	Heat shock protein 70	[1, 6]	[1, 6, 16, 28]	0	0	0	0	0	0	0	0	0	0
+509	Q8IIV2	Q8IJX3	0.605424887733534	Histone H4	Single-strand telomeric DNA-binding protein GBP2, putative	[0, 14, 27, 30]	[14, 27, 30]	1	0	0	0	0	0	0	0	0	0
+510	Q6ZMA8	Q76NM6	0.6780212163925171	Vacuolar proton pump subunit B	V-type proton ATPase catalytic subunit A	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+511	Q8I0X1	Q8IEJ6	0.7560477077960968	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)	2-oxoisovalerate dehydrogenase subunit alpha	[9, 21]	[9]	1	1	1	1	1	1	1	1	0	1
+512	Q8I261	Q8IAR3	0.6909383496269583	Proteasome subunit beta	Proteasome subunit alpha type-6, putative	[1, 6]	[1, 6]	1	1	1	1	0	1	1	1	1	1
+513	C6KST3	Q8IBI3	0.98386549949646	Proteasome subunit alpha type-2, putative	Proteasome subunit alpha type	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+514	Q76NM3	Q8IKK7	0.9246500968933106	L-lactate dehydrogenase	Glyceraldehyde-3-phosphate dehydrogenase	[2]	[2]	1	0	0	1	1	1	0	1	0	1
+515	O77312	Q8I3M5	0.5821890071034431	Exportin-1, putative	Karyopherin beta	[19]	[19]	0	0	0	0	1	0	1	0	1	1
+516	C6KSV0	Q8IJX3	0.8390521883964539	Histone H3	Single-strand telomeric DNA-binding protein GBP2, putative	[0, 14, 27, 30]	[14, 27, 30]	1	0	0	0	0	0	0	0	0	0
+517	Q76NM6	Q7K6A9	0.5701248660683632	V-type proton ATPase catalytic subunit A	Proteasome subunit beta	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+518	Q8I608	Q8IIV1	0.6024049066007138	Nucleosome assembly protein	Histone H2B	[3, 14, 20, 21]	[0, 14, 27, 30]	0	0	1	1	1	1	1	0	1	1
+519	O97227	Q8IEJ6	0.7281350582838059	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex	2-oxoisovalerate dehydrogenase subunit alpha	[6, 9, 16, 28]	[9]	0	1	1	1	1	1	1	1	0	1
+520	C6KT34	Q8IDG3	0.5098424319177866	Cell division cycle protein 48 homologue, putative	Proteasome subunit alpha type	[1, 6]	[1, 6]	0	0	0	1	1	1	1	1	1	1
+521	O96252	Q8IKF0	0.7778268976137042	ATP synthase subunit alpha	RNA helicase	[2, 18, 24]	[0, 2, 10, 18, 24]	1	0	0	1	1	0	0	1	1	0
+522	Q6ZMA8	Q8IE84	0.748190176486969	Vacuolar proton pump subunit B	V-type proton ATPase subunit G, putative	[1, 6]	[1]	1	1	1	1	1	1	1	1	1	1
+523	K7NTP5	Q8IJX8	0.7987085238099099	Heat shock 70 kDa protein	Endonuclease ALBA3	[0, 2, 14, 18, 24]	[14]	0	0	0	0	0	0	0	0	0	0
+524	Q8I0P6	Q8IIJ8	0.5071525335311889	Elongation factor 1-alpha	Heat shock protein 101	[0, 2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+525	A0A5K1K8H7	Q8I3W9	0.8266167223453522	Ras-related protein Rab-1B	Ras-related protein Rab-1A	[17]	[17]	1	0	0	0	0	0	0	0	0	0
+526	Q7K6A9	Q8I0U7	0.7997030317783356	Proteasome subunit beta	Proteasome subunit beta type-6, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	0	1
+527	Q8I261	Q8IBI3	0.6439750790596008	Proteasome subunit beta	Proteasome subunit alpha type	[1, 6]	[1, 6]	1	1	1	1	0	1	1	1	1	1
+528	Q8I0P6	Q8IBV7	0.9754770874977112	Elongation factor 1-alpha	Histone H2B	[0, 2, 18]	[0, 14, 27, 30]	0	0	0	0	0	0	0	0	0	0
+529	A0A143ZY58	C0H4V6	0.9999318838119506	ADP-ribosylation factor 1	14-3-3 protein I	[2]	[10, 20]	0	0	0	0	1	1	1	1	1	1
+530	O97247	Q8IKK7	0.5011678069829941	CCT-beta	Glyceraldehyde-3-phosphate dehydrogenase	[2, 18]	[2]	0	0	0	0	0	0	0	0	1	1
+531	Q7K6A9	Q8II43	0.9745667576789856	Proteasome subunit beta	T-complex protein 1 subunit alpha	[1, 6]	[1, 6]	0	0	0	0	0	0	0	0	0	0
+532	O96252	Q8I0V2	0.9160072684288024	ATP synthase subunit alpha	ATP synthase subunit beta	[2, 18, 24]	[0, 2, 14, 18, 24]	1	1	1	1	1	1	1	1	1	1
+533	Q8IB24	Q8II73	0.6030457571148873	Heat shock 70 kDa protein	Spermidine synthase	[0, 10, 14, 24]		0	0	0	0	0	0	0	0	0	0
+534	O97285	Q8IK89	0.9430780172348022	ATP-dependent RNA helicase DDX6	Trailer hitch homolog, putative	[0, 2, 18, 24]	[0, 10, 14, 18, 24]	1	1	1	1	1	1	1	1	1	1
+535	K7NTP5	Q76NM3	0.790561419725418	Heat shock 70 kDa protein	L-lactate dehydrogenase	[0, 2, 14, 18, 24]	[2]	0	0	0	0	0	0	0	0	0	0
+536	Q76NM6	Q8IJN9	0.998046827316284	V-type proton ATPase catalytic subunit A	Heat shock protein 60	[1, 6]	[1, 6, 16]	0	0	0	0	0	0	0	0	0	0
+537	Q8I1V1	Q8I289	0.5119504325091839	26S protease regulatory subunit 6B, putative	Heptatricopeptide repeat and RAP domain-containing protein, putative	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+538	Q8IB03	Q8ILA1	0.6095045996829868	Chaperone protein ClpB1	Translocon component PTEX150	[2, 18]	[2]	0	1	0	0	0	1	0	0	0	0
+539	Q8I5B6	Q8II61	0.8039928674697876	ATP-dependent protease subunit ClpQ	60S acidic ribosomal protein P0	[3]	[3, 20, 21]	0	0	0	0	0	0	0	0	0	0
+540	K7NTP5	Q8IET7	0.5077332239598036	Heat shock 70 kDa protein	40S ribosomal protein S7	[0, 2, 14, 18, 24]	[0, 2, 18]	0	1	1	1	0	0	0	0	0	0
+541	Q8IDG3	Q8IK90	0.6075443148612976	Proteasome subunit alpha type	Proteasome subunit alpha type-1, putative	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	0
+542	O97247	Q8IKR1	0.5428372003138066	CCT-beta	H(+)-exporting diphosphatase	[2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+543	Q8I1V1	Q8IIJ8	0.7548639476299286	26S protease regulatory subunit 6B, putative	Heat shock protein 101	[2, 18]	[2, 18]	1	0	0	0	0	0	0	0	0	0
+544	Q8I0V2	Q8IET7	0.6450066678225994	ATP synthase subunit beta	40S ribosomal protein S7	[0, 2, 14, 18, 24]	[0, 2, 18]	0	0	0	0	0	0	0	0	0	0
+545	C6KT34	Q8IJT1	0.9182290196418762	Cell division cycle protein 48 homologue, putative	Proteasome subunit beta	[1, 6]	[1, 6]	0	0	0	0	1	1	1	1	1	1
+546	Q8I0P6	Q8IB03	0.5226507939398288	Elongation factor 1-alpha	Chaperone protein ClpB1	[0, 2, 18]	[2, 18]	0	0	0	0	0	0	0	0	0	0
+547	C0H4V6	Q8ILB6	0.526628191024065	14-3-3 protein I	Mitochondrial acidic protein MAM33, putative	[10, 20]	[3, 9, 20, 21]	0	1	0	0	0	0	0	0	0	0
+548	C6KSV0	Q8I0V2	0.6614312350749969	Histone H3	ATP synthase subunit beta	[0, 14, 27, 30]	[0, 2, 14, 18, 24]	0	1	1	1	1	1	1	1	1	1
+549	Q8I2J3	Q8II24	0.5341838210821152	Aspartyl aminopeptidase	Heat shock protein 70	[16, 28]	[4, 10, 16]	0	0	0	0	0	0	0	0	0	0
+550	Q7KQL9	Q8II61	0.5620351552963256	Fructose-bisphosphate aldolase	60S acidic ribosomal protein P0	[8]	[3, 20, 21]	0	0	0	0	0	0	0	0	1	1
+551	Q8I0V4	Q8IC05	0.6765065610408783	Endoplasmin, putative	Heat shock protein 90	[10]	[10]	1	0	0	1	0	0	0	0	0	0
+552	O77396	Q7K6A9	0.9331219077110292	Proteasome subunit alpha type-3, putative	Proteasome subunit beta	[1, 6]	[1, 6]	1	1	1	1	1	1	1	1	1	1
+553	C6KSV0	Q8IIV2	0.719885277748108	Histone H3	Histone H4	[0, 14, 27, 30]	[0, 14, 27, 30]	1	1	1	1	1	1	1	0	1	1
+554	A0A143ZY58	K7NTP5	0.6038088619709014	ADP-ribosylation factor 1	Heat shock 70 kDa protein	[2]	[0, 2, 14, 18, 24]	0	0	0	0	0	0	0	0	0	0
+555	Q8IC01	Q8IJN9	0.9996663570404052	Heat shock protein 110	Heat shock protein 60	[1, 6, 16, 28]	[1, 6, 16]	1	0	0	1	1	1	1	1	1	1
