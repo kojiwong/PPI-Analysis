@@ -1,0 +1,34 @@
+"Table S5. Related to Figure 2. Pairwise interactions in the Plasmodium protein interaction network. The table includes scores for all the features used in the random forest classifier, in addition to other useful information, such as annotation in interaction databases for human, mouse, worm and fly orthologs, and whether the interaction pair has biochemical evidence (blue native fractionation) from only one Plasmodium species. This table can be used to import the protein interaction pairs together with attributes of the interaction (edge attributes) into network visualisation programs."														
+source	Accession number (PlasmoDB) of Node 1 of the interaction pair													
+sourceDescription	Description (PlasmoDB) of Node 1 of the interaction pair													
+target	Accession number (PlasmoDB) of Node 2 of the interaction pair													
+targetDescription	Description (PlasmoDB) of Node 2 of the interaction pair													
+RFscore	Random Forest classifier score													
+STRING	"1, interaction found in STRING database (minimum interaction score 0.4, interaction evidence source: Experiments); NA, not found."													
+REACTOME	"1, interaction found in REACTOME; NA, not found."													
+PbONE	"Average Pearson correlation score between replicates, Plasmodium berghei, 1% NP40"													
+PbPOINT	"Average Pearson correlation score between replicates, Plasmodium berghei, 0.1% NP40"													
+PbZERO	"Average Pearson correlation score between replicates, Plasmodium berghei, 0% NP40"													
+PfONE	"Average Pearson correlation score between replicates, Plasmodium falciparum, 1% NP40"													
+PfPOINT	"Average Pearson correlation score between replicates, Plasmodium falciparum, 0.1% NP40"													
+PfZERO	"Average Pearson correlation score between replicates, Plasmodium falciparum, 0% NP40"													
+PkONE	"Average Pearson correlation score between replicates, Plasmodium knowlesi 1% NP40"													
+PkPOINT	"Average Pearson correlation score between replicates, Plasmodium knowlesi 0.1% NP40"													
+PkZERO	"Average Pearson correlation score between replicates, Plasmodium knowlesi 0% NP40"													
+X.times.seen	Number of times the protein pair was detected with minimum Pearson correlation score of 0.4 across all datasets													
+Knockout	"Expression correlation (Pearson) score calculated from Modrzynska et al., 2017"													
+ContextMirror	"Co-evolution score from Context Mirror (Juan et al., 2008)"													
+Cyclic	"Expression correlation (Pearson) score calculated from Bozdech et al., 2003"													
+Domains	Highest DOMINE score associated with domain interactions between two proteins													
+Drug	"Expression correlation (Pearson) score calculated from Hu et al., 2010"													
+pMirrorTree	"Co-evolution score from pMirror-Tree (Ochoa et al., 2015)"													
+Phn	"Growth phenotype score: 1, both proteins have the same growth phenotype (essential, slow or dispensable; Bushell et al., 2017); NA, differing growth phenotype"													
+Shared.max.peaks	Number of times a pair of proteins showed maximum intensity in the same gel fraction													
+Pbonly	Y: Interaction only detected in Plasmodium berghei datasets													
+Pfonly	Y: Interaction only detected in Plasmodium falciparum datasets													
+Pkonly	Y: Interaction only detected in Plasmodium knowlesi datasets													
+map	Orthology group													
+worm	Y: Interaction annotated in STRING database for worm (Caenorhabditis elegans) orthologs													
+yeast	Y: Interaction annotated in STRING database for yeast (Saccharomyces cerevisiae) orthologs													
+human	Y: Interaction annotated in STRING database for human (Homo sapiens) orthologs													
+fly	Y: Interaction annotated in STRING database for fly (Drosophila melanogaster) orthologs													
